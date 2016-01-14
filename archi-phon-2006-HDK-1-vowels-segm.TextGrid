@@ -4461,7 +4461,7 @@ item []:
         intervals [188]:
             xmin = 271.347 
             xmax = 272.326 
-            text = "ə́s#póː-nis" 
+            text = "əspóː-nis" 
         intervals [189]:
             xmin = 272.326 
             xmax = 273.082 
@@ -7615,7 +7615,7 @@ item []:
         intervals [488]:
             xmin = 271.3778467654379 
             xmax = 271.4557526492887 
-            text = "ə́" 
+            text = "ə" 
         intervals [489]:
             xmin = 271.4557526492887 
             xmax = 271.58397274979325 
