@@ -1,3 +1,4 @@
+#v3.2 variable speed setting
 #v3.1 minimizing internal variation (during one token) instead of external (between tokens)
 #v3.0 another formula for variation; add status column
 #v2.7 fixed error in calculations with F3; fixed error if 1 token; sound filename saved in table;
@@ -20,7 +21,7 @@ form Specify the following parameters
 	real right_Time_range 0.0
 	natural Vowel_tier 2
 	natural Word_tier 1
-	sentence Vowel_list_(with_spaces) i e a o u ə ɪ ɐ
+	sentence Vowel_list_(with_spaces) i e a o u ə ɤ
 	optionmenu Search_criteria: 3
 		option is equal to
 		option is not equal to
@@ -29,6 +30,7 @@ form Specify the following parameters
 		option contains
 		option does not contain
 		option matches (regex)
+	integer Optimization_steps 20 (=20: slow, 6: fast, 0: median values)
 	boolean Draw_pictures_(for_each_token:_SLOW) no
 	boolean Overwrite_file yes
 endform
@@ -165,7 +167,11 @@ for i to numphones
 
 	select s
 	ph = Extract part: times[1], times[2], "rectangular", 1, "yes"
-	@getformantsint: mid_ceiling, draw_pictures
+	if optimization_steps > 0
+		@getformantsint: mid_ceiling, draw_pictures, optimization_steps
+	else
+		@getformantsmedian: mid_ceiling, draw_pictures
+	endif
 	 #extract sound with +25ms margins and calculate formant values
 	select ph
 	Remove
@@ -213,7 +219,7 @@ endproc
 ########### GET FORMANT VALUES ##############
 
 #optimize formant measurements by internal variation during central part of the vowel
-procedure getformantsint .mid_ceiling .draw
+procedure getformantsint .mid_ceiling .draw .steps
   if .draw
 	Erase all
 	Black
@@ -224,11 +230,11 @@ procedure getformantsint .mid_ceiling .draw
   t1 = times[3]+0.3*tdur
   t2 = times[4]-0.3*tdur
    #cutting first and last 30% of the vowel
-  nsteps = 20
+  nsteps = .steps
   tstep = 0.4*tdur/nsteps
    #analyzing central 40% of the vowel
-  fstep = 20
-  fsteps = halfrange*2/fstep
+  fsteps = .steps*3
+  fstep = halfrange*2/fsteps
    #how many steps to cover the full range
   result_ceiling = 0
   min = 1000000000000 
@@ -304,12 +310,12 @@ for j from 0 to fsteps
    
    if vf1 + vf2 + vf3 < min 
     #If variance is less than previous minimum...
-      result_f1 = Get quantile: 1, 0, 0, "Hertz", 0.5
-      result_f2 = Get quantile: 2, 0, 0, "Hertz", 0.5
-      result_f3 = Get quantile: 3, 0, 0, "Hertz", 0.5
-      result_f1b = Get quantile: 1, 0, 0, "Bark", 0.5
-      result_f2b = Get quantile: 2, 0, 0, "Bark", 0.5
-      result_f3b = Get quantile: 3, 0, 0, "Bark", 0.5
+      result_f1 = Get quantile: 1, t1, t2, "Hertz", 0.5
+      result_f2 = Get quantile: 2, t1, t2, "Hertz", 0.5
+      result_f3 = Get quantile: 3, t1, t2, "Hertz", 0.5
+      result_f1b = Get quantile: 1, t1, t2, "Bark", 0.5
+      result_f2b = Get quantile: 2, t1, t2, "Bark", 0.5
+      result_f3b = Get quantile: 3, t1, t2, "Bark", 0.5
        #...keep median formant values
       min = vf1 + vf2 + vf3
       result_ceiling = ceiling 
@@ -342,7 +348,61 @@ endfor
 	...fixed$(result_f1b,2),tab$, fixed$(result_f2b,2),tab$, fixed$(result_f3b,2),tab$, 
 	...fixed$(times[3],3),tab$, word$,tab$, s$,tab$, "Auto"
    if .draw
-	writeInfoLine: "Phone: ",phone$,"  Ceiling: ",result_ceiling,"  Median:  ", fixed$(result_f1,0)," ", fixed$(result_f2,0)," ", fixed$(result_f3,0),"  Var: ",fixed$(min,3)
+	writeInfoLine: "Phone: ",phone$,"  Word: ",word$,"  Ceiling: ",result_ceiling,"  Median:  ", fixed$(result_f1,0)," ", fixed$(result_f2,0)," ", fixed$(result_f3,0),"  Var: ",fixed$(min,3)
+	pauseScript: "Next vowel?"
+   endif
+endproc
+
+
+########### GET MEDIAN FORMANT VALUES ##############
+
+#no optimization: just get median formant values during central part of the vowel
+procedure getformantsmedian .mid_ceiling .draw
+  if .draw
+	Erase all
+	Black
+	Line width: 1
+	writeInfoLine: ""
+  endif
+
+  t1 = times[3]+0.3*tdur
+  t2 = times[4]-0.3*tdur
+   #cutting first and last 30% of the vowel
+
+   ceiling = .mid_ceiling
+
+   select ph
+   formant = noprogress To Formant (burg): 0.0, 5, ceiling, 0.025, 50
+
+   result_f1 = Get quantile: 1, t1, t2, "Hertz", 0.5
+   result_f2 = Get quantile: 2, t1, t2, "Hertz", 0.5
+   result_f3 = Get quantile: 3, t1, t2, "Hertz", 0.5
+   result_f1b = Get quantile: 1, t1, t2, "Bark", 0.5
+   result_f2b = Get quantile: 2, t1, t2, "Bark", 0.5
+   result_f3b = Get quantile: 3, t1, t2, "Bark", 0.5
+    #...keep median formant values
+
+   select formant
+   if .draw
+      Blue
+      Line width: 23
+      Draw tracks: times[3], times[4], ceiling+500, "yes"
+      One mark right: result_f1, "yes", "yes", "yes", ""
+      One mark right: result_f2, "yes", "yes", "yes", ""
+      One mark right: result_f3, "yes", "yes", "yes", ""
+
+      Text top: "yes", "Ceiling "+string$(ceiling)
+   endif
+   Remove
+    #Remove formants
+
+   appendFileLine: outfilename$, speaker$,tab$, phone$,tab$, vowel$,tab$, 
+	...fixed$(tdur,3),tab$, ceiling,tab$, "---",tab$,
+	...fixed$(result_f1,0),tab$, fixed$(result_f2,0),tab$, fixed$(result_f3,0),tab$,
+	...fixed$(result_f1b,2),tab$, fixed$(result_f2b,2),tab$, fixed$(result_f3b,2),tab$, 
+	...fixed$(times[3],3),tab$, word$,tab$, s$,tab$, "Auto"
+   if .draw
+	writeInfoLine: "Phone: ",phone$,"  Word: ",word$,"  Ceiling: ",ceiling,"  Median:  ", fixed$(result_f1,0)," ", fixed$(result_f2,0)," ", fixed$(result_f3,0)
 	pauseScript: "Next vowel?"
    endif
 endproc
