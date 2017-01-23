@@ -1,0 +1,17 @@
+speaker	phone	vowel	duration	ceiling	variance	F1	F2	F3	F1Bk	F2Bk	F3Bk	start	word	filename	status
+PSX	í	i	0.090	6560	0.013	418	2701	3492	4.24	14.92	16.68	7.075	ímʦʼ	archi-phon-2006-PSX-1-vowels	Auto
+PSX	í	i	0.111	6320	0.014	409	2632	3321	4.16	14.75	16.34	8.305	ímʦʼ	archi-phon-2006-PSX-1-vowels	Auto
+PSX	í	i	0.124	6740	0.017	426	2660	3443	4.31	14.82	16.58	10.361	ʧʼʲín	archi-phon-2006-PSX-1-vowels	Auto
+PSX	í	i	0.119	6780	0.012	396	2663	3445	4.04	14.83	16.59	11.695	ʧʼʲín	archi-phon-2006-PSX-1-vowels	Auto
+PSX	i	i	0.091	5900	0.015	407	2623	2976	4.14	14.72	15.58	13.478	kɬʼʲilʲí	archi-phon-2006-PSX-1-vowels	Auto
+PSX	í	i	0.179	7020	0.167	419	2660	3455	4.25	14.82	16.61	13.657	kɬʼʲilʲí	archi-phon-2006-PSX-1-vowels	Auto
+PSX	i	i	0.085	6900	0.016	424	2681	3382	4.30	14.87	16.46	14.469	kɬʼʲilʲí	archi-phon-2006-PSX-1-vowels	Auto
+PSX	í	i	0.146	6280	0.037	391	2668	3236	4.00	14.84	16.16	14.625	kɬʼʲilʲí	archi-phon-2006-PSX-1-vowels	Auto
+PSX	ú	u	0.166	5850	0.310	451	833	2894	4.53	7.47	15.39	20.730		archi-phon-2006-PSX-1-vowels	Auto
+PSX	i	i	0.183	6560	0.049	377	2841	3448	3.86	15.27	16.59	21.124	úrkːʲi	archi-phon-2006-PSX-1-vowels	Auto
+PSX	ú	u	0.116	5010	0.114	451	1037	2627	4.54	8.72	14.73	21.648	ʔúrkːʲi	archi-phon-2006-PSX-1-vowels	Auto
+PSX	i	i	0.101	6800	0.018	362	2907	3635	3.72	15.42	16.96	21.986	ʔúrkːʲi	archi-phon-2006-PSX-1-vowels	Auto
+PSX	iˤ	i	0.100	6020	0.045	507	2416	3082	5.02	14.16	15.82	24.750	hˤiˤmˤpʼˤíˤ	archi-phon-2006-PSX-1-vowels	Auto
+PSX	íˤ	i	0.212	5440	0.201	400	2859	3460	4.07	15.31	16.62	25.030	hˤiˤmˤpʼˤíˤ	archi-phon-2006-PSX-1-vowels	Auto
+PSX	iˤ	i	0.100	5520	0.100	444	2567	3432	4.47	14.58	16.56	25.730	hˤiˤmˤpˤíˤ	archi-phon-2006-PSX-1-vowels	Auto
+PSX	íˤ	i	0.201	5400	0.176	423	2681	3426	4.28	14.87	16.55	25.986	hˤiˤmˤpˤíˤ	archi-phon-2006-PSX-1-vowels	Auto

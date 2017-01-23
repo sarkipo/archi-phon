@@ -1,0 +1,21 @@
+spk-notes
+
+HDK
+-F3: a,u (у прочих eq, у o м.б. даже немного выше)
+-F2: i,e
++F1: u
+
+JSP
+F1xF2 int=ext
+i,e,u: centralized (F2><)
+e,o,u: lowered (F1+)
+a,o,u: F3-
+i,e: F3 stable; i[-phar] - group with extra high F3 (?)
+
+PSX
+i,e,o,u: centralized (F2><)
+e,o,(?u): lowered (F1+)
+all: F3-
+
+
+
