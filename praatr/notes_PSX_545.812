@@ -1,0 +1,5 @@
+method	F1	F2	F3	notes
+meanF	352	1720	3110	select.812-.859,"F1"/"F2"/"F3" button
+cep_sm	317	1642	3202	select.812-.859,Ctrl+L,cepstral_smoothing_500Hz
+LPC_sm	354	1689	3196	select.812-.859,Ctrl+L,LPC_22df
+spec	339	1612	3225	select.836,Ctrl+L

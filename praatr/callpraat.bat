@@ -1,0 +1,1 @@
+sendpraat.exe praat "runScript: \"D:/R-course/praatr/scr-ExtractVowel.praat\", 461.33, \"archi-sample\""
