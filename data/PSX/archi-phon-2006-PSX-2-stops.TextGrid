@@ -8,7 +8,1237 @@ size = 8
 item []: 
     item [1]:
         class = "IntervalTier" 
-        name = "Phonetic-acc-ns" 
+        name = "Token-Phonemic" 
+        xmin = 0 
+        xmax = 1046.52 
+        intervals: size = 306 
+        intervals [1]:
+            xmin = 0 
+            xmax = 10.246593920099132 
+            text = "" 
+        intervals [2]:
+            xmin = 10.246593920099132 
+            xmax = 10.988009283339327 
+            text = "bós" 
+        intervals [3]:
+            xmin = 10.988009283339327 
+            xmax = 11.33232573549921 
+            text = "" 
+        intervals [4]:
+            xmin = 11.33232573549921 
+            xmax = 12.052723029299866 
+            text = "bós" 
+        intervals [5]:
+            xmin = 12.052723029299866 
+            xmax = 12.851043920324706 
+            text = "" 
+        intervals [6]:
+            xmin = 12.851043920324706 
+            xmax = 26.27 
+            text = "" 
+        intervals [7]:
+            xmin = 26.27 
+            xmax = 26.702788536685755 
+            text = "ʒíbəla" 
+        intervals [8]:
+            xmin = 26.702788536685755 
+            xmax = 46.682494887751204 
+            text = "" 
+        intervals [9]:
+            xmin = 46.682494887751204 
+            xmax = 47.263 
+            text = "sːób" 
+        intervals [10]:
+            xmin = 47.263 
+            xmax = 47.85895638131843 
+            text = "" 
+        intervals [11]:
+            xmin = 47.85895638131843 
+            xmax = 48.42527839784427 
+            text = "sːób" 
+        intervals [12]:
+            xmin = 48.42527839784427 
+            xmax = 50.592558130702194 
+            text = "" 
+        intervals [13]:
+            xmin = 50.592558130702194 
+            xmax = 51.42 
+            text = "nábq" 
+        intervals [14]:
+            xmin = 51.42 
+            xmax = 51.794683639577165 
+            text = "" 
+        intervals [15]:
+            xmin = 51.794683639577165 
+            xmax = 52.463 
+            text = "nábq" 
+        intervals [16]:
+            xmin = 52.463 
+            xmax = 55.60129776361496 
+            text = "" 
+        intervals [17]:
+            xmin = 55.60129776361496 
+            xmax = 57.02 
+            text = "nibqín#nókɬʼ" 
+        intervals [18]:
+            xmin = 57.02 
+            xmax = 57.30951411018287 
+            text = "" 
+        intervals [19]:
+            xmin = 57.30951411018287 
+            xmax = 58.65538153475153 
+            text = "nibqín#nókɬʼ" 
+        intervals [20]:
+            xmin = 58.65538153475153 
+            xmax = 65.44299894777443 
+            text = "" 
+        intervals [21]:
+            xmin = 65.44299894777443 
+            xmax = 66.49968319397274 
+            text = "ʔáχbəzan" 
+        intervals [22]:
+            xmin = 66.49968319397274 
+            xmax = 66.7856450603735 
+            text = "" 
+        intervals [23]:
+            xmin = 66.7856450603735 
+            xmax = 67.614 
+            text = "ʔáχbəzan" 
+        intervals [24]:
+            xmin = 67.614 
+            xmax = 69.446791929255 
+            text = "" 
+        intervals [25]:
+            xmin = 69.446791929255 
+            xmax = 70.385 
+            text = "báˤri" 
+        intervals [26]:
+            xmin = 70.385 
+            xmax = 70.4982616749609 
+            text = "" 
+        intervals [27]:
+            xmin = 70.4982616749609 
+            xmax = 71.257 
+            text = "báˤri" 
+        intervals [28]:
+            xmin = 71.257 
+            xmax = 73.63313516241496 
+            text = "" 
+        intervals [29]:
+            xmin = 73.63313516241496 
+            xmax = 74.76729057194548 
+            text = "líbχˤkʰʷès" 
+        intervals [30]:
+            xmin = 74.76729057194548 
+            xmax = 75.1892393854438 
+            text = "" 
+        intervals [31]:
+            xmin = 75.1892393854438 
+            xmax = 76.14332746692091 
+            text = "líbχˤkʰʷès" 
+        intervals [32]:
+            xmin = 76.14332746692091 
+            xmax = 76.86392558913916 
+            text = "" 
+        intervals [33]:
+            xmin = 76.86392558913916 
+            xmax = 78.085 
+            text = "líbχˤkʰès" 
+        intervals [34]:
+            xmin = 78.085 
+            xmax = 78.32370675168977 
+            text = "" 
+        intervals [35]:
+            xmin = 78.32370675168977 
+            xmax = 79.285 
+            text = "líbχˤkʰès" 
+        intervals [36]:
+            xmin = 79.285 
+            xmax = 79.90828605184433 
+            text = "" 
+        intervals [37]:
+            xmin = 79.90828605184433 
+            xmax = 81.20475262650201 
+            text = "líbχˤdekʰès" 
+        intervals [38]:
+            xmin = 81.20475262650201 
+            xmax = 81.54562871661987 
+            text = "" 
+        intervals [39]:
+            xmin = 81.54562871661987 
+            xmax = 82.53305384034172 
+            text = "líbχˤdekʰès" 
+        intervals [40]:
+            xmin = 82.53305384034172 
+            xmax = 86.73362297652525 
+            text = "" 
+        intervals [41]:
+            xmin = 86.73362297652525 
+            xmax = 87.814 
+            text = "gerbéʦ" 
+        intervals [42]:
+            xmin = 87.814 
+            xmax = 88.39281122033304 
+            text = "" 
+        intervals [43]:
+            xmin = 88.39281122033304 
+            xmax = 89.3 
+            text = "gerbéʦ" 
+        intervals [44]:
+            xmin = 89.3 
+            xmax = 97.96803394427202 
+            text = "" 
+        intervals [45]:
+            xmin = 97.96803394427202 
+            xmax = 98.53000876559763 
+            text = "pʰánqʼ" 
+        intervals [46]:
+            xmin = 98.53000876559763 
+            xmax = 112.571 
+            text = "" 
+        intervals [47]:
+            xmin = 112.571 
+            xmax = 113.166 
+            text = "pʰártːuqʼ" 
+        intervals [48]:
+            xmin = 113.166 
+            xmax = 138.55180415507456 
+            text = "" 
+        intervals [49]:
+            xmin = 138.55180415507456 
+            xmax = 138.93752512972048 
+            text = "kʰupʰár" 
+        intervals [50]:
+            xmin = 138.93752512972048 
+            xmax = 138.946 
+            text = "" 
+        intervals [51]:
+            xmin = 138.946 
+            xmax = 139.33482333492262 
+            text = "kʰupʰár" 
+        intervals [52]:
+            xmin = 139.33482333492262 
+            xmax = 139.343 
+            text = "" 
+        intervals [53]:
+            xmin = 139.343 
+            xmax = 139.745 
+            text = "kʰupʰár" 
+        intervals [54]:
+            xmin = 139.745 
+            xmax = 177.486 
+            text = "" 
+        intervals [55]:
+            xmin = 177.486 
+            xmax = 177.968 
+            text = "qípʰ" 
+        intervals [56]:
+            xmin = 177.968 
+            xmax = 178.433 
+            text = "" 
+        intervals [57]:
+            xmin = 178.433 
+            xmax = 178.915 
+            text = "qípʰ" 
+        intervals [58]:
+            xmin = 178.915 
+            xmax = 188.296 
+            text = "" 
+        intervals [59]:
+            xmin = 188.296 
+            xmax = 189.156 
+            text = "pʰáˤrtʼi" 
+        intervals [60]:
+            xmin = 189.156 
+            xmax = 189.324079710836 
+            text = "" 
+        intervals [61]:
+            xmin = 189.324079710836 
+            xmax = 190.056 
+            text = "pʰáˤrtʼi" 
+        intervals [62]:
+            xmin = 190.056 
+            xmax = 201.156 
+            text = "" 
+        intervals [63]:
+            xmin = 201.156 
+            xmax = 202.076 
+            text = "kʼəpʰéˤl" 
+        intervals [64]:
+            xmin = 202.076 
+            xmax = 202.44961256849342 
+            text = "" 
+        intervals [65]:
+            xmin = 202.44961256849342 
+            xmax = 203.116 
+            text = "kʼəpʰéˤl" 
+        intervals [66]:
+            xmin = 203.116 
+            xmax = 203.73329775200972 
+            text = "" 
+        intervals [67]:
+            xmin = 203.73329775200972 
+            xmax = 204.516 
+            text = "kʼəpʰéˤl" 
+        intervals [68]:
+            xmin = 204.516 
+            xmax = 204.73812749056526 
+            text = "" 
+        intervals [69]:
+            xmin = 204.73812749056526 
+            xmax = 205.476 
+            text = "kʼəpʰéˤl" 
+        intervals [70]:
+            xmin = 205.476 
+            xmax = 207.896 
+            text = "" 
+        intervals [71]:
+            xmin = 207.896 
+            xmax = 208.566 
+            text = "qəlín" 
+        intervals [72]:
+            xmin = 208.566 
+            xmax = 209.036 
+            text = "" 
+        intervals [73]:
+            xmin = 209.036 
+            xmax = 209.706 
+            text = "qəlín" 
+        intervals [74]:
+            xmin = 209.706 
+            xmax = 215.979 
+            text = "" 
+        intervals [75]:
+            xmin = 215.979 
+            xmax = 217.026060190266 
+            text = "pʼábòs" 
+        intervals [76]:
+            xmin = 217.026060190266 
+            xmax = 217.156 
+            text = "" 
+        intervals [77]:
+            xmin = 217.156 
+            xmax = 218.01814156170067 
+            text = "pʼábòs" 
+        intervals [78]:
+            xmin = 218.01814156170067 
+            xmax = 228.84456396657117 
+            text = "" 
+        intervals [79]:
+            xmin = 228.84456396657117 
+            xmax = 229.677 
+            text = "lépʼurqʼòn" 
+        intervals [80]:
+            xmin = 229.677 
+            xmax = 229.9193859209118 
+            text = "" 
+        intervals [81]:
+            xmin = 229.9193859209118 
+            xmax = 230.598 
+            text = "lʼépʼurqʼòn" 
+        intervals [82]:
+            xmin = 230.598 
+            xmax = 238.6475287632619 
+            text = "" 
+        intervals [83]:
+            xmin = 238.6475287632619 
+            xmax = 239.53723537380046 
+            text = "hérqʼbòs" 
+        intervals [84]:
+            xmin = 239.53723537380046 
+            xmax = 243.795 
+            text = "" 
+        intervals [85]:
+            xmin = 243.795 
+            xmax = 244.38114145077031 
+            text = "pʼáˤrpʼəla" 
+        intervals [86]:
+            xmin = 244.38114145077031 
+            xmax = 244.388 
+            text = "" 
+        intervals [87]:
+            xmin = 244.388 
+            xmax = 244.913 
+            text = "pʼáˤrpʼəla" 
+        intervals [88]:
+            xmin = 244.913 
+            xmax = 245.3023555336063 
+            text = "" 
+        intervals [89]:
+            xmin = 245.3023555336063 
+            xmax = 246.113 
+            text = "pʼáˤrpʼəla" 
+        intervals [90]:
+            xmin = 246.113 
+            xmax = 246.46350623965733 
+            text = "" 
+        intervals [91]:
+            xmin = 246.46350623965733 
+            xmax = 247.162 
+            text = "pʼáˤrpʼəla" 
+        intervals [92]:
+            xmin = 247.162 
+            xmax = 250.414 
+            text = "" 
+        intervals [93]:
+            xmin = 250.414 
+            xmax = 251.276 
+            text = "ʧʼáˤpʼi" 
+        intervals [94]:
+            xmin = 251.276 
+            xmax = 251.348 
+            text = "" 
+        intervals [95]:
+            xmin = 251.348 
+            xmax = 252.087 
+            text = "ʧʼáˤpʼi" 
+        intervals [96]:
+            xmin = 252.087 
+            xmax = 254.66509204626115 
+            text = "" 
+        intervals [97]:
+            xmin = 254.66509204626115 
+            xmax = 255.5406023901964 
+            text = "lápːus" 
+        intervals [98]:
+            xmin = 255.5406023901964 
+            xmax = 255.546 
+            text = "" 
+        intervals [99]:
+            xmin = 255.546 
+            xmax = 256.3039000585483 
+            text = "lápːus" 
+        intervals [100]:
+            xmin = 256.3039000585483 
+            xmax = 259.5073516862356 
+            text = "" 
+        intervals [101]:
+            xmin = 259.5073516862356 
+            xmax = 260.40998845998104 
+            text = "ɬípːu" 
+        intervals [102]:
+            xmin = 260.40998845998104 
+            xmax = 260.445 
+            text = "" 
+        intervals [103]:
+            xmin = 260.445 
+            xmax = 261.192 
+            text = "ɬípːu" 
+        intervals [104]:
+            xmin = 261.192 
+            xmax = 264.4962706358884 
+            text = "" 
+        intervals [105]:
+            xmin = 264.4962706358884 
+            xmax = 265.41243891424676 
+            text = "ʔaˤpːáˤsi" 
+        intervals [106]:
+            xmin = 265.41243891424676 
+            xmax = 265.4504894970211 
+            text = "" 
+        intervals [107]:
+            xmin = 265.4504894970211 
+            xmax = 266.33910325353486 
+            text = "ʔaˤpːáˤsi" 
+        intervals [108]:
+            xmin = 266.33910325353486 
+            xmax = 268.966 
+            text = "" 
+        intervals [109]:
+            xmin = 268.966 
+            xmax = 269.77377335408244 
+            text = "dáb" 
+        intervals [110]:
+            xmin = 269.77377335408244 
+            xmax = 270.066 
+            text = "" 
+        intervals [111]:
+            xmin = 270.066 
+            xmax = 270.846 
+            text = "dáb" 
+        intervals [112]:
+            xmin = 270.846 
+            xmax = 272.733988875431 
+            text = "" 
+        intervals [113]:
+            xmin = 272.733988875431 
+            xmax = 273.526 
+            text = "nədó" 
+        intervals [114]:
+            xmin = 273.526 
+            xmax = 273.986 
+            text = "" 
+        intervals [115]:
+            xmin = 273.986 
+            xmax = 274.606 
+            text = "nədó" 
+        intervals [116]:
+            xmin = 274.606 
+            xmax = 280.326 
+            text = "" 
+        intervals [117]:
+            xmin = 280.326 
+            xmax = 281.48759455320675 
+            text = "ʔabád" 
+        intervals [118]:
+            xmin = 281.48759455320675 
+            xmax = 281.4939888402492 
+            text = "" 
+        intervals [119]:
+            xmin = 281.4939888402492 
+            xmax = 282.2941881901291 
+            text = "ʔabád" 
+        intervals [120]:
+            xmin = 282.2941881901291 
+            xmax = 284.786 
+            text = "" 
+        intervals [121]:
+            xmin = 284.786 
+            xmax = 285.686 
+            text = "ʔúʃdu" 
+        intervals [122]:
+            xmin = 285.686 
+            xmax = 285.926 
+            text = "" 
+        intervals [123]:
+            xmin = 285.926 
+            xmax = 286.586 
+            text = "ʔúʃdu" 
+        intervals [124]:
+            xmin = 286.586 
+            xmax = 294.6091323182438 
+            text = "" 
+        intervals [125]:
+            xmin = 294.6091323182438 
+            xmax = 295.156 
+            text = "tʰól" 
+        intervals [126]:
+            xmin = 295.156 
+            xmax = 295.556 
+            text = "" 
+        intervals [127]:
+            xmin = 295.556 
+            xmax = 296.056 
+            text = "tʰól" 
+        intervals [128]:
+            xmin = 296.056 
+            xmax = 298.1667179144267 
+            text = "" 
+        intervals [129]:
+            xmin = 298.1667179144267 
+            xmax = 298.956 
+            text = "mətʰól" 
+        intervals [130]:
+            xmin = 298.956 
+            xmax = 299.216 
+            text = "" 
+        intervals [131]:
+            xmin = 299.216 
+            xmax = 299.736 
+            text = "mətʰól" 
+        intervals [132]:
+            xmin = 299.736 
+            xmax = 302.976 
+            text = "" 
+        intervals [133]:
+            xmin = 302.976 
+            xmax = 303.616 
+            text = "ʧútʰ" 
+        intervals [134]:
+            xmin = 303.616 
+            xmax = 303.876 
+            text = "" 
+        intervals [135]:
+            xmin = 303.876 
+            xmax = 304.396 
+            text = "ʧútʰ" 
+        intervals [136]:
+            xmin = 304.396 
+            xmax = 306.356 
+            text = "" 
+        intervals [137]:
+            xmin = 306.356 
+            xmax = 307.047 
+            text = "χˤértʰ" 
+        intervals [138]:
+            xmin = 307.047 
+            xmax = 307.416 
+            text = "" 
+        intervals [139]:
+            xmin = 307.416 
+            xmax = 308.156 
+            text = "χˤértʰ" 
+        intervals [140]:
+            xmin = 308.156 
+            xmax = 316.416 
+            text = "" 
+        intervals [141]:
+            xmin = 316.416 
+            xmax = 317.033 
+            text = "tʰʷás" 
+        intervals [142]:
+            xmin = 317.033 
+            xmax = 317.575 
+            text = "" 
+        intervals [143]:
+            xmin = 317.575 
+            xmax = 318.1724755986335 
+            text = "tʰʷás" 
+        intervals [144]:
+            xmin = 318.1724755986335 
+            xmax = 326.43759871191656 
+            text = "" 
+        intervals [145]:
+            xmin = 326.43759871191656 
+            xmax = 327.116 
+            text = "tʼém" 
+        intervals [146]:
+            xmin = 327.116 
+            xmax = 327.32138819368424 
+            text = "" 
+        intervals [147]:
+            xmin = 327.32138819368424 
+            xmax = 327.7036225151367 
+            text = "tʼém" 
+        intervals [148]:
+            xmin = 327.7036225151367 
+            xmax = 330.136 
+            text = "" 
+        intervals [149]:
+            xmin = 330.136 
+            xmax = 331.056 
+            text = "qʼˤətʼól" 
+        intervals [150]:
+            xmin = 331.056 
+            xmax = 331.3598436468534 
+            text = "" 
+        intervals [151]:
+            xmin = 331.3598436468534 
+            xmax = 332.096 
+            text = "qʼˤətʼól" 
+        intervals [152]:
+            xmin = 332.096 
+            xmax = 336.247 
+            text = "" 
+        intervals [153]:
+            xmin = 336.247 
+            xmax = 336.996 
+            text = "tʼántʼ" 
+        intervals [154]:
+            xmin = 336.996 
+            xmax = 337.455606251369 
+            text = "" 
+        intervals [155]:
+            xmin = 337.455606251369 
+            xmax = 338.0398799389166 
+            text = "tʼántʼ" 
+        intervals [156]:
+            xmin = 338.0398799389166 
+            xmax = 341.116 
+            text = "" 
+        intervals [157]:
+            xmin = 341.116 
+            xmax = 341.756 
+            text = "tʼéˤ" 
+        intervals [158]:
+            xmin = 341.756 
+            xmax = 342.432734688926 
+            text = "" 
+        intervals [159]:
+            xmin = 342.432734688926 
+            xmax = 343.016 
+            text = "tʼéˤ" 
+        intervals [160]:
+            xmin = 343.016 
+            xmax = 345.236 
+            text = "" 
+        intervals [161]:
+            xmin = 345.236 
+            xmax = 346.256 
+            text = "qʼətːí" 
+        intervals [162]:
+            xmin = 346.256 
+            xmax = 346.676 
+            text = "" 
+        intervals [163]:
+            xmin = 346.676 
+            xmax = 347.516 
+            text = "qʼətːí" 
+        intervals [164]:
+            xmin = 347.516 
+            xmax = 354.676 
+            text = "" 
+        intervals [165]:
+            xmin = 354.676 
+            xmax = 355.716 
+            text = "ʔátːas" 
+        intervals [166]:
+            xmin = 355.716 
+            xmax = 355.7971750331 
+            text = "" 
+        intervals [167]:
+            xmin = 355.7971750331 
+            xmax = 356.476 
+            text = "ʔátːas" 
+        intervals [168]:
+            xmin = 356.476 
+            xmax = 371.734 
+            text = "" 
+        intervals [169]:
+            xmin = 371.734 
+            xmax = 372.506 
+            text = "ʔábtːu" 
+        intervals [170]:
+            xmin = 372.506 
+            xmax = 372.7955280901028 
+            text = "" 
+        intervals [171]:
+            xmin = 372.7955280901028 
+            xmax = 373.706 
+            text = "ʔábtːu" 
+        intervals [172]:
+            xmin = 373.706 
+            xmax = 375.7218316544655 
+            text = "" 
+        intervals [173]:
+            xmin = 375.7218316544655 
+            xmax = 376.39 
+            text = "gón" 
+        intervals [174]:
+            xmin = 376.39 
+            xmax = 377.0450177546453 
+            text = "" 
+        intervals [175]:
+            xmin = 377.0450177546453 
+            xmax = 377.533 
+            text = "gón" 
+        intervals [176]:
+            xmin = 377.533 
+            xmax = 386.83 
+            text = "" 
+        intervals [177]:
+            xmin = 386.83 
+            xmax = 387.447 
+            text = "dəgó" 
+        intervals [178]:
+            xmin = 387.447 
+            xmax = 387.778 
+            text = "" 
+        intervals [179]:
+            xmin = 387.778 
+            xmax = 388.176 
+            text = "dəgó" 
+        intervals [180]:
+            xmin = 388.176 
+            xmax = 392.819 
+            text = "" 
+        intervals [181]:
+            xmin = 392.819 
+            xmax = 393.718 
+            text = "gáˤnʒi" 
+        intervals [182]:
+            xmin = 393.718 
+            xmax = 394.03505721604506 
+            text = "" 
+        intervals [183]:
+            xmin = 394.03505721604506 
+            xmax = 394.6771740423778 
+            text = "gáˤnʒi" 
+        intervals [184]:
+            xmin = 394.6771740423778 
+            xmax = 407.07 
+            text = "" 
+        intervals [185]:
+            xmin = 407.07 
+            xmax = 408.175 
+            text = "ʔəˤngáˤbòs" 
+        intervals [186]:
+            xmin = 408.175 
+            xmax = 408.357 
+            text = "" 
+        intervals [187]:
+            xmin = 408.357 
+            xmax = 409.15 
+            text = "ʔəˤngáˤbòs" 
+        intervals [188]:
+            xmin = 409.15 
+            xmax = 433.332 
+            text = "" 
+        intervals [189]:
+            xmin = 433.332 
+            xmax = 434.146 
+            text = "gʷáʦi" 
+        intervals [190]:
+            xmin = 434.146 
+            xmax = 434.43997355048975 
+            text = "" 
+        intervals [191]:
+            xmin = 434.43997355048975 
+            xmax = 435.066 
+            text = "gʷáʦi" 
+        intervals [192]:
+            xmin = 435.066 
+            xmax = 443.946 
+            text = "" 
+        intervals [193]:
+            xmin = 443.946 
+            xmax = 444.826 
+            text = "gʷás" 
+        intervals [194]:
+            xmin = 444.826 
+            xmax = 445.026 
+            text = "" 
+        intervals [195]:
+            xmin = 445.026 
+            xmax = 445.746 
+            text = "gʷás" 
+        intervals [196]:
+            xmin = 445.746 
+            xmax = 447.794 
+            text = "" 
+        intervals [197]:
+            xmin = 447.794 
+            xmax = 448.866 
+            text = "ʦʼégʷdutʰ" 
+        intervals [198]:
+            xmin = 448.866 
+            xmax = 449.1197653779099 
+            text = "" 
+        intervals [199]:
+            xmin = 449.1197653779099 
+            xmax = 449.952 
+            text = "ʦʼégʷdutʰ" 
+        intervals [200]:
+            xmin = 449.952 
+            xmax = 453.5510071789229 
+            text = "" 
+        intervals [201]:
+            xmin = 453.5510071789229 
+            xmax = 454.3791046919728 
+            text = "kʰukʰú" 
+        intervals [202]:
+            xmin = 454.3791046919728 
+            xmax = 454.7603497274308 
+            text = "" 
+        intervals [203]:
+            xmin = 454.7603497274308 
+            xmax = 455.3832480389002 
+            text = "kʰukʰú" 
+        intervals [204]:
+            xmin = 455.3832480389002 
+            xmax = 458.15 
+            text = "" 
+        intervals [205]:
+            xmin = 458.15 
+            xmax = 459.106669137108 
+            text = "sːukʰú" 
+        intervals [206]:
+            xmin = 459.106669137108 
+            xmax = 470.671 
+            text = "" 
+        intervals [207]:
+            xmin = 470.671 
+            xmax = 471.3842539814418 
+            text = "sːukʰú" 
+        intervals [208]:
+            xmin = 471.3842539814418 
+            xmax = 471.8347611909549 
+            text = "" 
+        intervals [209]:
+            xmin = 471.8347611909549 
+            xmax = 472.4290472971211 
+            text = "sːukʰú" 
+        intervals [210]:
+            xmin = 472.4290472971211 
+            xmax = 475.363 
+            text = "'" 
+        intervals [211]:
+            xmin = 475.363 
+            xmax = 476.166 
+            text = "lókʰ" 
+        intervals [212]:
+            xmin = 476.166 
+            xmax = 476.76889381857654 
+            text = "" 
+        intervals [213]:
+            xmin = 476.76889381857654 
+            xmax = 477.406 
+            text = "lókʰ" 
+        intervals [214]:
+            xmin = 477.406 
+            xmax = 481.9345863600833 
+            text = "" 
+        intervals [215]:
+            xmin = 481.9345863600833 
+            xmax = 482.93346245153975 
+            text = "héjkʰəla" 
+        intervals [216]:
+            xmin = 482.93346245153975 
+            xmax = 483.391 
+            text = "" 
+        intervals [217]:
+            xmin = 483.391 
+            xmax = 484.442 
+            text = "héjkʰəla" 
+        intervals [218]:
+            xmin = 484.442 
+            xmax = 487.857 
+            text = "" 
+        intervals [219]:
+            xmin = 487.857 
+            xmax = 488.646 
+            text = "kʰáˤrʃːi" 
+        intervals [220]:
+            xmin = 488.646 
+            xmax = 489.177 
+            text = "" 
+        intervals [221]:
+            xmin = 489.177 
+            xmax = 490.05572868905745 
+            text = "kʰáˤrʃːi" 
+        intervals [222]:
+            xmin = 490.05572868905745 
+            xmax = 494.571 
+            text = "" 
+        intervals [223]:
+            xmin = 494.571 
+            xmax = 495.37265243540855 
+            text = "qʷán" 
+        intervals [224]:
+            xmin = 495.37265243540855 
+            xmax = 495.8506634451767 
+            text = "" 
+        intervals [225]:
+            xmin = 495.8506634451767 
+            xmax = 496.451 
+            text = "qʷán" 
+        intervals [226]:
+            xmin = 496.451 
+            xmax = 527.724 
+            text = "" 
+        intervals [227]:
+            xmin = 527.724 
+            xmax = 528.31 
+            text = "kʰʷám" 
+        intervals [228]:
+            xmin = 528.31 
+            xmax = 607.4531853392185 
+            text = "" 
+        intervals [229]:
+            xmin = 607.4531853392185 
+            xmax = 608.05 
+            text = "kʰʷíʦʼ" 
+        intervals [230]:
+            xmin = 608.05 
+            xmax = 631.086 
+            text = "" 
+        intervals [231]:
+            xmin = 631.086 
+            xmax = 631.7177370015255 
+            text = "qʷíri" 
+        intervals [232]:
+            xmin = 631.7177370015255 
+            xmax = 696.448 
+            text = "" 
+        intervals [233]:
+            xmin = 696.448 
+            xmax = 696.878 
+            text = "qʷíri" 
+        intervals [234]:
+            xmin = 696.878 
+            xmax = 815.552 
+            text = "" 
+        intervals [235]:
+            xmin = 815.552 
+            xmax = 816.0331794387803 
+            text = "mákʰʷ" 
+        intervals [236]:
+            xmin = 816.0331794387803 
+            xmax = 817.427 
+            text = "" 
+        intervals [237]:
+            xmin = 817.427 
+            xmax = 818.0187175787006 
+            text = "mákʰʷ" 
+        intervals [238]:
+            xmin = 818.0187175787006 
+            xmax = 820.58 
+            text = "" 
+        intervals [239]:
+            xmin = 820.58 
+            xmax = 821.154 
+            text = "kʼób" 
+        intervals [240]:
+            xmin = 821.154 
+            xmax = 821.977 
+            text = "" 
+        intervals [241]:
+            xmin = 821.977 
+            xmax = 822.466 
+            text = "kʼób" 
+        intervals [242]:
+            xmin = 822.466 
+            xmax = 827.485 
+            text = "" 
+        intervals [243]:
+            xmin = 827.485 
+            xmax = 828.241 
+            text = "ʔákʼàs" 
+        intervals [244]:
+            xmin = 828.241 
+            xmax = 828.654 
+            text = "" 
+        intervals [245]:
+            xmin = 828.654 
+            xmax = 829.427 
+            text = "ʔákʼàs" 
+        intervals [246]:
+            xmin = 829.427 
+            xmax = 835.928 
+            text = "" 
+        intervals [247]:
+            xmin = 835.928 
+            xmax = 836.701 
+            text = "ʔówkʼàs" 
+        intervals [248]:
+            xmin = 836.701 
+            xmax = 836.813 
+            text = "" 
+        intervals [249]:
+            xmin = 836.813 
+            xmax = 837.586 
+            text = "ʔówkʼàs" 
+        intervals [250]:
+            xmin = 837.586 
+            xmax = 837.666 
+            text = "" 
+        intervals [251]:
+            xmin = 837.666 
+            xmax = 838.439 
+            text = "ʔárkʼàs" 
+        intervals [252]:
+            xmin = 838.439 
+            xmax = 838.46 
+            text = "" 
+        intervals [253]:
+            xmin = 838.46 
+            xmax = 839.086 
+            text = "ʔárkʼàs" 
+        intervals [254]:
+            xmin = 839.086 
+            xmax = 842.0223626904236 
+            text = "" 
+        intervals [255]:
+            xmin = 842.0223626904236 
+            xmax = 842.646 
+            text = "χːíkʼ" 
+        intervals [256]:
+            xmin = 842.646 
+            xmax = 843.1876716591787 
+            text = "" 
+        intervals [257]:
+            xmin = 843.1876716591787 
+            xmax = 843.846 
+            text = "χːíkʼ" 
+        intervals [258]:
+            xmin = 843.846 
+            xmax = 852.655 
+            text = "" 
+        intervals [259]:
+            xmin = 852.655 
+            xmax = 853.293 
+            text = "qónkʼ" 
+        intervals [260]:
+            xmin = 853.293 
+            xmax = 853.9522775424692 
+            text = "" 
+        intervals [261]:
+            xmin = 853.9522775424692 
+            xmax = 854.413 
+            text = "qónkʼ" 
+        intervals [262]:
+            xmin = 854.413 
+            xmax = 860.306 
+            text = "" 
+        intervals [263]:
+            xmin = 860.306 
+            xmax = 861.252966543065 
+            text = "kʼóˤpʰi" 
+        intervals [264]:
+            xmin = 861.252966543065 
+            xmax = 861.5414972653989 
+            text = "" 
+        intervals [265]:
+            xmin = 861.5414972653989 
+            xmax = 862.106 
+            text = "kʼóˤpʰi" 
+        intervals [266]:
+            xmin = 862.106 
+            xmax = 868.221721135383 
+            text = "" 
+        intervals [267]:
+            xmin = 868.221721135383 
+            xmax = 868.897 
+            text = "kʼʷántʼ" 
+        intervals [268]:
+            xmin = 868.897 
+            xmax = 869.632 
+            text = "" 
+        intervals [269]:
+            xmin = 869.632 
+            xmax = 870.191 
+            text = "kʼʷántʼ" 
+        intervals [270]:
+            xmin = 870.191 
+            xmax = 976.551 
+            text = "" 
+        intervals [271]:
+            xmin = 976.551 
+            xmax = 977.463 
+            text = "mákʼʷ" 
+        intervals [272]:
+            xmin = 977.463 
+            xmax = 977.941 
+            text = "" 
+        intervals [273]:
+            xmin = 977.941 
+            xmax = 978.683 
+            text = "mákʼʷ" 
+        intervals [274]:
+            xmin = 978.683 
+            xmax = 993.455 
+            text = "" 
+        intervals [275]:
+            xmin = 993.455 
+            xmax = 994.186 
+            text = "ʧʼiníkʼʷ" 
+        intervals [276]:
+            xmin = 994.186 
+            xmax = 994.6605555812272 
+            text = "" 
+        intervals [277]:
+            xmin = 994.6605555812272 
+            xmax = 995.306 
+            text = "ʧʼiníkʼʷ" 
+        intervals [278]:
+            xmin = 995.306 
+            xmax = 1003.33 
+            text = "" 
+        intervals [279]:
+            xmin = 1003.33 
+            xmax = 1004.026 
+            text = "kʼʷáˤh" 
+        intervals [280]:
+            xmin = 1004.026 
+            xmax = 1004.426 
+            text = "" 
+        intervals [281]:
+            xmin = 1004.426 
+            xmax = 1005.226 
+            text = "kʼʷáˤh" 
+        intervals [282]:
+            xmin = 1005.226 
+            xmax = 1007.078740243584 
+            text = "" 
+        intervals [283]:
+            xmin = 1007.078740243584 
+            xmax = 1007.926544427577 
+            text = "mukːúl" 
+        intervals [284]:
+            xmin = 1007.926544427577 
+            xmax = 1008.1292418936044 
+            text = "" 
+        intervals [285]:
+            xmin = 1008.1292418936044 
+            xmax = 1008.786 
+            text = "mukːúl" 
+        intervals [286]:
+            xmin = 1008.786 
+            xmax = 1020.044 
+            text = "" 
+        intervals [287]:
+            xmin = 1020.044 
+            xmax = 1021.166 
+            text = "sárkːàs" 
+        intervals [288]:
+            xmin = 1021.166 
+            xmax = 1021.463 
+            text = "" 
+        intervals [289]:
+            xmin = 1021.463 
+            xmax = 1022.326 
+            text = "sárkːàs" 
+        intervals [290]:
+            xmin = 1022.326 
+            xmax = 1026.661 
+            text = "" 
+        intervals [291]:
+            xmin = 1026.661 
+            xmax = 1027.646 
+            text = "háˤnkːur" 
+        intervals [292]:
+            xmin = 1027.646 
+            xmax = 1027.8268255660464 
+            text = "" 
+        intervals [293]:
+            xmin = 1027.8268255660464 
+            xmax = 1028.606 
+            text = "háˤnkːur" 
+        intervals [294]:
+            xmin = 1028.606 
+            xmax = 1029.201356366159 
+            text = "" 
+        intervals [295]:
+            xmin = 1029.201356366159 
+            xmax = 1030.086 
+            text = "háˤnkːur" 
+        intervals [296]:
+            xmin = 1030.086 
+            xmax = 1030.3594795214192 
+            text = "" 
+        intervals [297]:
+            xmin = 1030.3594795214192 
+            xmax = 1031.126 
+            text = "háˤnkːur" 
+        intervals [298]:
+            xmin = 1031.126 
+            xmax = 1037.5967047744025 
+            text = "" 
+        intervals [299]:
+            xmin = 1037.5967047744025 
+            xmax = 1038.390640765481 
+            text = "ʔákːʷa" 
+        intervals [300]:
+            xmin = 1038.390640765481 
+            xmax = 1038.7608303314692 
+            text = "" 
+        intervals [301]:
+            xmin = 1038.7608303314692 
+            xmax = 1039.446 
+            text = "ʔákːʷa" 
+        intervals [302]:
+            xmin = 1039.446 
+            xmax = 1041.886 
+            text = "" 
+        intervals [303]:
+            xmin = 1041.886 
+            xmax = 1042.886 
+            text = "ʔírkːʷa" 
+        intervals [304]:
+            xmin = 1042.886 
+            xmax = 1042.966 
+            text = "" 
+        intervals [305]:
+            xmin = 1042.966 
+            xmax = 1043.646 
+            text = "ʔírkːʷa" 
+        intervals [306]:
+            xmin = 1043.646 
+            xmax = 1046.52 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Token-Phonetic" 
         xmin = 0 
         xmax = 1046.52 
         intervals: size = 306 
@@ -1236,9 +2466,9 @@ item []:
             xmin = 1043.646 
             xmax = 1046.52 
             text = "" 
-    item [2]:
+    item [3]:
         class = "IntervalTier" 
-        name = "Phones" 
+        name = "Phone" 
         xmin = 0 
         xmax = 1046.52 
         intervals: size = 866 
@@ -4706,7 +5936,1470 @@ item []:
             xmin = 1043.646 
             xmax = 1046.52 
             text = "" 
-    item [3]:
+    item [4]:
+        class = "TextTier" 
+        name = "Burst" 
+        xmin = 0 
+        xmax = 1046.52 
+        points: size = 217 
+        points [1]:
+            number = 10.355469533899697 
+            mark = "" 
+        points [2]:
+            number = 11.417006768455206 
+            mark = "" 
+        points [3]:
+            number = 12.851043920324706 
+            mark = "" 
+        points [4]:
+            number = 26.516051580431892 
+            mark = "" 
+        points [5]:
+            number = 26.605608618302824 
+            mark = "" 
+        points [6]:
+            number = 47.15126489161475 
+            mark = "" 
+        points [7]:
+            number = 48.31562909475969 
+            mark = "" 
+        points [8]:
+            number = 50.91918497210389 
+            mark = "" 
+        points [9]:
+            number = 51.08854703801588 
+            mark = "" 
+        points [10]:
+            number = 52.029726373919914 
+            mark = "" 
+        points [11]:
+            number = 52.15915724038811 
+            mark = "" 
+        points [12]:
+            number = 55.84992199245993 
+            mark = "" 
+        points [13]:
+            number = 56.032769724399905 
+            mark = "" 
+        points [14]:
+            number = 56.745629992966236 
+            mark = "" 
+        points [15]:
+            number = 57.557124207874715 
+            mark = "" 
+        points [16]:
+            number = 57.729510596392274 
+            mark = "" 
+        points [17]:
+            number = 58.419482135921655 
+            mark = "" 
+        points [18]:
+            number = 65.87211780011273 
+            mark = "" 
+        points [19]:
+            number = 67.14304141159201 
+            mark = "" 
+        points [20]:
+            number = 69.56552935777508 
+            mark = "" 
+        points [21]:
+            number = 70.63845764105503 
+            mark = "" 
+        points [22]:
+            number = 74.24041612474333 
+            mark = "" 
+        points [23]:
+            number = 75.70226348554672 
+            mark = "" 
+        points [24]:
+            number = 77.52955821557586 
+            mark = "" 
+        points [25]:
+            number = 78.83908990378822 
+            mark = "" 
+        points [26]:
+            number = 80.47997617458442 
+            mark = "" 
+        points [27]:
+            number = 80.65236256310197 
+            mark = "" 
+        points [28]:
+            number = 82.0271089678679 
+            mark = "" 
+        points [29]:
+            number = 82.1541305173019 
+            mark = "" 
+        points [30]:
+            number = 86.83776015689463 
+            mark = "" 
+        points [31]:
+            number = 87.19765454695762 
+            mark = "" 
+        points [32]:
+            number = 88.50718623516997 
+            mark = "" 
+        points [33]:
+            number = 88.80659417312152 
+            mark = "" 
+        points [34]:
+            number = 98.0133987833556 
+            mark = "" 
+        points [35]:
+            number = 98.45192556116342 
+            mark = "" 
+        points [36]:
+            number = 112.59354415810874 
+            mark = "" 
+        points [37]:
+            number = 112.87783048303244 
+            mark = "" 
+        points [38]:
+            number = 112.986706096833 
+            mark = "" 
+        points [39]:
+            number = 138.56531965422704 
+            mark = "" 
+        points [40]:
+            number = 138.71048713929446 
+            mark = "" 
+        points [41]:
+            number = 138.97965185119028 
+            mark = "" 
+        points [42]:
+            number = 139.10067397108438 
+            mark = "" 
+        points [43]:
+            number = 139.3562649979592 
+            mark = "" 
+        points [44]:
+            number = 139.48466947572203 
+            mark = "" 
+        points [45]:
+            number = 177.55773772734392 
+            mark = "" 
+        points [46]:
+            number = 177.7853817546549 
+            mark = "" 
+        points [47]:
+            number = 178.50256116813023 
+            mark = "" 
+        points [48]:
+            number = 178.73020519544121 
+            mark = "" 
+        points [49]:
+            number = 188.31739823328476 
+            mark = "" 
+        points [50]:
+            number = 188.7513003839587 
+            mark = "" 
+        points [51]:
+            number = 189.36221355028408 
+            mark = "" 
+        points [52]:
+            number = 189.78813531878035 
+            mark = "" 
+        points [53]:
+            number = 201.2260778733063 
+            mark = "" 
+        points [54]:
+            number = 201.4377804556963 
+            mark = "" 
+        points [55]:
+            number = 202.5114149806741 
+            mark = "" 
+        points [56]:
+            number = 202.71404459524737 
+            mark = "" 
+        points [57]:
+            number = 203.7925719090034 
+            mark = "" 
+        points [58]:
+            number = 203.99520152357667 
+            mark = "" 
+        points [59]:
+            number = 204.8026956592642 
+            mark = "" 
+        points [60]:
+            number = 204.99927662862632 
+            mark = "" 
+        points [61]:
+            number = 207.95876633413084 
+            mark = "" 
+        points [62]:
+            number = 209.09019770266784 
+            mark = "" 
+        points [63]:
+            number = 216.05135685692687 
+            mark = "" 
+        points [64]:
+            number = 216.468014418834 
+            mark = "" 
+        points [65]:
+            number = 217.1733805435938 
+            mark = "" 
+        points [66]:
+            number = 217.52637708879124 
+            mark = "" 
+        points [67]:
+            number = 229.08563350504514 
+            mark = "" 
+        points [68]:
+            number = 229.27919015180169 
+            mark = "" 
+        points [69]:
+            number = 230.14454558747383 
+            mark = "" 
+        points [70]:
+            number = 230.33770306375163 
+            mark = "" 
+        points [71]:
+            number = 239.07128423327188 
+            mark = "" 
+        points [72]:
+            number = 239.1595802376939 
+            mark = "" 
+        points [73]:
+            number = 243.84884177556057 
+            mark = "" 
+        points [74]:
+            number = 244.15510421531107 
+            mark = "" 
+        points [75]:
+            number = 244.4278184726154 
+            mark = "" 
+        points [76]:
+            number = 244.66698454747356 
+            mark = "" 
+        points [77]:
+            number = 245.3423295743064 
+            mark = "" 
+        points [78]:
+            number = 245.68822546494488 
+            mark = "" 
+        points [79]:
+            number = 246.52632258932894 
+            mark = "" 
+        points [80]:
+            number = 246.84992196642514 
+            mark = "" 
+        points [81]:
+            number = 250.89649255280617 
+            mark = "" 
+        points [82]:
+            number = 251.78109896111323 
+            mark = "" 
+        points [83]:
+            number = 255.14335514728802 
+            mark = "" 
+        points [84]:
+            number = 255.94339712704624 
+            mark = "" 
+        points [85]:
+            number = 260.1308181997906 
+            mark = "" 
+        points [86]:
+            number = 260.9783158560993 
+            mark = "" 
+        points [87]:
+            number = 264.8942448438296 
+            mark = "" 
+        points [88]:
+            number = 265.8840595436447 
+            mark = "" 
+        points [89]:
+            number = 269.1194510736079 
+            mark = "" 
+        points [90]:
+            number = 269.4766991813761 
+            mark = "" 
+        points [91]:
+            number = 270.3010766597236 
+            mark = "" 
+        points [92]:
+            number = 270.62425343324924 
+            mark = "" 
+        points [93]:
+            number = 273.09718142733436 
+            mark = "" 
+        points [94]:
+            number = 274.29046557081335 
+            mark = "" 
+        points [95]:
+            number = 280.7353186729799 
+            mark = "" 
+        points [96]:
+            number = 280.9700730177713 
+            mark = "" 
+        points [97]:
+            number = 281.792562971412 
+            mark = "" 
+        points [98]:
+            number = 281.94706975068345 
+            mark = "" 
+        points [99]:
+            number = 285.36866111872706 
+            mark = "" 
+        points [100]:
+            number = 286.3937297818197 
+            mark = "" 
+        points [101]:
+            number = 294.66040103833546 
+            mark = "" 
+        points [102]:
+            number = 295.60115438879166 
+            mark = "" 
+        points [103]:
+            number = 298.39139961988093 
+            mark = "" 
+        points [104]:
+            number = 299.4313115674222 
+            mark = "" 
+        points [105]:
+            number = 303.0288387238205 
+            mark = "" 
+        points [106]:
+            number = 303.36735503884864 
+            mark = "" 
+        points [107]:
+            number = 303.9443045844619 
+            mark = "" 
+        points [108]:
+            number = 304.2379843003902 
+            mark = "" 
+        points [109]:
+            number = 306.9719976222517 
+            mark = "" 
+        points [110]:
+            number = 308.0157798047255 
+            mark = "" 
+        points [111]:
+            number = 316.43209269555854 
+            mark = "" 
+        points [112]:
+            number = 317.60013654117074 
+            mark = "" 
+        points [113]:
+            number = 326.48605145591137 
+            mark = "" 
+        points [114]:
+            number = 327.343446914555 
+            mark = "" 
+        points [115]:
+            number = 330.1620590378185 
+            mark = "" 
+        points [116]:
+            number = 330.4767776089476 
+            mark = "" 
+        points [117]:
+            number = 331.40407436495803 
+            mark = "" 
+        points [118]:
+            number = 331.65615841660434 
+            mark = "" 
+        points [119]:
+            number = 336.2876378219091 
+            mark = "" 
+        points [120]:
+            number = 336.80990053183683 
+            mark = "" 
+        points [121]:
+            number = 337.4743192474902 
+            mark = "" 
+        points [122]:
+            number = 337.9336382431921 
+            mark = "" 
+        points [123]:
+            number = 341.16779891592904 
+            mark = "" 
+        points [124]:
+            number = 342.4548500479783 
+            mark = "" 
+        points [125]:
+            number = 345.34196917848044 
+            mark = "" 
+        points [126]:
+            number = 345.80809290004464 
+            mark = "" 
+        points [127]:
+            number = 346.6936652062211 
+            mark = "" 
+        points [128]:
+            number = 347.20589139619017 
+            mark = "" 
+        points [129]:
+            number = 355.2990447581176 
+            mark = "" 
+        points [130]:
+            number = 356.1562806377876 
+            mark = "" 
+        points [131]:
+            number = 371.9929091968401 
+            mark = "" 
+        points [132]:
+            number = 372.2276722390878 
+            mark = "" 
+        points [133]:
+            number = 373.079220392693 
+            mark = "" 
+        points [134]:
+            number = 373.28846571295725 
+            mark = "" 
+        points [135]:
+            number = 375.8727750658492 
+            mark = "" 
+        points [136]:
+            number = 377.1870451013475 
+            mark = "" 
+        points [137]:
+            number = 386.86335591783705 
+            mark = "" 
+        points [138]:
+            number = 387.06522761743963 
+            mark = "" 
+        points [139]:
+            number = 387.8183203515779 
+            mark = "" 
+        points [140]:
+            number = 387.9720109351658 
+            mark = "" 
+        points [141]:
+            number = 393.0063947676047 
+            mark = "" 
+        points [142]:
+            number = 394.13013247896 
+            mark = "" 
+        points [143]:
+            number = 407.42668240322524 
+            mark = "" 
+        points [144]:
+            number = 408.67630701977214 
+            mark = "" 
+        points [145]:
+            number = 408.93182072911753 
+            mark = "" 
+        points [146]:
+            number = 433.3682292271852 
+            mark = "" 
+        points [147]:
+            number = 434.52503262376786 
+            mark = "" 
+        points [148]:
+            number = 448.35590628582924 
+            mark = "" 
+        points [149]:
+            number = 448.50152636054764 
+            mark = "" 
+        points [150]:
+            number = 448.74457979993207 
+            mark = "" 
+        points [151]:
+            number = 449.5658377890044 
+            mark = "" 
+        points [152]:
+            number = 449.682888731541 
+            mark = "" 
+        points [153]:
+            number = 449.8530068780973 
+            mark = "" 
+        points [154]:
+            number = 453.6255226338818 
+            mark = "" 
+        points [155]:
+            number = 453.8842784208014 
+            mark = "" 
+        points [156]:
+            number = 454.8251797137648 
+            mark = "" 
+        points [157]:
+            number = 455.02843030974344 
+            mark = "" 
+        points [158]:
+            number = 458.6350295895517 
+            mark = "" 
+        points [159]:
+            number = 471.0198663821622 
+            mark = "" 
+        points [160]:
+            number = 472.1970840105207 
+            mark = "" 
+        points [161]:
+            number = 475.95616594128575 
+            mark = "" 
+        points [162]:
+            number = 477.1540859656851 
+            mark = "" 
+        points [163]:
+            number = 482.3914183166025 
+            mark = "" 
+        points [164]:
+            number = 483.86606240422657 
+            mark = "" 
+        points [165]:
+            number = 487.871570337382 
+            mark = "" 
+        points [166]:
+            number = 489.23168018664956 
+            mark = "" 
+        points [167]:
+            number = 494.6401654790777 
+            mark = "" 
+        points [168]:
+            number = 495.9051012520747 
+            mark = "" 
+        points [169]:
+            number = 527.7655850999597 
+            mark = "" 
+        points [170]:
+            number = 607.4604444531383 
+            mark = "" 
+        points [171]:
+            number = 607.8315666522852 
+            mark = "" 
+        points [172]:
+            number = 631.1309421317808 
+            mark = "" 
+        points [173]:
+            number = 696.4733666232835 
+            mark = "" 
+        points [174]:
+            number = 815.8089321288556 
+            mark = "" 
+        points [175]:
+            number = 817.7815593915267 
+            mark = "" 
+        points [176]:
+            number = 820.6703797034944 
+            mark = "" 
+        points [177]:
+            number = 820.9861173198179 
+            mark = "" 
+        points [178]:
+            number = 822.0833182639952 
+            mark = "" 
+        points [179]:
+            number = 822.3834673875408 
+            mark = "" 
+        points [180]:
+            number = 827.7724979749815 
+            mark = "" 
+        points [181]:
+            number = 828.9760522184251 
+            mark = "" 
+        points [182]:
+            number = 836.2820560332228 
+            mark = "" 
+        points [183]:
+            number = 837.21086816587 
+            mark = "" 
+        points [184]:
+            number = 838.0590468116206 
+            mark = "" 
+        points [185]:
+            number = 838.7344156592058 
+            mark = "" 
+        points [186]:
+            number = 842.3965299799238 
+            mark = "" 
+        points [187]:
+            number = 843.5669424916076 
+            mark = "" 
+        points [188]:
+            number = 852.8102560007128 
+            mark = "" 
+        points [189]:
+            number = 853.0824449569184 
+            mark = "" 
+        points [190]:
+            number = 854.0135200576154 
+            mark = "" 
+        points [191]:
+            number = 854.2516853942954 
+            mark = "" 
+        points [192]:
+            number = 860.5388805616753 
+            mark = "" 
+        points [193]:
+            number = 860.8780366846479 
+            mark = "" 
+        points [194]:
+            number = 861.5993374185927 
+            mark = "" 
+        points [195]:
+            number = 861.8664228318693 
+            mark = "" 
+        points [196]:
+            number = 868.2965730983395 
+            mark = "" 
+        points [197]:
+            number = 868.7320754282684 
+            mark = "" 
+        points [198]:
+            number = 869.6729731198825 
+            mark = "" 
+        points [199]:
+            number = 870.0487043281149 
+            mark = "" 
+        points [200]:
+            number = 977.1090794157667 
+            mark = "" 
+        points [201]:
+            number = 978.5467436509987 
+            mark = "" 
+        points [202]:
+            number = 994.0991658590532 
+            mark = "" 
+        points [203]:
+            number = 995.1692187313855 
+            mark = "" 
+        points [204]:
+            number = 1003.4076835830319 
+            mark = "" 
+        points [205]:
+            number = 1004.6062728294928 
+            mark = "" 
+        points [206]:
+            number = 1007.4858977623 
+            mark = "" 
+        points [207]:
+            number = 1008.4596627613745 
+            mark = "" 
+        points [208]:
+            number = 1020.7372930400314 
+            mark = "" 
+        points [209]:
+            number = 1021.9870175667036 
+            mark = "" 
+        points [210]:
+            number = 1027.2501252150855 
+            mark = "" 
+        points [211]:
+            number = 1028.3253572889312 
+            mark = "" 
+        points [212]:
+            number = 1029.769550812238 
+            mark = "" 
+        points [213]:
+            number = 1030.8187983850162 
+            mark = "" 
+        points [214]:
+            number = 1038.0648739474113 
+            mark = "" 
+        points [215]:
+            number = 1039.1509406958294 
+            mark = "" 
+        points [216]:
+            number = 1042.508083299617 
+            mark = "" 
+        points [217]:
+            number = 1043.4339876525062 
+            mark = "" 
+    item [5]:
+        class = "IntervalTier" 
+        name = "Russian" 
+        xmin = 0 
+        xmax = 1046.52 
+        intervals: size = 87 
+        intervals [1]:
+            xmin = 0 
+            xmax = 6.391562136143834 
+            text = "" 
+        intervals [2]:
+            xmin = 6.391562136143834 
+            xmax = 12.051893023146116 
+            text = "говорить" 
+        intervals [3]:
+            xmin = 12.051893023146116 
+            xmax = 12.851043920324706 
+            text = "" 
+        intervals [4]:
+            xmin = 12.851043920324706 
+            xmax = 44.4 
+            text = "ласточка" 
+        intervals [5]:
+            xmin = 44.4 
+            xmax = 44.94 
+            text = "" 
+        intervals [6]:
+            xmin = 44.94 
+            xmax = 48.98 
+            text = "рот" 
+        intervals [7]:
+            xmin = 48.98 
+            xmax = 52.94 
+            text = "слеза" 
+        intervals [8]:
+            xmin = 52.94 
+            xmax = 58.92 
+            text = "комната для оплакивания" 
+        intervals [9]:
+            xmin = 58.92 
+            xmax = 59.675 
+            text = "" 
+        intervals [10]:
+            xmin = 59.675 
+            xmax = 67.75 
+            text = "абрикос" 
+        intervals [11]:
+            xmin = 67.75 
+            xmax = 71.799 
+            text = "водоем" 
+        intervals [12]:
+            xmin = 71.799 
+            xmax = 71.899 
+            text = "" 
+        intervals [13]:
+            xmin = 71.899 
+            xmax = 84.31 
+            text = "стыдиться" 
+        intervals [14]:
+            xmin = 84.31 
+            xmax = 90.253 
+            text = "айва" 
+        intervals [15]:
+            xmin = 90.253 
+            xmax = 90.286 
+            text = "" 
+        intervals [16]:
+            xmin = 90.286 
+            xmax = 101.4 
+            text = "лепешка" 
+        intervals [17]:
+            xmin = 101.4 
+            xmax = 131.1 
+            text = "тулуп" 
+        intervals [18]:
+            xmin = 131.1 
+            xmax = 131.316 
+            text = "" 
+        intervals [19]:
+            xmin = 131.316 
+            xmax = 171.516 
+            text = "слой навоза на крыше" 
+        intervals [20]:
+            xmin = 171.516 
+            xmax = 181.136 
+            text = "кал" 
+        intervals [21]:
+            xmin = 181.136 
+            xmax = 190.116 
+            text = "слепая кишка" 
+        intervals [22]:
+            xmin = 190.116 
+            xmax = 205.756 
+            text = "потник " 
+        intervals [23]:
+            xmin = 205.756 
+            xmax = 213.756 
+            text = "папироса" 
+        intervals [24]:
+            xmin = 213.756 
+            xmax = 218.596 
+            text = "целовать" 
+        intervals [25]:
+            xmin = 218.596 
+            xmax = 231.716 
+            text = "козел 2-3 лет" 
+        intervals [26]:
+            xmin = 231.716 
+            xmax = 240.116 
+            text = "отрыгивать" 
+        intervals [27]:
+            xmin = 240.116 
+            xmax = 240.489 
+            text = "" 
+        intervals [28]:
+            xmin = 240.489 
+            xmax = 248.246 
+            text = "перепел" 
+        intervals [29]:
+            xmin = 248.246 
+            xmax = 252.106 
+            text = "гной" 
+        intervals [30]:
+            xmin = 252.106 
+            xmax = 256.386 
+            text = "бросить" 
+        intervals [31]:
+            xmin = 256.386 
+            xmax = 261.866 
+            text = "три" 
+        intervals [32]:
+            xmin = 261.866 
+            xmax = 266.966 
+            text = "монета в 20 копеек" 
+        intervals [33]:
+            xmin = 266.966 
+            xmax = 271.306 
+            text = "шило" 
+        intervals [34]:
+            xmin = 271.306 
+            xmax = 274.806 
+            text = "лоб" 
+        intervals [35]:
+            xmin = 274.806 
+            xmax = 283.086 
+            text = "всегда" 
+        intervals [36]:
+            xmin = 283.086 
+            xmax = 286.586 
+            text = "брат" 
+        intervals [37]:
+            xmin = 286.586 
+            xmax = 288.271 
+            text = "звук ударов капель" 
+        intervals [38]:
+            xmin = 288.271 
+            xmax = 288.701 
+            text = "" 
+        intervals [39]:
+            xmin = 288.701 
+            xmax = 296.416 
+            text = "рыболовная сеть" 
+        intervals [40]:
+            xmin = 296.416 
+            xmax = 296.526 
+            text = "" 
+        intervals [41]:
+            xmin = 296.526 
+            xmax = 299.736 
+            text = "козленок" 
+        intervals [42]:
+            xmin = 299.736 
+            xmax = 304.736 
+            text = "пара" 
+        intervals [43]:
+            xmin = 304.736 
+            xmax = 308.236 
+            text = "груша" 
+        intervals [44]:
+            xmin = 308.236 
+            xmax = 318.516 
+            text = "вянуть" 
+        intervals [45]:
+            xmin = 318.516 
+            xmax = 327.956 
+            text = "травинка" 
+        intervals [46]:
+            xmin = 327.956 
+            xmax = 333.236 
+            text = "пояс" 
+        intervals [47]:
+            xmin = 333.236 
+            xmax = 338.436 
+            text = "пчела" 
+        intervals [48]:
+            xmin = 338.436 
+            xmax = 338.871 
+            text = "" 
+        intervals [49]:
+            xmin = 338.871 
+            xmax = 343.016 
+            text = "цветок" 
+        intervals [50]:
+            xmin = 343.016 
+            xmax = 347.596 
+            text = "сажа" 
+        intervals [51]:
+            xmin = 347.596 
+            xmax = 365.631 
+            text = "бодаться" 
+        intervals [52]:
+            xmin = 365.631 
+            xmax = 366.613 
+            text = "" 
+        intervals [53]:
+            xmin = 366.613 
+            xmax = 373.846 
+            text = "отец" 
+        intervals [54]:
+            xmin = 373.846 
+            xmax = 378.206 
+            text = "палец" 
+        intervals [55]:
+            xmin = 378.206 
+            xmax = 389.166 
+            text = "козел" 
+        intervals [56]:
+            xmin = 389.166 
+            xmax = 396.066 
+            text = "коренной зуб" 
+        intervals [57]:
+            xmin = 396.066 
+            xmax = 429.377 
+            text = "плакать" 
+        intervals [58]:
+            xmin = 429.377 
+            xmax = 430.626 
+            text = "" 
+        intervals [59]:
+            xmin = 430.626 
+            xmax = 436.026 
+            text = "кобыла" 
+        intervals [60]:
+            xmin = 436.026 
+            xmax = 446.226 
+            text = "согнуться" 
+        intervals [61]:
+            xmin = 446.226 
+            xmax = 450.586 
+            text = "кислый" 
+        intervals [62]:
+            xmin = 450.586 
+            xmax = 455.866 
+            text = "яичница" 
+        intervals [63]:
+            xmin = 455.866 
+            xmax = 456.048 
+            text = "" 
+        intervals [64]:
+            xmin = 456.048 
+            xmax = 473.006 
+            text = "нары" 
+        intervals [65]:
+            xmin = 473.006 
+            xmax = 478.206 
+            text = "колос" 
+        intervals [66]:
+            xmin = 478.206 
+            xmax = 485.126 
+            text = "женское украшение" 
+        intervals [67]:
+            xmin = 485.126 
+            xmax = 490.766 
+            text = "сабля" 
+        intervals [68]:
+            xmin = 490.766 
+            xmax = 596.366 
+            text = "жаровня" 
+        intervals [69]:
+            xmin = 596.366 
+            xmax = 803.866 
+            text = "клок шерсти" 
+        intervals [70]:
+            xmin = 803.866 
+            xmax = 819.146 
+            text = "лучина" 
+        intervals [71]:
+            xmin = 819.146 
+            xmax = 822.646 
+            text = "одежда" 
+        intervals [72]:
+            xmin = 822.646 
+            xmax = 840.046 
+            text = "заставлять" 
+        intervals [73]:
+            xmin = 840.046 
+            xmax = 844.086 
+            text = "кулак" 
+        intervals [74]:
+            xmin = 844.086 
+            xmax = 854.915 
+            text = "хинкал" 
+        intervals [75]:
+            xmin = 854.915 
+            xmax = 855.626 
+            text = "" 
+        intervals [76]:
+            xmin = 855.626 
+            xmax = 862.546 
+            text = "кипа" 
+        intervals [77]:
+            xmin = 862.546 
+            xmax = 870.946 
+            text = "родинка" 
+        intervals [78]:
+            xmin = 870.946 
+            xmax = 983.64 
+            text = "колючка" 
+        intervals [79]:
+            xmin = 983.64 
+            xmax = 984.266 
+            text = "" 
+        intervals [80]:
+            xmin = 984.266 
+            xmax = 996.466 
+            text = "коса" 
+        intervals [81]:
+            xmin = 996.466 
+            xmax = 1005.586 
+            text = "лохмотья" 
+        intervals [82]:
+            xmin = 1005.586 
+            xmax = 1009.086 
+            text = "веник" 
+        intervals [83]:
+            xmin = 1009.086 
+            xmax = 1023.206 
+            text = "смотреть" 
+        intervals [84]:
+            xmin = 1023.206 
+            xmax = 1031.846 
+            text = "волдырь" 
+        intervals [85]:
+            xmin = 1031.846 
+            xmax = 1039.726 
+            text = "увидь!" 
+        intervals [86]:
+            xmin = 1039.726 
+            xmax = 1044.486 
+            text = "ищи!" 
+        intervals [87]:
+            xmin = 1044.486 
+            xmax = 1046.52 
+            text = "" 
+    item [6]:
+        class = "IntervalTier" 
+        name = "Target-ID" 
+        xmin = 0 
+        xmax = 1046.52 
+        intervals: size = 87 
+        intervals [1]:
+            xmin = 0 
+            xmax = 6.391562136143834 
+            text = "" 
+        intervals [2]:
+            xmin = 6.391562136143834 
+            xmax = 12.051893023146116 
+            text = "PSX-130" 
+        intervals [3]:
+            xmin = 12.051893023146116 
+            xmax = 12.851043920324706 
+            text = "" 
+        intervals [4]:
+            xmin = 12.851043920324706 
+            xmax = 44.4 
+            text = "PSX-131" 
+        intervals [5]:
+            xmin = 44.4 
+            xmax = 44.94 
+            text = "" 
+        intervals [6]:
+            xmin = 44.94 
+            xmax = 48.98 
+            text = "PSX-132" 
+        intervals [7]:
+            xmin = 48.98 
+            xmax = 52.94 
+            text = "PSX-133" 
+        intervals [8]:
+            xmin = 52.94 
+            xmax = 58.92 
+            text = "PSX-134" 
+        intervals [9]:
+            xmin = 58.92 
+            xmax = 59.675 
+            text = "" 
+        intervals [10]:
+            xmin = 59.675 
+            xmax = 67.75 
+            text = "PSX-135" 
+        intervals [11]:
+            xmin = 67.75 
+            xmax = 71.799 
+            text = "PSX-136" 
+        intervals [12]:
+            xmin = 71.799 
+            xmax = 71.899 
+            text = "" 
+        intervals [13]:
+            xmin = 71.899 
+            xmax = 84.31 
+            text = "PSX-137" 
+        intervals [14]:
+            xmin = 84.31 
+            xmax = 90.253 
+            text = "PSX-138" 
+        intervals [15]:
+            xmin = 90.253 
+            xmax = 90.286 
+            text = "" 
+        intervals [16]:
+            xmin = 90.286 
+            xmax = 101.4 
+            text = "PSX-139" 
+        intervals [17]:
+            xmin = 101.4 
+            xmax = 131.1 
+            text = "PSX-140" 
+        intervals [18]:
+            xmin = 131.1 
+            xmax = 131.316 
+            text = "" 
+        intervals [19]:
+            xmin = 131.316 
+            xmax = 171.516 
+            text = "PSX-141" 
+        intervals [20]:
+            xmin = 171.516 
+            xmax = 181.136 
+            text = "PSX-142" 
+        intervals [21]:
+            xmin = 181.136 
+            xmax = 190.116 
+            text = "PSX-143" 
+        intervals [22]:
+            xmin = 190.116 
+            xmax = 205.756 
+            text = "PSX-144" 
+        intervals [23]:
+            xmin = 205.756 
+            xmax = 213.756 
+            text = "PSX-145" 
+        intervals [24]:
+            xmin = 213.756 
+            xmax = 218.596 
+            text = "PSX-146" 
+        intervals [25]:
+            xmin = 218.596 
+            xmax = 231.716 
+            text = "PSX-147" 
+        intervals [26]:
+            xmin = 231.716 
+            xmax = 240.116 
+            text = "PSX-148" 
+        intervals [27]:
+            xmin = 240.116 
+            xmax = 240.489 
+            text = "" 
+        intervals [28]:
+            xmin = 240.489 
+            xmax = 248.246 
+            text = "PSX-149" 
+        intervals [29]:
+            xmin = 248.246 
+            xmax = 252.106 
+            text = "PSX-150" 
+        intervals [30]:
+            xmin = 252.106 
+            xmax = 256.386 
+            text = "PSX-151" 
+        intervals [31]:
+            xmin = 256.386 
+            xmax = 261.866 
+            text = "PSX-152" 
+        intervals [32]:
+            xmin = 261.866 
+            xmax = 266.966 
+            text = "PSX-153" 
+        intervals [33]:
+            xmin = 266.966 
+            xmax = 271.306 
+            text = "PSX-154" 
+        intervals [34]:
+            xmin = 271.306 
+            xmax = 274.806 
+            text = "PSX-155" 
+        intervals [35]:
+            xmin = 274.806 
+            xmax = 283.086 
+            text = "PSX-156" 
+        intervals [36]:
+            xmin = 283.086 
+            xmax = 286.586 
+            text = "PSX-157" 
+        intervals [37]:
+            xmin = 286.586 
+            xmax = 288.271 
+            text = "PSX-158" 
+        intervals [38]:
+            xmin = 288.271 
+            xmax = 288.701 
+            text = "" 
+        intervals [39]:
+            xmin = 288.701 
+            xmax = 296.416 
+            text = "PSX-159" 
+        intervals [40]:
+            xmin = 296.416 
+            xmax = 296.526 
+            text = "" 
+        intervals [41]:
+            xmin = 296.526 
+            xmax = 299.736 
+            text = "PSX-160" 
+        intervals [42]:
+            xmin = 299.736 
+            xmax = 304.736 
+            text = "PSX-161" 
+        intervals [43]:
+            xmin = 304.736 
+            xmax = 308.236 
+            text = "PSX-162" 
+        intervals [44]:
+            xmin = 308.236 
+            xmax = 318.516 
+            text = "PSX-163" 
+        intervals [45]:
+            xmin = 318.516 
+            xmax = 327.956 
+            text = "PSX-164" 
+        intervals [46]:
+            xmin = 327.956 
+            xmax = 333.236 
+            text = "PSX-165" 
+        intervals [47]:
+            xmin = 333.236 
+            xmax = 338.436 
+            text = "PSX-166" 
+        intervals [48]:
+            xmin = 338.436 
+            xmax = 338.871 
+            text = "" 
+        intervals [49]:
+            xmin = 338.871 
+            xmax = 343.016 
+            text = "PSX-167" 
+        intervals [50]:
+            xmin = 343.016 
+            xmax = 347.596 
+            text = "PSX-168" 
+        intervals [51]:
+            xmin = 347.596 
+            xmax = 365.631 
+            text = "PSX-169" 
+        intervals [52]:
+            xmin = 365.631 
+            xmax = 366.613 
+            text = "" 
+        intervals [53]:
+            xmin = 366.613 
+            xmax = 373.846 
+            text = "PSX-170" 
+        intervals [54]:
+            xmin = 373.846 
+            xmax = 378.206 
+            text = "PSX-171" 
+        intervals [55]:
+            xmin = 378.206 
+            xmax = 389.166 
+            text = "PSX-172" 
+        intervals [56]:
+            xmin = 389.166 
+            xmax = 396.066 
+            text = "PSX-173" 
+        intervals [57]:
+            xmin = 396.066 
+            xmax = 429.377 
+            text = "PSX-174" 
+        intervals [58]:
+            xmin = 429.377 
+            xmax = 430.626 
+            text = "" 
+        intervals [59]:
+            xmin = 430.626 
+            xmax = 436.026 
+            text = "PSX-175" 
+        intervals [60]:
+            xmin = 436.026 
+            xmax = 446.226 
+            text = "PSX-176" 
+        intervals [61]:
+            xmin = 446.226 
+            xmax = 450.586 
+            text = "PSX-177" 
+        intervals [62]:
+            xmin = 450.586 
+            xmax = 455.866 
+            text = "PSX-178" 
+        intervals [63]:
+            xmin = 455.866 
+            xmax = 456.048 
+            text = "" 
+        intervals [64]:
+            xmin = 456.048 
+            xmax = 473.006 
+            text = "PSX-179" 
+        intervals [65]:
+            xmin = 473.006 
+            xmax = 478.206 
+            text = "PSX-180" 
+        intervals [66]:
+            xmin = 478.206 
+            xmax = 485.126 
+            text = "PSX-181" 
+        intervals [67]:
+            xmin = 485.126 
+            xmax = 490.766 
+            text = "PSX-182" 
+        intervals [68]:
+            xmin = 490.766 
+            xmax = 596.366 
+            text = "PSX-183" 
+        intervals [69]:
+            xmin = 596.366 
+            xmax = 803.866 
+            text = "PSX-184" 
+        intervals [70]:
+            xmin = 803.866 
+            xmax = 819.146 
+            text = "PSX-185" 
+        intervals [71]:
+            xmin = 819.146 
+            xmax = 822.646 
+            text = "PSX-186" 
+        intervals [72]:
+            xmin = 822.646 
+            xmax = 840.046 
+            text = "PSX-187" 
+        intervals [73]:
+            xmin = 840.046 
+            xmax = 844.086 
+            text = "PSX-188" 
+        intervals [74]:
+            xmin = 844.086 
+            xmax = 854.915 
+            text = "PSX-189" 
+        intervals [75]:
+            xmin = 854.915 
+            xmax = 855.626 
+            text = "" 
+        intervals [76]:
+            xmin = 855.626 
+            xmax = 862.546 
+            text = "PSX-190" 
+        intervals [77]:
+            xmin = 862.546 
+            xmax = 870.946 
+            text = "PSX-191" 
+        intervals [78]:
+            xmin = 870.946 
+            xmax = 983.64 
+            text = "PSX-192" 
+        intervals [79]:
+            xmin = 983.64 
+            xmax = 984.266 
+            text = "" 
+        intervals [80]:
+            xmin = 984.266 
+            xmax = 996.466 
+            text = "PSX-193" 
+        intervals [81]:
+            xmin = 996.466 
+            xmax = 1005.586 
+            text = "PSX-194" 
+        intervals [82]:
+            xmin = 1005.586 
+            xmax = 1009.086 
+            text = "PSX-195" 
+        intervals [83]:
+            xmin = 1009.086 
+            xmax = 1023.206 
+            text = "PSX-196" 
+        intervals [84]:
+            xmin = 1023.206 
+            xmax = 1031.846 
+            text = "PSX-197" 
+        intervals [85]:
+            xmin = 1031.846 
+            xmax = 1039.726 
+            text = "PSX-198" 
+        intervals [86]:
+            xmin = 1039.726 
+            xmax = 1044.486 
+            text = "PSX-199" 
+        intervals [87]:
+            xmin = 1044.486 
+            xmax = 1046.52 
+            text = "" 
+    item [7]:
+        class = "IntervalTier" 
+        name = "Notes-EG" 
+        xmin = 0 
+        xmax = 1046.52 
+        intervals: size = 23 
+        intervals [1]:
+            xmin = 0 
+            xmax = 12.051893023146116 
+            text = "" 
+        intervals [2]:
+            xmin = 12.051893023146116 
+            xmax = 12.851043920324706 
+            text = "" 
+        intervals [3]:
+            xmin = 12.851043920324706 
+            xmax = 44.4 
+            text = "kʼurtʼuqӀan -- сорока" 
+        intervals [4]:
+            xmin = 44.4 
+            xmax = 55.60129776361496 
+            text = "" 
+        intervals [5]:
+            xmin = 55.60129776361496 
+            xmax = 57.02 
+            text = "[AA:] pre-frication? [-pχ-]" 
+        intervals [6]:
+            xmin = 57.02 
+            xmax = 57.30951411018287 
+            text = "" 
+        intervals [7]:
+            xmin = 57.30951411018287 
+            xmax = 58.65538153475153 
+            text = "[AA:] pre-frication? [-pχ-]" 
+        intervals [8]:
+            xmin = 58.65538153475153 
+            xmax = 59.675 
+            text = "" 
+        intervals [9]:
+            xmin = 59.675 
+            xmax = 67.75 
+            text = "ударение?" 
+        intervals [10]:
+            xmin = 67.75 
+            xmax = 231.716 
+            text = "" 
+        intervals [11]:
+            xmin = 231.716 
+            xmax = 240.116 
+            text = "ʕopʼ-bos не говорят" 
+        intervals [12]:
+            xmin = 240.116 
+            xmax = 389.166 
+            text = "" 
+        intervals [13]:
+            xmin = 389.166 
+            xmax = 396.066 
+            text = "упереднение а?" 
+        intervals [14]:
+            xmin = 396.066 
+            xmax = 490.766 
+            text = "" 
+        intervals [15]:
+            xmin = 490.766 
+            xmax = 596.366 
+            text = "наложение голосов (1); k˳am vs. q˳an; оч. сильн. qχ" 
+        intervals [16]:
+            xmin = 596.366 
+            xmax = 803.866 
+            text = "в сочетании с шерстью не употр.; рассказ об обработке шерсти; пучок (травы); оч. сильн. qχ в qʷiri" 
+        intervals [17]:
+            xmin = 803.866 
+            xmax = 822.646 
+            text = "" 
+        intervals [18]:
+            xmin = 822.646 
+            xmax = 840.046 
+            text = "наложение голосов (1)" 
+        intervals [19]:
+            xmin = 840.046 
+            xmax = 844.086 
+            text = "" 
+        intervals [20]:
+            xmin = 844.086 
+            xmax = 854.915 
+            text = "оч. короткий и слабый шум у q" 
+        intervals [21]:
+            xmin = 854.915 
+            xmax = 870.946 
+            text = "" 
+        intervals [22]:
+            xmin = 870.946 
+            xmax = 983.64 
+            text = "три вида колючек" 
+        intervals [23]:
+            xmin = 983.64 
+            xmax = 1046.52 
+            text = "" 
+    item [8]:
         class = "IntervalTier" 
         name = "Phones-CHK" 
         xmin = 0 
@@ -8138,2698 +10831,5 @@ item []:
             text = "a" 
         intervals [857]:
             xmin = 1043.6822070002752 
-            xmax = 1046.52 
-            text = "" 
-    item [4]:
-        class = "TextTier" 
-        name = "Explosion" 
-        xmin = 0 
-        xmax = 1046.52 
-        points: size = 217 
-        points [1]:
-            number = 10.355469533899697 
-            mark = "" 
-        points [2]:
-            number = 11.417006768455206 
-            mark = "" 
-        points [3]:
-            number = 12.851043920324706 
-            mark = "" 
-        points [4]:
-            number = 26.516051580431892 
-            mark = "" 
-        points [5]:
-            number = 26.605608618302824 
-            mark = "" 
-        points [6]:
-            number = 47.15126489161475 
-            mark = "" 
-        points [7]:
-            number = 48.31562909475969 
-            mark = "" 
-        points [8]:
-            number = 50.91918497210389 
-            mark = "" 
-        points [9]:
-            number = 51.08854703801588 
-            mark = "" 
-        points [10]:
-            number = 52.029726373919914 
-            mark = "" 
-        points [11]:
-            number = 52.15915724038811 
-            mark = "" 
-        points [12]:
-            number = 55.84992199245993 
-            mark = "" 
-        points [13]:
-            number = 56.032769724399905 
-            mark = "" 
-        points [14]:
-            number = 56.745629992966236 
-            mark = "" 
-        points [15]:
-            number = 57.557124207874715 
-            mark = "" 
-        points [16]:
-            number = 57.729510596392274 
-            mark = "" 
-        points [17]:
-            number = 58.419482135921655 
-            mark = "" 
-        points [18]:
-            number = 65.87211780011273 
-            mark = "" 
-        points [19]:
-            number = 67.14304141159201 
-            mark = "" 
-        points [20]:
-            number = 69.56552935777508 
-            mark = "" 
-        points [21]:
-            number = 70.63845764105503 
-            mark = "" 
-        points [22]:
-            number = 74.24041612474333 
-            mark = "" 
-        points [23]:
-            number = 75.70226348554672 
-            mark = "" 
-        points [24]:
-            number = 77.52955821557586 
-            mark = "" 
-        points [25]:
-            number = 78.83908990378822 
-            mark = "" 
-        points [26]:
-            number = 80.47997617458442 
-            mark = "" 
-        points [27]:
-            number = 80.65236256310197 
-            mark = "" 
-        points [28]:
-            number = 82.0271089678679 
-            mark = "" 
-        points [29]:
-            number = 82.1541305173019 
-            mark = "" 
-        points [30]:
-            number = 86.83776015689463 
-            mark = "" 
-        points [31]:
-            number = 87.19765454695762 
-            mark = "" 
-        points [32]:
-            number = 88.50718623516997 
-            mark = "" 
-        points [33]:
-            number = 88.80659417312152 
-            mark = "" 
-        points [34]:
-            number = 98.0133987833556 
-            mark = "" 
-        points [35]:
-            number = 98.45192556116342 
-            mark = "" 
-        points [36]:
-            number = 112.59354415810874 
-            mark = "" 
-        points [37]:
-            number = 112.87783048303244 
-            mark = "" 
-        points [38]:
-            number = 112.986706096833 
-            mark = "" 
-        points [39]:
-            number = 138.56531965422704 
-            mark = "" 
-        points [40]:
-            number = 138.71048713929446 
-            mark = "" 
-        points [41]:
-            number = 138.97965185119028 
-            mark = "" 
-        points [42]:
-            number = 139.10067397108438 
-            mark = "" 
-        points [43]:
-            number = 139.3562649979592 
-            mark = "" 
-        points [44]:
-            number = 139.48466947572203 
-            mark = "" 
-        points [45]:
-            number = 177.55773772734392 
-            mark = "" 
-        points [46]:
-            number = 177.7853817546549 
-            mark = "" 
-        points [47]:
-            number = 178.50256116813023 
-            mark = "" 
-        points [48]:
-            number = 178.73020519544121 
-            mark = "" 
-        points [49]:
-            number = 188.31739823328476 
-            mark = "" 
-        points [50]:
-            number = 188.7513003839587 
-            mark = "" 
-        points [51]:
-            number = 189.36221355028408 
-            mark = "" 
-        points [52]:
-            number = 189.78813531878035 
-            mark = "" 
-        points [53]:
-            number = 201.2260778733063 
-            mark = "" 
-        points [54]:
-            number = 201.4377804556963 
-            mark = "" 
-        points [55]:
-            number = 202.5114149806741 
-            mark = "" 
-        points [56]:
-            number = 202.71404459524737 
-            mark = "" 
-        points [57]:
-            number = 203.7925719090034 
-            mark = "" 
-        points [58]:
-            number = 203.99520152357667 
-            mark = "" 
-        points [59]:
-            number = 204.8026956592642 
-            mark = "" 
-        points [60]:
-            number = 204.99927662862632 
-            mark = "" 
-        points [61]:
-            number = 207.95876633413084 
-            mark = "" 
-        points [62]:
-            number = 209.09019770266784 
-            mark = "" 
-        points [63]:
-            number = 216.05135685692687 
-            mark = "" 
-        points [64]:
-            number = 216.468014418834 
-            mark = "" 
-        points [65]:
-            number = 217.1733805435938 
-            mark = "" 
-        points [66]:
-            number = 217.52637708879124 
-            mark = "" 
-        points [67]:
-            number = 229.08563350504514 
-            mark = "" 
-        points [68]:
-            number = 229.27919015180169 
-            mark = "" 
-        points [69]:
-            number = 230.14454558747383 
-            mark = "" 
-        points [70]:
-            number = 230.33770306375163 
-            mark = "" 
-        points [71]:
-            number = 239.07128423327188 
-            mark = "" 
-        points [72]:
-            number = 239.1595802376939 
-            mark = "" 
-        points [73]:
-            number = 243.84884177556057 
-            mark = "" 
-        points [74]:
-            number = 244.15510421531107 
-            mark = "" 
-        points [75]:
-            number = 244.4278184726154 
-            mark = "" 
-        points [76]:
-            number = 244.66698454747356 
-            mark = "" 
-        points [77]:
-            number = 245.3423295743064 
-            mark = "" 
-        points [78]:
-            number = 245.68822546494488 
-            mark = "" 
-        points [79]:
-            number = 246.52632258932894 
-            mark = "" 
-        points [80]:
-            number = 246.84992196642514 
-            mark = "" 
-        points [81]:
-            number = 250.89649255280617 
-            mark = "" 
-        points [82]:
-            number = 251.78109896111323 
-            mark = "" 
-        points [83]:
-            number = 255.14335514728802 
-            mark = "" 
-        points [84]:
-            number = 255.94339712704624 
-            mark = "" 
-        points [85]:
-            number = 260.1308181997906 
-            mark = "" 
-        points [86]:
-            number = 260.9783158560993 
-            mark = "" 
-        points [87]:
-            number = 264.8942448438296 
-            mark = "" 
-        points [88]:
-            number = 265.8840595436447 
-            mark = "" 
-        points [89]:
-            number = 269.1194510736079 
-            mark = "" 
-        points [90]:
-            number = 269.4766991813761 
-            mark = "" 
-        points [91]:
-            number = 270.3010766597236 
-            mark = "" 
-        points [92]:
-            number = 270.62425343324924 
-            mark = "" 
-        points [93]:
-            number = 273.09718142733436 
-            mark = "" 
-        points [94]:
-            number = 274.29046557081335 
-            mark = "" 
-        points [95]:
-            number = 280.7353186729799 
-            mark = "" 
-        points [96]:
-            number = 280.9700730177713 
-            mark = "" 
-        points [97]:
-            number = 281.792562971412 
-            mark = "" 
-        points [98]:
-            number = 281.94706975068345 
-            mark = "" 
-        points [99]:
-            number = 285.36866111872706 
-            mark = "" 
-        points [100]:
-            number = 286.3937297818197 
-            mark = "" 
-        points [101]:
-            number = 294.66040103833546 
-            mark = "" 
-        points [102]:
-            number = 295.60115438879166 
-            mark = "" 
-        points [103]:
-            number = 298.39139961988093 
-            mark = "" 
-        points [104]:
-            number = 299.4313115674222 
-            mark = "" 
-        points [105]:
-            number = 303.0288387238205 
-            mark = "" 
-        points [106]:
-            number = 303.36735503884864 
-            mark = "" 
-        points [107]:
-            number = 303.9443045844619 
-            mark = "" 
-        points [108]:
-            number = 304.2379843003902 
-            mark = "" 
-        points [109]:
-            number = 306.9719976222517 
-            mark = "" 
-        points [110]:
-            number = 308.0157798047255 
-            mark = "" 
-        points [111]:
-            number = 316.43209269555854 
-            mark = "" 
-        points [112]:
-            number = 317.60013654117074 
-            mark = "" 
-        points [113]:
-            number = 326.48605145591137 
-            mark = "" 
-        points [114]:
-            number = 327.343446914555 
-            mark = "" 
-        points [115]:
-            number = 330.1620590378185 
-            mark = "" 
-        points [116]:
-            number = 330.4767776089476 
-            mark = "" 
-        points [117]:
-            number = 331.40407436495803 
-            mark = "" 
-        points [118]:
-            number = 331.65615841660434 
-            mark = "" 
-        points [119]:
-            number = 336.2876378219091 
-            mark = "" 
-        points [120]:
-            number = 336.80990053183683 
-            mark = "" 
-        points [121]:
-            number = 337.4743192474902 
-            mark = "" 
-        points [122]:
-            number = 337.9336382431921 
-            mark = "" 
-        points [123]:
-            number = 341.16779891592904 
-            mark = "" 
-        points [124]:
-            number = 342.4548500479783 
-            mark = "" 
-        points [125]:
-            number = 345.34196917848044 
-            mark = "" 
-        points [126]:
-            number = 345.80809290004464 
-            mark = "" 
-        points [127]:
-            number = 346.6936652062211 
-            mark = "" 
-        points [128]:
-            number = 347.20589139619017 
-            mark = "" 
-        points [129]:
-            number = 355.2990447581176 
-            mark = "" 
-        points [130]:
-            number = 356.1562806377876 
-            mark = "" 
-        points [131]:
-            number = 371.9929091968401 
-            mark = "" 
-        points [132]:
-            number = 372.2276722390878 
-            mark = "" 
-        points [133]:
-            number = 373.079220392693 
-            mark = "" 
-        points [134]:
-            number = 373.28846571295725 
-            mark = "" 
-        points [135]:
-            number = 375.8727750658492 
-            mark = "" 
-        points [136]:
-            number = 377.1870451013475 
-            mark = "" 
-        points [137]:
-            number = 386.86335591783705 
-            mark = "" 
-        points [138]:
-            number = 387.06522761743963 
-            mark = "" 
-        points [139]:
-            number = 387.8183203515779 
-            mark = "" 
-        points [140]:
-            number = 387.9720109351658 
-            mark = "" 
-        points [141]:
-            number = 393.0063947676047 
-            mark = "" 
-        points [142]:
-            number = 394.13013247896 
-            mark = "" 
-        points [143]:
-            number = 407.42668240322524 
-            mark = "" 
-        points [144]:
-            number = 408.67630701977214 
-            mark = "" 
-        points [145]:
-            number = 408.93182072911753 
-            mark = "" 
-        points [146]:
-            number = 433.3682292271852 
-            mark = "" 
-        points [147]:
-            number = 434.52503262376786 
-            mark = "" 
-        points [148]:
-            number = 448.35590628582924 
-            mark = "" 
-        points [149]:
-            number = 448.50152636054764 
-            mark = "" 
-        points [150]:
-            number = 448.74457979993207 
-            mark = "" 
-        points [151]:
-            number = 449.5658377890044 
-            mark = "" 
-        points [152]:
-            number = 449.682888731541 
-            mark = "" 
-        points [153]:
-            number = 449.8530068780973 
-            mark = "" 
-        points [154]:
-            number = 453.6255226338818 
-            mark = "" 
-        points [155]:
-            number = 453.8842784208014 
-            mark = "" 
-        points [156]:
-            number = 454.8251797137648 
-            mark = "" 
-        points [157]:
-            number = 455.02843030974344 
-            mark = "" 
-        points [158]:
-            number = 458.6350295895517 
-            mark = "" 
-        points [159]:
-            number = 471.0198663821622 
-            mark = "" 
-        points [160]:
-            number = 472.1970840105207 
-            mark = "" 
-        points [161]:
-            number = 475.95616594128575 
-            mark = "" 
-        points [162]:
-            number = 477.1540859656851 
-            mark = "" 
-        points [163]:
-            number = 482.3914183166025 
-            mark = "" 
-        points [164]:
-            number = 483.86606240422657 
-            mark = "" 
-        points [165]:
-            number = 487.871570337382 
-            mark = "" 
-        points [166]:
-            number = 489.23168018664956 
-            mark = "" 
-        points [167]:
-            number = 494.6401654790777 
-            mark = "" 
-        points [168]:
-            number = 495.9051012520747 
-            mark = "" 
-        points [169]:
-            number = 527.7655850999597 
-            mark = "" 
-        points [170]:
-            number = 607.4604444531383 
-            mark = "" 
-        points [171]:
-            number = 607.8315666522852 
-            mark = "" 
-        points [172]:
-            number = 631.1309421317808 
-            mark = "" 
-        points [173]:
-            number = 696.4733666232835 
-            mark = "" 
-        points [174]:
-            number = 815.8089321288556 
-            mark = "" 
-        points [175]:
-            number = 817.7815593915267 
-            mark = "" 
-        points [176]:
-            number = 820.6703797034944 
-            mark = "" 
-        points [177]:
-            number = 820.9861173198179 
-            mark = "" 
-        points [178]:
-            number = 822.0833182639952 
-            mark = "" 
-        points [179]:
-            number = 822.3834673875408 
-            mark = "" 
-        points [180]:
-            number = 827.7724979749815 
-            mark = "" 
-        points [181]:
-            number = 828.9760522184251 
-            mark = "" 
-        points [182]:
-            number = 836.2820560332228 
-            mark = "" 
-        points [183]:
-            number = 837.21086816587 
-            mark = "" 
-        points [184]:
-            number = 838.0590468116206 
-            mark = "" 
-        points [185]:
-            number = 838.7344156592058 
-            mark = "" 
-        points [186]:
-            number = 842.3965299799238 
-            mark = "" 
-        points [187]:
-            number = 843.5669424916076 
-            mark = "" 
-        points [188]:
-            number = 852.8102560007128 
-            mark = "" 
-        points [189]:
-            number = 853.0824449569184 
-            mark = "" 
-        points [190]:
-            number = 854.0135200576154 
-            mark = "" 
-        points [191]:
-            number = 854.2516853942954 
-            mark = "" 
-        points [192]:
-            number = 860.5388805616753 
-            mark = "" 
-        points [193]:
-            number = 860.8780366846479 
-            mark = "" 
-        points [194]:
-            number = 861.5993374185927 
-            mark = "" 
-        points [195]:
-            number = 861.8664228318693 
-            mark = "" 
-        points [196]:
-            number = 868.2965730983395 
-            mark = "" 
-        points [197]:
-            number = 868.7320754282684 
-            mark = "" 
-        points [198]:
-            number = 869.6729731198825 
-            mark = "" 
-        points [199]:
-            number = 870.0487043281149 
-            mark = "" 
-        points [200]:
-            number = 977.1090794157667 
-            mark = "" 
-        points [201]:
-            number = 978.5467436509987 
-            mark = "" 
-        points [202]:
-            number = 994.0991658590532 
-            mark = "" 
-        points [203]:
-            number = 995.1692187313855 
-            mark = "" 
-        points [204]:
-            number = 1003.4076835830319 
-            mark = "" 
-        points [205]:
-            number = 1004.6062728294928 
-            mark = "" 
-        points [206]:
-            number = 1007.4858977623 
-            mark = "" 
-        points [207]:
-            number = 1008.4596627613745 
-            mark = "" 
-        points [208]:
-            number = 1020.7372930400314 
-            mark = "" 
-        points [209]:
-            number = 1021.9870175667036 
-            mark = "" 
-        points [210]:
-            number = 1027.2501252150855 
-            mark = "" 
-        points [211]:
-            number = 1028.3253572889312 
-            mark = "" 
-        points [212]:
-            number = 1029.769550812238 
-            mark = "" 
-        points [213]:
-            number = 1030.8187983850162 
-            mark = "" 
-        points [214]:
-            number = 1038.0648739474113 
-            mark = "" 
-        points [215]:
-            number = 1039.1509406958294 
-            mark = "" 
-        points [216]:
-            number = 1042.508083299617 
-            mark = "" 
-        points [217]:
-            number = 1043.4339876525062 
-            mark = "" 
-    item [5]:
-        class = "IntervalTier" 
-        name = "Phonemic-acc-ns" 
-        xmin = 0 
-        xmax = 1046.52 
-        intervals: size = 306 
-        intervals [1]:
-            xmin = 0 
-            xmax = 10.246593920099132 
-            text = "" 
-        intervals [2]:
-            xmin = 10.246593920099132 
-            xmax = 10.988009283339327 
-            text = "bós" 
-        intervals [3]:
-            xmin = 10.988009283339327 
-            xmax = 11.33232573549921 
-            text = "" 
-        intervals [4]:
-            xmin = 11.33232573549921 
-            xmax = 12.052723029299866 
-            text = "bós" 
-        intervals [5]:
-            xmin = 12.052723029299866 
-            xmax = 12.851043920324706 
-            text = "" 
-        intervals [6]:
-            xmin = 12.851043920324706 
-            xmax = 26.27 
-            text = "" 
-        intervals [7]:
-            xmin = 26.27 
-            xmax = 26.702788536685755 
-            text = "ʒíbəla" 
-        intervals [8]:
-            xmin = 26.702788536685755 
-            xmax = 46.682494887751204 
-            text = "" 
-        intervals [9]:
-            xmin = 46.682494887751204 
-            xmax = 47.263 
-            text = "sːób" 
-        intervals [10]:
-            xmin = 47.263 
-            xmax = 47.85895638131843 
-            text = "" 
-        intervals [11]:
-            xmin = 47.85895638131843 
-            xmax = 48.42527839784427 
-            text = "sːób" 
-        intervals [12]:
-            xmin = 48.42527839784427 
-            xmax = 50.592558130702194 
-            text = "" 
-        intervals [13]:
-            xmin = 50.592558130702194 
-            xmax = 51.42 
-            text = "nábq" 
-        intervals [14]:
-            xmin = 51.42 
-            xmax = 51.794683639577165 
-            text = "" 
-        intervals [15]:
-            xmin = 51.794683639577165 
-            xmax = 52.463 
-            text = "nábq" 
-        intervals [16]:
-            xmin = 52.463 
-            xmax = 55.60129776361496 
-            text = "" 
-        intervals [17]:
-            xmin = 55.60129776361496 
-            xmax = 57.02 
-            text = "nibqín#nókɬʼ" 
-        intervals [18]:
-            xmin = 57.02 
-            xmax = 57.30951411018287 
-            text = "" 
-        intervals [19]:
-            xmin = 57.30951411018287 
-            xmax = 58.65538153475153 
-            text = "nibqín#nókɬʼ" 
-        intervals [20]:
-            xmin = 58.65538153475153 
-            xmax = 65.44299894777443 
-            text = "" 
-        intervals [21]:
-            xmin = 65.44299894777443 
-            xmax = 66.49968319397274 
-            text = "ʔáχbəzan" 
-        intervals [22]:
-            xmin = 66.49968319397274 
-            xmax = 66.7856450603735 
-            text = "" 
-        intervals [23]:
-            xmin = 66.7856450603735 
-            xmax = 67.614 
-            text = "ʔáχbəzan" 
-        intervals [24]:
-            xmin = 67.614 
-            xmax = 69.446791929255 
-            text = "" 
-        intervals [25]:
-            xmin = 69.446791929255 
-            xmax = 70.385 
-            text = "báˤri" 
-        intervals [26]:
-            xmin = 70.385 
-            xmax = 70.4982616749609 
-            text = "" 
-        intervals [27]:
-            xmin = 70.4982616749609 
-            xmax = 71.257 
-            text = "báˤri" 
-        intervals [28]:
-            xmin = 71.257 
-            xmax = 73.63313516241496 
-            text = "" 
-        intervals [29]:
-            xmin = 73.63313516241496 
-            xmax = 74.76729057194548 
-            text = "líbχˤkʰʷès" 
-        intervals [30]:
-            xmin = 74.76729057194548 
-            xmax = 75.1892393854438 
-            text = "" 
-        intervals [31]:
-            xmin = 75.1892393854438 
-            xmax = 76.14332746692091 
-            text = "líbχˤkʰʷès" 
-        intervals [32]:
-            xmin = 76.14332746692091 
-            xmax = 76.86392558913916 
-            text = "" 
-        intervals [33]:
-            xmin = 76.86392558913916 
-            xmax = 78.085 
-            text = "líbχˤkʰès" 
-        intervals [34]:
-            xmin = 78.085 
-            xmax = 78.32370675168977 
-            text = "" 
-        intervals [35]:
-            xmin = 78.32370675168977 
-            xmax = 79.285 
-            text = "líbχˤkʰès" 
-        intervals [36]:
-            xmin = 79.285 
-            xmax = 79.90828605184433 
-            text = "" 
-        intervals [37]:
-            xmin = 79.90828605184433 
-            xmax = 81.20475262650201 
-            text = "líbχˤdekʰès" 
-        intervals [38]:
-            xmin = 81.20475262650201 
-            xmax = 81.54562871661987 
-            text = "" 
-        intervals [39]:
-            xmin = 81.54562871661987 
-            xmax = 82.53305384034172 
-            text = "líbχˤdekʰès" 
-        intervals [40]:
-            xmin = 82.53305384034172 
-            xmax = 86.73362297652525 
-            text = "" 
-        intervals [41]:
-            xmin = 86.73362297652525 
-            xmax = 87.814 
-            text = "gerbéʦ" 
-        intervals [42]:
-            xmin = 87.814 
-            xmax = 88.39281122033304 
-            text = "" 
-        intervals [43]:
-            xmin = 88.39281122033304 
-            xmax = 89.3 
-            text = "gerbéʦ" 
-        intervals [44]:
-            xmin = 89.3 
-            xmax = 97.96803394427202 
-            text = "" 
-        intervals [45]:
-            xmin = 97.96803394427202 
-            xmax = 98.53000876559763 
-            text = "pʰánqʼ" 
-        intervals [46]:
-            xmin = 98.53000876559763 
-            xmax = 112.571 
-            text = "" 
-        intervals [47]:
-            xmin = 112.571 
-            xmax = 113.166 
-            text = "pʰártːuqʼ" 
-        intervals [48]:
-            xmin = 113.166 
-            xmax = 138.55180415507456 
-            text = "" 
-        intervals [49]:
-            xmin = 138.55180415507456 
-            xmax = 138.93752512972048 
-            text = "kʰupʰár" 
-        intervals [50]:
-            xmin = 138.93752512972048 
-            xmax = 138.946 
-            text = "" 
-        intervals [51]:
-            xmin = 138.946 
-            xmax = 139.33482333492262 
-            text = "kʰupʰár" 
-        intervals [52]:
-            xmin = 139.33482333492262 
-            xmax = 139.343 
-            text = "" 
-        intervals [53]:
-            xmin = 139.343 
-            xmax = 139.745 
-            text = "kʰupʰár" 
-        intervals [54]:
-            xmin = 139.745 
-            xmax = 177.486 
-            text = "" 
-        intervals [55]:
-            xmin = 177.486 
-            xmax = 177.968 
-            text = "qípʰ" 
-        intervals [56]:
-            xmin = 177.968 
-            xmax = 178.433 
-            text = "" 
-        intervals [57]:
-            xmin = 178.433 
-            xmax = 178.915 
-            text = "qípʰ" 
-        intervals [58]:
-            xmin = 178.915 
-            xmax = 188.296 
-            text = "" 
-        intervals [59]:
-            xmin = 188.296 
-            xmax = 189.156 
-            text = "pʰáˤrtʼi" 
-        intervals [60]:
-            xmin = 189.156 
-            xmax = 189.324079710836 
-            text = "" 
-        intervals [61]:
-            xmin = 189.324079710836 
-            xmax = 190.056 
-            text = "pʰáˤrtʼi" 
-        intervals [62]:
-            xmin = 190.056 
-            xmax = 201.156 
-            text = "" 
-        intervals [63]:
-            xmin = 201.156 
-            xmax = 202.076 
-            text = "kʼəpʰéˤl" 
-        intervals [64]:
-            xmin = 202.076 
-            xmax = 202.44961256849342 
-            text = "" 
-        intervals [65]:
-            xmin = 202.44961256849342 
-            xmax = 203.116 
-            text = "kʼəpʰéˤl" 
-        intervals [66]:
-            xmin = 203.116 
-            xmax = 203.73329775200972 
-            text = "" 
-        intervals [67]:
-            xmin = 203.73329775200972 
-            xmax = 204.516 
-            text = "kʼəpʰéˤl" 
-        intervals [68]:
-            xmin = 204.516 
-            xmax = 204.73812749056526 
-            text = "" 
-        intervals [69]:
-            xmin = 204.73812749056526 
-            xmax = 205.476 
-            text = "kʼəpʰéˤl" 
-        intervals [70]:
-            xmin = 205.476 
-            xmax = 207.896 
-            text = "" 
-        intervals [71]:
-            xmin = 207.896 
-            xmax = 208.566 
-            text = "qəlín" 
-        intervals [72]:
-            xmin = 208.566 
-            xmax = 209.036 
-            text = "" 
-        intervals [73]:
-            xmin = 209.036 
-            xmax = 209.706 
-            text = "qəlín" 
-        intervals [74]:
-            xmin = 209.706 
-            xmax = 215.979 
-            text = "" 
-        intervals [75]:
-            xmin = 215.979 
-            xmax = 217.026060190266 
-            text = "pʼábòs" 
-        intervals [76]:
-            xmin = 217.026060190266 
-            xmax = 217.156 
-            text = "" 
-        intervals [77]:
-            xmin = 217.156 
-            xmax = 218.01814156170067 
-            text = "pʼábòs" 
-        intervals [78]:
-            xmin = 218.01814156170067 
-            xmax = 228.84456396657117 
-            text = "" 
-        intervals [79]:
-            xmin = 228.84456396657117 
-            xmax = 229.677 
-            text = "lépʼurqʼòn" 
-        intervals [80]:
-            xmin = 229.677 
-            xmax = 229.9193859209118 
-            text = "" 
-        intervals [81]:
-            xmin = 229.9193859209118 
-            xmax = 230.598 
-            text = "lʼépʼurqʼòn" 
-        intervals [82]:
-            xmin = 230.598 
-            xmax = 238.6475287632619 
-            text = "" 
-        intervals [83]:
-            xmin = 238.6475287632619 
-            xmax = 239.53723537380046 
-            text = "hérqʼbòs" 
-        intervals [84]:
-            xmin = 239.53723537380046 
-            xmax = 243.795 
-            text = "" 
-        intervals [85]:
-            xmin = 243.795 
-            xmax = 244.38114145077031 
-            text = "pʼáˤrpʼəla" 
-        intervals [86]:
-            xmin = 244.38114145077031 
-            xmax = 244.388 
-            text = "" 
-        intervals [87]:
-            xmin = 244.388 
-            xmax = 244.913 
-            text = "pʼáˤrpʼəla" 
-        intervals [88]:
-            xmin = 244.913 
-            xmax = 245.3023555336063 
-            text = "" 
-        intervals [89]:
-            xmin = 245.3023555336063 
-            xmax = 246.113 
-            text = "pʼáˤrpʼəla" 
-        intervals [90]:
-            xmin = 246.113 
-            xmax = 246.46350623965733 
-            text = "" 
-        intervals [91]:
-            xmin = 246.46350623965733 
-            xmax = 247.162 
-            text = "pʼáˤrpʼəla" 
-        intervals [92]:
-            xmin = 247.162 
-            xmax = 250.414 
-            text = "" 
-        intervals [93]:
-            xmin = 250.414 
-            xmax = 251.276 
-            text = "ʧʼáˤpʼi" 
-        intervals [94]:
-            xmin = 251.276 
-            xmax = 251.348 
-            text = "" 
-        intervals [95]:
-            xmin = 251.348 
-            xmax = 252.087 
-            text = "ʧʼáˤpʼi" 
-        intervals [96]:
-            xmin = 252.087 
-            xmax = 254.66509204626115 
-            text = "" 
-        intervals [97]:
-            xmin = 254.66509204626115 
-            xmax = 255.5406023901964 
-            text = "lápːus" 
-        intervals [98]:
-            xmin = 255.5406023901964 
-            xmax = 255.546 
-            text = "" 
-        intervals [99]:
-            xmin = 255.546 
-            xmax = 256.3039000585483 
-            text = "lápːus" 
-        intervals [100]:
-            xmin = 256.3039000585483 
-            xmax = 259.5073516862356 
-            text = "" 
-        intervals [101]:
-            xmin = 259.5073516862356 
-            xmax = 260.40998845998104 
-            text = "ɬípːu" 
-        intervals [102]:
-            xmin = 260.40998845998104 
-            xmax = 260.445 
-            text = "" 
-        intervals [103]:
-            xmin = 260.445 
-            xmax = 261.192 
-            text = "ɬípːu" 
-        intervals [104]:
-            xmin = 261.192 
-            xmax = 264.4962706358884 
-            text = "" 
-        intervals [105]:
-            xmin = 264.4962706358884 
-            xmax = 265.41243891424676 
-            text = "ʔaˤpːáˤsi" 
-        intervals [106]:
-            xmin = 265.41243891424676 
-            xmax = 265.4504894970211 
-            text = "" 
-        intervals [107]:
-            xmin = 265.4504894970211 
-            xmax = 266.33910325353486 
-            text = "ʔaˤpːáˤsi" 
-        intervals [108]:
-            xmin = 266.33910325353486 
-            xmax = 268.966 
-            text = "" 
-        intervals [109]:
-            xmin = 268.966 
-            xmax = 269.77377335408244 
-            text = "dáb" 
-        intervals [110]:
-            xmin = 269.77377335408244 
-            xmax = 270.066 
-            text = "" 
-        intervals [111]:
-            xmin = 270.066 
-            xmax = 270.846 
-            text = "dáb" 
-        intervals [112]:
-            xmin = 270.846 
-            xmax = 272.733988875431 
-            text = "" 
-        intervals [113]:
-            xmin = 272.733988875431 
-            xmax = 273.526 
-            text = "nədó" 
-        intervals [114]:
-            xmin = 273.526 
-            xmax = 273.986 
-            text = "" 
-        intervals [115]:
-            xmin = 273.986 
-            xmax = 274.606 
-            text = "nədó" 
-        intervals [116]:
-            xmin = 274.606 
-            xmax = 280.326 
-            text = "" 
-        intervals [117]:
-            xmin = 280.326 
-            xmax = 281.48759455320675 
-            text = "ʔabád" 
-        intervals [118]:
-            xmin = 281.48759455320675 
-            xmax = 281.4939888402492 
-            text = "" 
-        intervals [119]:
-            xmin = 281.4939888402492 
-            xmax = 282.2941881901291 
-            text = "ʔabád" 
-        intervals [120]:
-            xmin = 282.2941881901291 
-            xmax = 284.786 
-            text = "" 
-        intervals [121]:
-            xmin = 284.786 
-            xmax = 285.686 
-            text = "ʔúʃdu" 
-        intervals [122]:
-            xmin = 285.686 
-            xmax = 285.926 
-            text = "" 
-        intervals [123]:
-            xmin = 285.926 
-            xmax = 286.586 
-            text = "ʔúʃdu" 
-        intervals [124]:
-            xmin = 286.586 
-            xmax = 294.6091323182438 
-            text = "" 
-        intervals [125]:
-            xmin = 294.6091323182438 
-            xmax = 295.156 
-            text = "tʰól" 
-        intervals [126]:
-            xmin = 295.156 
-            xmax = 295.556 
-            text = "" 
-        intervals [127]:
-            xmin = 295.556 
-            xmax = 296.056 
-            text = "tʰól" 
-        intervals [128]:
-            xmin = 296.056 
-            xmax = 298.1667179144267 
-            text = "" 
-        intervals [129]:
-            xmin = 298.1667179144267 
-            xmax = 298.956 
-            text = "mətʰól" 
-        intervals [130]:
-            xmin = 298.956 
-            xmax = 299.216 
-            text = "" 
-        intervals [131]:
-            xmin = 299.216 
-            xmax = 299.736 
-            text = "mətʰól" 
-        intervals [132]:
-            xmin = 299.736 
-            xmax = 302.976 
-            text = "" 
-        intervals [133]:
-            xmin = 302.976 
-            xmax = 303.616 
-            text = "ʧútʰ" 
-        intervals [134]:
-            xmin = 303.616 
-            xmax = 303.876 
-            text = "" 
-        intervals [135]:
-            xmin = 303.876 
-            xmax = 304.396 
-            text = "ʧútʰ" 
-        intervals [136]:
-            xmin = 304.396 
-            xmax = 306.356 
-            text = "" 
-        intervals [137]:
-            xmin = 306.356 
-            xmax = 307.047 
-            text = "χˤértʰ" 
-        intervals [138]:
-            xmin = 307.047 
-            xmax = 307.416 
-            text = "" 
-        intervals [139]:
-            xmin = 307.416 
-            xmax = 308.156 
-            text = "χˤértʰ" 
-        intervals [140]:
-            xmin = 308.156 
-            xmax = 316.416 
-            text = "" 
-        intervals [141]:
-            xmin = 316.416 
-            xmax = 317.033 
-            text = "tʰʷás" 
-        intervals [142]:
-            xmin = 317.033 
-            xmax = 317.575 
-            text = "" 
-        intervals [143]:
-            xmin = 317.575 
-            xmax = 318.1724755986335 
-            text = "tʰʷás" 
-        intervals [144]:
-            xmin = 318.1724755986335 
-            xmax = 326.43759871191656 
-            text = "" 
-        intervals [145]:
-            xmin = 326.43759871191656 
-            xmax = 327.116 
-            text = "tʼém" 
-        intervals [146]:
-            xmin = 327.116 
-            xmax = 327.32138819368424 
-            text = "" 
-        intervals [147]:
-            xmin = 327.32138819368424 
-            xmax = 327.7036225151367 
-            text = "tʼém" 
-        intervals [148]:
-            xmin = 327.7036225151367 
-            xmax = 330.136 
-            text = "" 
-        intervals [149]:
-            xmin = 330.136 
-            xmax = 331.056 
-            text = "qʼˤətʼól" 
-        intervals [150]:
-            xmin = 331.056 
-            xmax = 331.3598436468534 
-            text = "" 
-        intervals [151]:
-            xmin = 331.3598436468534 
-            xmax = 332.096 
-            text = "qʼˤətʼól" 
-        intervals [152]:
-            xmin = 332.096 
-            xmax = 336.247 
-            text = "" 
-        intervals [153]:
-            xmin = 336.247 
-            xmax = 336.996 
-            text = "tʼántʼ" 
-        intervals [154]:
-            xmin = 336.996 
-            xmax = 337.455606251369 
-            text = "" 
-        intervals [155]:
-            xmin = 337.455606251369 
-            xmax = 338.0398799389166 
-            text = "tʼántʼ" 
-        intervals [156]:
-            xmin = 338.0398799389166 
-            xmax = 341.116 
-            text = "" 
-        intervals [157]:
-            xmin = 341.116 
-            xmax = 341.756 
-            text = "tʼéˤ" 
-        intervals [158]:
-            xmin = 341.756 
-            xmax = 342.432734688926 
-            text = "" 
-        intervals [159]:
-            xmin = 342.432734688926 
-            xmax = 343.016 
-            text = "tʼéˤ" 
-        intervals [160]:
-            xmin = 343.016 
-            xmax = 345.236 
-            text = "" 
-        intervals [161]:
-            xmin = 345.236 
-            xmax = 346.256 
-            text = "qʼətːí" 
-        intervals [162]:
-            xmin = 346.256 
-            xmax = 346.676 
-            text = "" 
-        intervals [163]:
-            xmin = 346.676 
-            xmax = 347.516 
-            text = "qʼətːí" 
-        intervals [164]:
-            xmin = 347.516 
-            xmax = 354.676 
-            text = "" 
-        intervals [165]:
-            xmin = 354.676 
-            xmax = 355.716 
-            text = "ʔátːas" 
-        intervals [166]:
-            xmin = 355.716 
-            xmax = 355.7971750331 
-            text = "" 
-        intervals [167]:
-            xmin = 355.7971750331 
-            xmax = 356.476 
-            text = "ʔátːas" 
-        intervals [168]:
-            xmin = 356.476 
-            xmax = 371.734 
-            text = "" 
-        intervals [169]:
-            xmin = 371.734 
-            xmax = 372.506 
-            text = "ʔábtːu" 
-        intervals [170]:
-            xmin = 372.506 
-            xmax = 372.7955280901028 
-            text = "" 
-        intervals [171]:
-            xmin = 372.7955280901028 
-            xmax = 373.706 
-            text = "ʔábtːu" 
-        intervals [172]:
-            xmin = 373.706 
-            xmax = 375.7218316544655 
-            text = "" 
-        intervals [173]:
-            xmin = 375.7218316544655 
-            xmax = 376.39 
-            text = "gón" 
-        intervals [174]:
-            xmin = 376.39 
-            xmax = 377.0450177546453 
-            text = "" 
-        intervals [175]:
-            xmin = 377.0450177546453 
-            xmax = 377.533 
-            text = "gón" 
-        intervals [176]:
-            xmin = 377.533 
-            xmax = 386.83 
-            text = "" 
-        intervals [177]:
-            xmin = 386.83 
-            xmax = 387.447 
-            text = "dəgó" 
-        intervals [178]:
-            xmin = 387.447 
-            xmax = 387.778 
-            text = "" 
-        intervals [179]:
-            xmin = 387.778 
-            xmax = 388.176 
-            text = "dəgó" 
-        intervals [180]:
-            xmin = 388.176 
-            xmax = 392.819 
-            text = "" 
-        intervals [181]:
-            xmin = 392.819 
-            xmax = 393.718 
-            text = "gáˤnʒi" 
-        intervals [182]:
-            xmin = 393.718 
-            xmax = 394.03505721604506 
-            text = "" 
-        intervals [183]:
-            xmin = 394.03505721604506 
-            xmax = 394.6771740423778 
-            text = "gáˤnʒi" 
-        intervals [184]:
-            xmin = 394.6771740423778 
-            xmax = 407.07 
-            text = "" 
-        intervals [185]:
-            xmin = 407.07 
-            xmax = 408.175 
-            text = "ʔəˤngáˤbòs" 
-        intervals [186]:
-            xmin = 408.175 
-            xmax = 408.357 
-            text = "" 
-        intervals [187]:
-            xmin = 408.357 
-            xmax = 409.15 
-            text = "ʔəˤngáˤbòs" 
-        intervals [188]:
-            xmin = 409.15 
-            xmax = 433.332 
-            text = "" 
-        intervals [189]:
-            xmin = 433.332 
-            xmax = 434.146 
-            text = "gʷáʦi" 
-        intervals [190]:
-            xmin = 434.146 
-            xmax = 434.43997355048975 
-            text = "" 
-        intervals [191]:
-            xmin = 434.43997355048975 
-            xmax = 435.066 
-            text = "gʷáʦi" 
-        intervals [192]:
-            xmin = 435.066 
-            xmax = 443.946 
-            text = "" 
-        intervals [193]:
-            xmin = 443.946 
-            xmax = 444.826 
-            text = "gʷás" 
-        intervals [194]:
-            xmin = 444.826 
-            xmax = 445.026 
-            text = "" 
-        intervals [195]:
-            xmin = 445.026 
-            xmax = 445.746 
-            text = "gʷás" 
-        intervals [196]:
-            xmin = 445.746 
-            xmax = 447.794 
-            text = "" 
-        intervals [197]:
-            xmin = 447.794 
-            xmax = 448.866 
-            text = "ʦʼégʷdutʰ" 
-        intervals [198]:
-            xmin = 448.866 
-            xmax = 449.1197653779099 
-            text = "" 
-        intervals [199]:
-            xmin = 449.1197653779099 
-            xmax = 449.952 
-            text = "ʦʼégʷdutʰ" 
-        intervals [200]:
-            xmin = 449.952 
-            xmax = 453.5510071789229 
-            text = "" 
-        intervals [201]:
-            xmin = 453.5510071789229 
-            xmax = 454.3791046919728 
-            text = "kʰukʰú" 
-        intervals [202]:
-            xmin = 454.3791046919728 
-            xmax = 454.7603497274308 
-            text = "" 
-        intervals [203]:
-            xmin = 454.7603497274308 
-            xmax = 455.3832480389002 
-            text = "kʰukʰú" 
-        intervals [204]:
-            xmin = 455.3832480389002 
-            xmax = 458.15 
-            text = "" 
-        intervals [205]:
-            xmin = 458.15 
-            xmax = 459.106669137108 
-            text = "sːukʰú" 
-        intervals [206]:
-            xmin = 459.106669137108 
-            xmax = 470.671 
-            text = "" 
-        intervals [207]:
-            xmin = 470.671 
-            xmax = 471.3842539814418 
-            text = "sːukʰú" 
-        intervals [208]:
-            xmin = 471.3842539814418 
-            xmax = 471.8347611909549 
-            text = "" 
-        intervals [209]:
-            xmin = 471.8347611909549 
-            xmax = 472.4290472971211 
-            text = "sːukʰú" 
-        intervals [210]:
-            xmin = 472.4290472971211 
-            xmax = 475.363 
-            text = "'" 
-        intervals [211]:
-            xmin = 475.363 
-            xmax = 476.166 
-            text = "lókʰ" 
-        intervals [212]:
-            xmin = 476.166 
-            xmax = 476.76889381857654 
-            text = "" 
-        intervals [213]:
-            xmin = 476.76889381857654 
-            xmax = 477.406 
-            text = "lókʰ" 
-        intervals [214]:
-            xmin = 477.406 
-            xmax = 481.9345863600833 
-            text = "" 
-        intervals [215]:
-            xmin = 481.9345863600833 
-            xmax = 482.93346245153975 
-            text = "héjkʰəla" 
-        intervals [216]:
-            xmin = 482.93346245153975 
-            xmax = 483.391 
-            text = "" 
-        intervals [217]:
-            xmin = 483.391 
-            xmax = 484.442 
-            text = "héjkʰəla" 
-        intervals [218]:
-            xmin = 484.442 
-            xmax = 487.857 
-            text = "" 
-        intervals [219]:
-            xmin = 487.857 
-            xmax = 488.646 
-            text = "kʰáˤrʃːi" 
-        intervals [220]:
-            xmin = 488.646 
-            xmax = 489.177 
-            text = "" 
-        intervals [221]:
-            xmin = 489.177 
-            xmax = 490.05572868905745 
-            text = "kʰáˤrʃːi" 
-        intervals [222]:
-            xmin = 490.05572868905745 
-            xmax = 494.571 
-            text = "" 
-        intervals [223]:
-            xmin = 494.571 
-            xmax = 495.37265243540855 
-            text = "qʷán" 
-        intervals [224]:
-            xmin = 495.37265243540855 
-            xmax = 495.8506634451767 
-            text = "" 
-        intervals [225]:
-            xmin = 495.8506634451767 
-            xmax = 496.451 
-            text = "qʷán" 
-        intervals [226]:
-            xmin = 496.451 
-            xmax = 527.724 
-            text = "" 
-        intervals [227]:
-            xmin = 527.724 
-            xmax = 528.31 
-            text = "kʰʷám" 
-        intervals [228]:
-            xmin = 528.31 
-            xmax = 607.4531853392185 
-            text = "" 
-        intervals [229]:
-            xmin = 607.4531853392185 
-            xmax = 608.05 
-            text = "kʰʷíʦʼ" 
-        intervals [230]:
-            xmin = 608.05 
-            xmax = 631.086 
-            text = "" 
-        intervals [231]:
-            xmin = 631.086 
-            xmax = 631.7177370015255 
-            text = "qʷíri" 
-        intervals [232]:
-            xmin = 631.7177370015255 
-            xmax = 696.448 
-            text = "" 
-        intervals [233]:
-            xmin = 696.448 
-            xmax = 696.878 
-            text = "qʷíri" 
-        intervals [234]:
-            xmin = 696.878 
-            xmax = 815.552 
-            text = "" 
-        intervals [235]:
-            xmin = 815.552 
-            xmax = 816.0331794387803 
-            text = "mákʰʷ" 
-        intervals [236]:
-            xmin = 816.0331794387803 
-            xmax = 817.427 
-            text = "" 
-        intervals [237]:
-            xmin = 817.427 
-            xmax = 818.0187175787006 
-            text = "mákʰʷ" 
-        intervals [238]:
-            xmin = 818.0187175787006 
-            xmax = 820.58 
-            text = "" 
-        intervals [239]:
-            xmin = 820.58 
-            xmax = 821.154 
-            text = "kʼób" 
-        intervals [240]:
-            xmin = 821.154 
-            xmax = 821.977 
-            text = "" 
-        intervals [241]:
-            xmin = 821.977 
-            xmax = 822.466 
-            text = "kʼób" 
-        intervals [242]:
-            xmin = 822.466 
-            xmax = 827.485 
-            text = "" 
-        intervals [243]:
-            xmin = 827.485 
-            xmax = 828.241 
-            text = "ʔákʼàs" 
-        intervals [244]:
-            xmin = 828.241 
-            xmax = 828.654 
-            text = "" 
-        intervals [245]:
-            xmin = 828.654 
-            xmax = 829.427 
-            text = "ʔákʼàs" 
-        intervals [246]:
-            xmin = 829.427 
-            xmax = 835.928 
-            text = "" 
-        intervals [247]:
-            xmin = 835.928 
-            xmax = 836.701 
-            text = "ʔówkʼàs" 
-        intervals [248]:
-            xmin = 836.701 
-            xmax = 836.813 
-            text = "" 
-        intervals [249]:
-            xmin = 836.813 
-            xmax = 837.586 
-            text = "ʔówkʼàs" 
-        intervals [250]:
-            xmin = 837.586 
-            xmax = 837.666 
-            text = "" 
-        intervals [251]:
-            xmin = 837.666 
-            xmax = 838.439 
-            text = "ʔárkʼàs" 
-        intervals [252]:
-            xmin = 838.439 
-            xmax = 838.46 
-            text = "" 
-        intervals [253]:
-            xmin = 838.46 
-            xmax = 839.086 
-            text = "ʔárkʼàs" 
-        intervals [254]:
-            xmin = 839.086 
-            xmax = 842.0223626904236 
-            text = "" 
-        intervals [255]:
-            xmin = 842.0223626904236 
-            xmax = 842.646 
-            text = "χːíkʼ" 
-        intervals [256]:
-            xmin = 842.646 
-            xmax = 843.1876716591787 
-            text = "" 
-        intervals [257]:
-            xmin = 843.1876716591787 
-            xmax = 843.846 
-            text = "χːíkʼ" 
-        intervals [258]:
-            xmin = 843.846 
-            xmax = 852.655 
-            text = "" 
-        intervals [259]:
-            xmin = 852.655 
-            xmax = 853.293 
-            text = "qónkʼ" 
-        intervals [260]:
-            xmin = 853.293 
-            xmax = 853.9522775424692 
-            text = "" 
-        intervals [261]:
-            xmin = 853.9522775424692 
-            xmax = 854.413 
-            text = "qónkʼ" 
-        intervals [262]:
-            xmin = 854.413 
-            xmax = 860.306 
-            text = "" 
-        intervals [263]:
-            xmin = 860.306 
-            xmax = 861.252966543065 
-            text = "kʼóˤpʰi" 
-        intervals [264]:
-            xmin = 861.252966543065 
-            xmax = 861.5414972653989 
-            text = "" 
-        intervals [265]:
-            xmin = 861.5414972653989 
-            xmax = 862.106 
-            text = "kʼóˤpʰi" 
-        intervals [266]:
-            xmin = 862.106 
-            xmax = 868.221721135383 
-            text = "" 
-        intervals [267]:
-            xmin = 868.221721135383 
-            xmax = 868.897 
-            text = "kʼʷántʼ" 
-        intervals [268]:
-            xmin = 868.897 
-            xmax = 869.632 
-            text = "" 
-        intervals [269]:
-            xmin = 869.632 
-            xmax = 870.191 
-            text = "kʼʷántʼ" 
-        intervals [270]:
-            xmin = 870.191 
-            xmax = 976.551 
-            text = "" 
-        intervals [271]:
-            xmin = 976.551 
-            xmax = 977.463 
-            text = "mákʼʷ" 
-        intervals [272]:
-            xmin = 977.463 
-            xmax = 977.941 
-            text = "" 
-        intervals [273]:
-            xmin = 977.941 
-            xmax = 978.683 
-            text = "mákʼʷ" 
-        intervals [274]:
-            xmin = 978.683 
-            xmax = 993.455 
-            text = "" 
-        intervals [275]:
-            xmin = 993.455 
-            xmax = 994.186 
-            text = "ʧʼiníkʼʷ" 
-        intervals [276]:
-            xmin = 994.186 
-            xmax = 994.6605555812272 
-            text = "" 
-        intervals [277]:
-            xmin = 994.6605555812272 
-            xmax = 995.306 
-            text = "ʧʼiníkʼʷ" 
-        intervals [278]:
-            xmin = 995.306 
-            xmax = 1003.33 
-            text = "" 
-        intervals [279]:
-            xmin = 1003.33 
-            xmax = 1004.026 
-            text = "kʼʷáˤh" 
-        intervals [280]:
-            xmin = 1004.026 
-            xmax = 1004.426 
-            text = "" 
-        intervals [281]:
-            xmin = 1004.426 
-            xmax = 1005.226 
-            text = "kʼʷáˤh" 
-        intervals [282]:
-            xmin = 1005.226 
-            xmax = 1007.078740243584 
-            text = "" 
-        intervals [283]:
-            xmin = 1007.078740243584 
-            xmax = 1007.926544427577 
-            text = "mukːúl" 
-        intervals [284]:
-            xmin = 1007.926544427577 
-            xmax = 1008.1292418936044 
-            text = "" 
-        intervals [285]:
-            xmin = 1008.1292418936044 
-            xmax = 1008.786 
-            text = "mukːúl" 
-        intervals [286]:
-            xmin = 1008.786 
-            xmax = 1020.044 
-            text = "" 
-        intervals [287]:
-            xmin = 1020.044 
-            xmax = 1021.166 
-            text = "sárkːàs" 
-        intervals [288]:
-            xmin = 1021.166 
-            xmax = 1021.463 
-            text = "" 
-        intervals [289]:
-            xmin = 1021.463 
-            xmax = 1022.326 
-            text = "sárkːàs" 
-        intervals [290]:
-            xmin = 1022.326 
-            xmax = 1026.661 
-            text = "" 
-        intervals [291]:
-            xmin = 1026.661 
-            xmax = 1027.646 
-            text = "háˤnkːur" 
-        intervals [292]:
-            xmin = 1027.646 
-            xmax = 1027.8268255660464 
-            text = "" 
-        intervals [293]:
-            xmin = 1027.8268255660464 
-            xmax = 1028.606 
-            text = "háˤnkːur" 
-        intervals [294]:
-            xmin = 1028.606 
-            xmax = 1029.201356366159 
-            text = "" 
-        intervals [295]:
-            xmin = 1029.201356366159 
-            xmax = 1030.086 
-            text = "háˤnkːur" 
-        intervals [296]:
-            xmin = 1030.086 
-            xmax = 1030.3594795214192 
-            text = "" 
-        intervals [297]:
-            xmin = 1030.3594795214192 
-            xmax = 1031.126 
-            text = "háˤnkːur" 
-        intervals [298]:
-            xmin = 1031.126 
-            xmax = 1037.5967047744025 
-            text = "" 
-        intervals [299]:
-            xmin = 1037.5967047744025 
-            xmax = 1038.390640765481 
-            text = "ʔákːʷa" 
-        intervals [300]:
-            xmin = 1038.390640765481 
-            xmax = 1038.7608303314692 
-            text = "" 
-        intervals [301]:
-            xmin = 1038.7608303314692 
-            xmax = 1039.446 
-            text = "ʔákːʷa" 
-        intervals [302]:
-            xmin = 1039.446 
-            xmax = 1041.886 
-            text = "" 
-        intervals [303]:
-            xmin = 1041.886 
-            xmax = 1042.886 
-            text = "ʔírkːʷa" 
-        intervals [304]:
-            xmin = 1042.886 
-            xmax = 1042.966 
-            text = "" 
-        intervals [305]:
-            xmin = 1042.966 
-            xmax = 1043.646 
-            text = "ʔírkːʷa" 
-        intervals [306]:
-            xmin = 1043.646 
-            xmax = 1046.52 
-            text = "" 
-    item [6]:
-        class = "IntervalTier" 
-        name = "ID" 
-        xmin = 0 
-        xmax = 1046.52 
-        intervals: size = 87 
-        intervals [1]:
-            xmin = 0 
-            xmax = 6.391562136143834 
-            text = "" 
-        intervals [2]:
-            xmin = 6.391562136143834 
-            xmax = 12.051893023146116 
-            text = "PSX-130" 
-        intervals [3]:
-            xmin = 12.051893023146116 
-            xmax = 12.851043920324706 
-            text = "" 
-        intervals [4]:
-            xmin = 12.851043920324706 
-            xmax = 44.4 
-            text = "PSX-131" 
-        intervals [5]:
-            xmin = 44.4 
-            xmax = 44.94 
-            text = "" 
-        intervals [6]:
-            xmin = 44.94 
-            xmax = 48.98 
-            text = "PSX-132" 
-        intervals [7]:
-            xmin = 48.98 
-            xmax = 52.94 
-            text = "PSX-133" 
-        intervals [8]:
-            xmin = 52.94 
-            xmax = 58.92 
-            text = "PSX-134" 
-        intervals [9]:
-            xmin = 58.92 
-            xmax = 59.675 
-            text = "" 
-        intervals [10]:
-            xmin = 59.675 
-            xmax = 67.75 
-            text = "PSX-135" 
-        intervals [11]:
-            xmin = 67.75 
-            xmax = 71.799 
-            text = "PSX-136" 
-        intervals [12]:
-            xmin = 71.799 
-            xmax = 71.899 
-            text = "" 
-        intervals [13]:
-            xmin = 71.899 
-            xmax = 84.31 
-            text = "PSX-137" 
-        intervals [14]:
-            xmin = 84.31 
-            xmax = 90.253 
-            text = "PSX-138" 
-        intervals [15]:
-            xmin = 90.253 
-            xmax = 90.286 
-            text = "" 
-        intervals [16]:
-            xmin = 90.286 
-            xmax = 101.4 
-            text = "PSX-139" 
-        intervals [17]:
-            xmin = 101.4 
-            xmax = 131.1 
-            text = "PSX-140" 
-        intervals [18]:
-            xmin = 131.1 
-            xmax = 131.316 
-            text = "" 
-        intervals [19]:
-            xmin = 131.316 
-            xmax = 171.516 
-            text = "PSX-141" 
-        intervals [20]:
-            xmin = 171.516 
-            xmax = 181.136 
-            text = "PSX-142" 
-        intervals [21]:
-            xmin = 181.136 
-            xmax = 190.116 
-            text = "PSX-143" 
-        intervals [22]:
-            xmin = 190.116 
-            xmax = 205.756 
-            text = "PSX-144" 
-        intervals [23]:
-            xmin = 205.756 
-            xmax = 213.756 
-            text = "PSX-145" 
-        intervals [24]:
-            xmin = 213.756 
-            xmax = 218.596 
-            text = "PSX-146" 
-        intervals [25]:
-            xmin = 218.596 
-            xmax = 231.716 
-            text = "PSX-147" 
-        intervals [26]:
-            xmin = 231.716 
-            xmax = 240.116 
-            text = "PSX-148" 
-        intervals [27]:
-            xmin = 240.116 
-            xmax = 240.489 
-            text = "" 
-        intervals [28]:
-            xmin = 240.489 
-            xmax = 248.246 
-            text = "PSX-149" 
-        intervals [29]:
-            xmin = 248.246 
-            xmax = 252.106 
-            text = "PSX-150" 
-        intervals [30]:
-            xmin = 252.106 
-            xmax = 256.386 
-            text = "PSX-151" 
-        intervals [31]:
-            xmin = 256.386 
-            xmax = 261.866 
-            text = "PSX-152" 
-        intervals [32]:
-            xmin = 261.866 
-            xmax = 266.966 
-            text = "PSX-153" 
-        intervals [33]:
-            xmin = 266.966 
-            xmax = 271.306 
-            text = "PSX-154" 
-        intervals [34]:
-            xmin = 271.306 
-            xmax = 274.806 
-            text = "PSX-155" 
-        intervals [35]:
-            xmin = 274.806 
-            xmax = 283.086 
-            text = "PSX-156" 
-        intervals [36]:
-            xmin = 283.086 
-            xmax = 286.586 
-            text = "PSX-157" 
-        intervals [37]:
-            xmin = 286.586 
-            xmax = 288.271 
-            text = "PSX-158" 
-        intervals [38]:
-            xmin = 288.271 
-            xmax = 288.701 
-            text = "" 
-        intervals [39]:
-            xmin = 288.701 
-            xmax = 296.416 
-            text = "PSX-159" 
-        intervals [40]:
-            xmin = 296.416 
-            xmax = 296.526 
-            text = "" 
-        intervals [41]:
-            xmin = 296.526 
-            xmax = 299.736 
-            text = "PSX-160" 
-        intervals [42]:
-            xmin = 299.736 
-            xmax = 304.736 
-            text = "PSX-161" 
-        intervals [43]:
-            xmin = 304.736 
-            xmax = 308.236 
-            text = "PSX-162" 
-        intervals [44]:
-            xmin = 308.236 
-            xmax = 318.516 
-            text = "PSX-163" 
-        intervals [45]:
-            xmin = 318.516 
-            xmax = 327.956 
-            text = "PSX-164" 
-        intervals [46]:
-            xmin = 327.956 
-            xmax = 333.236 
-            text = "PSX-165" 
-        intervals [47]:
-            xmin = 333.236 
-            xmax = 338.436 
-            text = "PSX-166" 
-        intervals [48]:
-            xmin = 338.436 
-            xmax = 338.871 
-            text = "" 
-        intervals [49]:
-            xmin = 338.871 
-            xmax = 343.016 
-            text = "PSX-167" 
-        intervals [50]:
-            xmin = 343.016 
-            xmax = 347.596 
-            text = "PSX-168" 
-        intervals [51]:
-            xmin = 347.596 
-            xmax = 365.631 
-            text = "PSX-169" 
-        intervals [52]:
-            xmin = 365.631 
-            xmax = 366.613 
-            text = "" 
-        intervals [53]:
-            xmin = 366.613 
-            xmax = 373.846 
-            text = "PSX-170" 
-        intervals [54]:
-            xmin = 373.846 
-            xmax = 378.206 
-            text = "PSX-171" 
-        intervals [55]:
-            xmin = 378.206 
-            xmax = 389.166 
-            text = "PSX-172" 
-        intervals [56]:
-            xmin = 389.166 
-            xmax = 396.066 
-            text = "PSX-173" 
-        intervals [57]:
-            xmin = 396.066 
-            xmax = 429.377 
-            text = "PSX-174" 
-        intervals [58]:
-            xmin = 429.377 
-            xmax = 430.626 
-            text = "" 
-        intervals [59]:
-            xmin = 430.626 
-            xmax = 436.026 
-            text = "PSX-175" 
-        intervals [60]:
-            xmin = 436.026 
-            xmax = 446.226 
-            text = "PSX-176" 
-        intervals [61]:
-            xmin = 446.226 
-            xmax = 450.586 
-            text = "PSX-177" 
-        intervals [62]:
-            xmin = 450.586 
-            xmax = 455.866 
-            text = "PSX-178" 
-        intervals [63]:
-            xmin = 455.866 
-            xmax = 456.048 
-            text = "" 
-        intervals [64]:
-            xmin = 456.048 
-            xmax = 473.006 
-            text = "PSX-179" 
-        intervals [65]:
-            xmin = 473.006 
-            xmax = 478.206 
-            text = "PSX-180" 
-        intervals [66]:
-            xmin = 478.206 
-            xmax = 485.126 
-            text = "PSX-181" 
-        intervals [67]:
-            xmin = 485.126 
-            xmax = 490.766 
-            text = "PSX-182" 
-        intervals [68]:
-            xmin = 490.766 
-            xmax = 596.366 
-            text = "PSX-183" 
-        intervals [69]:
-            xmin = 596.366 
-            xmax = 803.866 
-            text = "PSX-184" 
-        intervals [70]:
-            xmin = 803.866 
-            xmax = 819.146 
-            text = "PSX-185" 
-        intervals [71]:
-            xmin = 819.146 
-            xmax = 822.646 
-            text = "PSX-186" 
-        intervals [72]:
-            xmin = 822.646 
-            xmax = 840.046 
-            text = "PSX-187" 
-        intervals [73]:
-            xmin = 840.046 
-            xmax = 844.086 
-            text = "PSX-188" 
-        intervals [74]:
-            xmin = 844.086 
-            xmax = 854.915 
-            text = "PSX-189" 
-        intervals [75]:
-            xmin = 854.915 
-            xmax = 855.626 
-            text = "" 
-        intervals [76]:
-            xmin = 855.626 
-            xmax = 862.546 
-            text = "PSX-190" 
-        intervals [77]:
-            xmin = 862.546 
-            xmax = 870.946 
-            text = "PSX-191" 
-        intervals [78]:
-            xmin = 870.946 
-            xmax = 983.64 
-            text = "PSX-192" 
-        intervals [79]:
-            xmin = 983.64 
-            xmax = 984.266 
-            text = "" 
-        intervals [80]:
-            xmin = 984.266 
-            xmax = 996.466 
-            text = "PSX-193" 
-        intervals [81]:
-            xmin = 996.466 
-            xmax = 1005.586 
-            text = "PSX-194" 
-        intervals [82]:
-            xmin = 1005.586 
-            xmax = 1009.086 
-            text = "PSX-195" 
-        intervals [83]:
-            xmin = 1009.086 
-            xmax = 1023.206 
-            text = "PSX-196" 
-        intervals [84]:
-            xmin = 1023.206 
-            xmax = 1031.846 
-            text = "PSX-197" 
-        intervals [85]:
-            xmin = 1031.846 
-            xmax = 1039.726 
-            text = "PSX-198" 
-        intervals [86]:
-            xmin = 1039.726 
-            xmax = 1044.486 
-            text = "PSX-199" 
-        intervals [87]:
-            xmin = 1044.486 
-            xmax = 1046.52 
-            text = "" 
-    item [7]:
-        class = "IntervalTier" 
-        name = "Russian" 
-        xmin = 0 
-        xmax = 1046.52 
-        intervals: size = 87 
-        intervals [1]:
-            xmin = 0 
-            xmax = 6.391562136143834 
-            text = "" 
-        intervals [2]:
-            xmin = 6.391562136143834 
-            xmax = 12.051893023146116 
-            text = "говорить" 
-        intervals [3]:
-            xmin = 12.051893023146116 
-            xmax = 12.851043920324706 
-            text = "" 
-        intervals [4]:
-            xmin = 12.851043920324706 
-            xmax = 44.4 
-            text = "ласточка" 
-        intervals [5]:
-            xmin = 44.4 
-            xmax = 44.94 
-            text = "" 
-        intervals [6]:
-            xmin = 44.94 
-            xmax = 48.98 
-            text = "рот" 
-        intervals [7]:
-            xmin = 48.98 
-            xmax = 52.94 
-            text = "слеза" 
-        intervals [8]:
-            xmin = 52.94 
-            xmax = 58.92 
-            text = "комната для оплакивания" 
-        intervals [9]:
-            xmin = 58.92 
-            xmax = 59.675 
-            text = "" 
-        intervals [10]:
-            xmin = 59.675 
-            xmax = 67.75 
-            text = "абрикос" 
-        intervals [11]:
-            xmin = 67.75 
-            xmax = 71.799 
-            text = "водоем" 
-        intervals [12]:
-            xmin = 71.799 
-            xmax = 71.899 
-            text = "" 
-        intervals [13]:
-            xmin = 71.899 
-            xmax = 84.31 
-            text = "стыдиться" 
-        intervals [14]:
-            xmin = 84.31 
-            xmax = 90.253 
-            text = "айва" 
-        intervals [15]:
-            xmin = 90.253 
-            xmax = 90.286 
-            text = "" 
-        intervals [16]:
-            xmin = 90.286 
-            xmax = 101.4 
-            text = "лепешка" 
-        intervals [17]:
-            xmin = 101.4 
-            xmax = 131.1 
-            text = "тулуп" 
-        intervals [18]:
-            xmin = 131.1 
-            xmax = 131.316 
-            text = "" 
-        intervals [19]:
-            xmin = 131.316 
-            xmax = 171.516 
-            text = "слой навоза на крыше" 
-        intervals [20]:
-            xmin = 171.516 
-            xmax = 181.136 
-            text = "кал" 
-        intervals [21]:
-            xmin = 181.136 
-            xmax = 190.116 
-            text = "слепая кишка" 
-        intervals [22]:
-            xmin = 190.116 
-            xmax = 205.756 
-            text = "потник " 
-        intervals [23]:
-            xmin = 205.756 
-            xmax = 213.756 
-            text = "папироса" 
-        intervals [24]:
-            xmin = 213.756 
-            xmax = 218.596 
-            text = "целовать" 
-        intervals [25]:
-            xmin = 218.596 
-            xmax = 231.716 
-            text = "козел 2-3 лет" 
-        intervals [26]:
-            xmin = 231.716 
-            xmax = 240.116 
-            text = "отрыгивать" 
-        intervals [27]:
-            xmin = 240.116 
-            xmax = 240.489 
-            text = "" 
-        intervals [28]:
-            xmin = 240.489 
-            xmax = 248.246 
-            text = "перепел" 
-        intervals [29]:
-            xmin = 248.246 
-            xmax = 252.106 
-            text = "гной" 
-        intervals [30]:
-            xmin = 252.106 
-            xmax = 256.386 
-            text = "бросить" 
-        intervals [31]:
-            xmin = 256.386 
-            xmax = 261.866 
-            text = "три" 
-        intervals [32]:
-            xmin = 261.866 
-            xmax = 266.966 
-            text = "монета в 20 копеек" 
-        intervals [33]:
-            xmin = 266.966 
-            xmax = 271.306 
-            text = "шило" 
-        intervals [34]:
-            xmin = 271.306 
-            xmax = 274.806 
-            text = "лоб" 
-        intervals [35]:
-            xmin = 274.806 
-            xmax = 283.086 
-            text = "всегда" 
-        intervals [36]:
-            xmin = 283.086 
-            xmax = 286.586 
-            text = "брат" 
-        intervals [37]:
-            xmin = 286.586 
-            xmax = 288.271 
-            text = "звук ударов капель" 
-        intervals [38]:
-            xmin = 288.271 
-            xmax = 288.701 
-            text = "" 
-        intervals [39]:
-            xmin = 288.701 
-            xmax = 296.416 
-            text = "рыболовная сеть" 
-        intervals [40]:
-            xmin = 296.416 
-            xmax = 296.526 
-            text = "" 
-        intervals [41]:
-            xmin = 296.526 
-            xmax = 299.736 
-            text = "козленок" 
-        intervals [42]:
-            xmin = 299.736 
-            xmax = 304.736 
-            text = "пара" 
-        intervals [43]:
-            xmin = 304.736 
-            xmax = 308.236 
-            text = "груша" 
-        intervals [44]:
-            xmin = 308.236 
-            xmax = 318.516 
-            text = "вянуть" 
-        intervals [45]:
-            xmin = 318.516 
-            xmax = 327.956 
-            text = "травинка" 
-        intervals [46]:
-            xmin = 327.956 
-            xmax = 333.236 
-            text = "пояс" 
-        intervals [47]:
-            xmin = 333.236 
-            xmax = 338.436 
-            text = "пчела" 
-        intervals [48]:
-            xmin = 338.436 
-            xmax = 338.871 
-            text = "" 
-        intervals [49]:
-            xmin = 338.871 
-            xmax = 343.016 
-            text = "цветок" 
-        intervals [50]:
-            xmin = 343.016 
-            xmax = 347.596 
-            text = "сажа" 
-        intervals [51]:
-            xmin = 347.596 
-            xmax = 365.631 
-            text = "бодаться" 
-        intervals [52]:
-            xmin = 365.631 
-            xmax = 366.613 
-            text = "" 
-        intervals [53]:
-            xmin = 366.613 
-            xmax = 373.846 
-            text = "отец" 
-        intervals [54]:
-            xmin = 373.846 
-            xmax = 378.206 
-            text = "палец" 
-        intervals [55]:
-            xmin = 378.206 
-            xmax = 389.166 
-            text = "козел" 
-        intervals [56]:
-            xmin = 389.166 
-            xmax = 396.066 
-            text = "коренной зуб" 
-        intervals [57]:
-            xmin = 396.066 
-            xmax = 429.377 
-            text = "плакать" 
-        intervals [58]:
-            xmin = 429.377 
-            xmax = 430.626 
-            text = "" 
-        intervals [59]:
-            xmin = 430.626 
-            xmax = 436.026 
-            text = "кобыла" 
-        intervals [60]:
-            xmin = 436.026 
-            xmax = 446.226 
-            text = "согнуться" 
-        intervals [61]:
-            xmin = 446.226 
-            xmax = 450.586 
-            text = "кислый" 
-        intervals [62]:
-            xmin = 450.586 
-            xmax = 455.866 
-            text = "яичница" 
-        intervals [63]:
-            xmin = 455.866 
-            xmax = 456.048 
-            text = "" 
-        intervals [64]:
-            xmin = 456.048 
-            xmax = 473.006 
-            text = "нары" 
-        intervals [65]:
-            xmin = 473.006 
-            xmax = 478.206 
-            text = "колос" 
-        intervals [66]:
-            xmin = 478.206 
-            xmax = 485.126 
-            text = "женское украшение" 
-        intervals [67]:
-            xmin = 485.126 
-            xmax = 490.766 
-            text = "сабля" 
-        intervals [68]:
-            xmin = 490.766 
-            xmax = 596.366 
-            text = "жаровня" 
-        intervals [69]:
-            xmin = 596.366 
-            xmax = 803.866 
-            text = "клок шерсти" 
-        intervals [70]:
-            xmin = 803.866 
-            xmax = 819.146 
-            text = "лучина" 
-        intervals [71]:
-            xmin = 819.146 
-            xmax = 822.646 
-            text = "одежда" 
-        intervals [72]:
-            xmin = 822.646 
-            xmax = 840.046 
-            text = "заставлять" 
-        intervals [73]:
-            xmin = 840.046 
-            xmax = 844.086 
-            text = "кулак" 
-        intervals [74]:
-            xmin = 844.086 
-            xmax = 854.915 
-            text = "хинкал" 
-        intervals [75]:
-            xmin = 854.915 
-            xmax = 855.626 
-            text = "" 
-        intervals [76]:
-            xmin = 855.626 
-            xmax = 862.546 
-            text = "кипа" 
-        intervals [77]:
-            xmin = 862.546 
-            xmax = 870.946 
-            text = "родинка" 
-        intervals [78]:
-            xmin = 870.946 
-            xmax = 983.64 
-            text = "колючка" 
-        intervals [79]:
-            xmin = 983.64 
-            xmax = 984.266 
-            text = "" 
-        intervals [80]:
-            xmin = 984.266 
-            xmax = 996.466 
-            text = "коса" 
-        intervals [81]:
-            xmin = 996.466 
-            xmax = 1005.586 
-            text = "лохмотья" 
-        intervals [82]:
-            xmin = 1005.586 
-            xmax = 1009.086 
-            text = "веник" 
-        intervals [83]:
-            xmin = 1009.086 
-            xmax = 1023.206 
-            text = "смотреть" 
-        intervals [84]:
-            xmin = 1023.206 
-            xmax = 1031.846 
-            text = "волдырь" 
-        intervals [85]:
-            xmin = 1031.846 
-            xmax = 1039.726 
-            text = "увидь!" 
-        intervals [86]:
-            xmin = 1039.726 
-            xmax = 1044.486 
-            text = "ищи!" 
-        intervals [87]:
-            xmin = 1044.486 
-            xmax = 1046.52 
-            text = "" 
-    item [8]:
-        class = "IntervalTier" 
-        name = "Notes-EG" 
-        xmin = 0 
-        xmax = 1046.52 
-        intervals: size = 23 
-        intervals [1]:
-            xmin = 0 
-            xmax = 12.051893023146116 
-            text = "" 
-        intervals [2]:
-            xmin = 12.051893023146116 
-            xmax = 12.851043920324706 
-            text = "" 
-        intervals [3]:
-            xmin = 12.851043920324706 
-            xmax = 44.4 
-            text = "kʼurtʼuqӀan -- сорока" 
-        intervals [4]:
-            xmin = 44.4 
-            xmax = 55.60129776361496 
-            text = "" 
-        intervals [5]:
-            xmin = 55.60129776361496 
-            xmax = 57.02 
-            text = "[AA:] pre-frication? [-pχ-]" 
-        intervals [6]:
-            xmin = 57.02 
-            xmax = 57.30951411018287 
-            text = "" 
-        intervals [7]:
-            xmin = 57.30951411018287 
-            xmax = 58.65538153475153 
-            text = "[AA:] pre-frication? [-pχ-]" 
-        intervals [8]:
-            xmin = 58.65538153475153 
-            xmax = 59.675 
-            text = "" 
-        intervals [9]:
-            xmin = 59.675 
-            xmax = 67.75 
-            text = "ударение?" 
-        intervals [10]:
-            xmin = 67.75 
-            xmax = 231.716 
-            text = "" 
-        intervals [11]:
-            xmin = 231.716 
-            xmax = 240.116 
-            text = "ʕopʼ-bos не говорят" 
-        intervals [12]:
-            xmin = 240.116 
-            xmax = 389.166 
-            text = "" 
-        intervals [13]:
-            xmin = 389.166 
-            xmax = 396.066 
-            text = "упереднение а?" 
-        intervals [14]:
-            xmin = 396.066 
-            xmax = 490.766 
-            text = "" 
-        intervals [15]:
-            xmin = 490.766 
-            xmax = 596.366 
-            text = "наложение голосов (1); k˳am vs. q˳an; оч. сильн. qχ" 
-        intervals [16]:
-            xmin = 596.366 
-            xmax = 803.866 
-            text = "в сочетании с шерстью не употр.; рассказ об обработке шерсти; пучок (травы); оч. сильн. qχ в qʷiri" 
-        intervals [17]:
-            xmin = 803.866 
-            xmax = 822.646 
-            text = "" 
-        intervals [18]:
-            xmin = 822.646 
-            xmax = 840.046 
-            text = "наложение голосов (1)" 
-        intervals [19]:
-            xmin = 840.046 
-            xmax = 844.086 
-            text = "" 
-        intervals [20]:
-            xmin = 844.086 
-            xmax = 854.915 
-            text = "оч. короткий и слабый шум у q" 
-        intervals [21]:
-            xmin = 854.915 
-            xmax = 870.946 
-            text = "" 
-        intervals [22]:
-            xmin = 870.946 
-            xmax = 983.64 
-            text = "три вида колючек" 
-        intervals [23]:
-            xmin = 983.64 
             xmax = 1046.52 
             text = "" 
