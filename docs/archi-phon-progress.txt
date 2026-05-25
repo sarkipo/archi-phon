@@ -1,0 +1,33 @@
+АРЧИНСКАЯ ФОН.БАЗА
+
+PSX    	eaf	phn	segm
+01-vows	+	RI+	TZ+
+02-stop +	RI+	TZ+
+03-affr	+	RI+	PP-
+04-fric	+	RI+	-
+05-lar_	+	RI+	-
+
+JSP
+01-vows	+	RI+	AL+
+02-stop	+	RI+	AN-
+03-affr	-
+04-fric	-
+05-lars	-
+06-var_	-
+07-nump	-
+
+HDK
+01-vows	+	RI+	AZ-
+02-stop	+	RI+	AZ-
+03-affr	+	RI+	
+04-fric	+	RI+	
+05-lars	+	RI+	
+06-var_	+	RI+	
+07-nump	+	-
+
+RI	Руслан Идрисов
+AL	?Анна Литягина
+AN	Андрей Никулин
+AZ	Айгуль Закирова
+TZ	Татьяна Зефирова
+PP	Полина Плешак

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<query date="Tue Sep 25 15:47:16 MSD 2012">
+<description>Quantifier:	Search.Constraint.Any
+Tier name:	Search.Constraint.AllTiers
+Pattern:	(?<=[\.!\?]++)
+Unit:	Search.Constraint.Inside
+Lower boundary:	-9223372036854775808
+Upper boundary:	9223372036854775807
+</description>
+<anchorConstraint id="C" regularExpression="true" caseSensitive="false" unit="Search.Constraint.Inside">
+<tier>Search.Constraint.AllTiers</tier><pattern>(?<=[\.!\?]++)</pattern>
+</anchorConstraint></query>

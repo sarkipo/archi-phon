@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<query date="Fri Jul 06 16:44:51 MSD 2012">
+<description>Quantifier:	Search.Constraint.Any
+Tier name:	Phonemic-na
+Tier name:	Phonetic-na
+Pattern:	-qː
+Unit:	Search.Constraint.Inside
+Lower boundary:	-9223372036854775808
+Upper boundary:	9223372036854775807
+</description>
+<anchorConstraint id="C" regularExpression="true" caseSensitive="false" unit="Search.Constraint.Inside">
+<tier>Phonemic-na</tier><tier>Phonetic-na</tier><pattern>-qː</pattern>
+</anchorConstraint></query>
