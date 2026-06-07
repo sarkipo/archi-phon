@@ -4,1167 +4,11 @@ Object class = "TextGrid"
 xmin = 0 
 xmax = 553.741 
 tiers? <exists> 
-size = 8 
+size = 7 
 item []: 
     item [1]:
         class = "IntervalTier" 
-        name = "ID" 
-        xmin = 0 
-        xmax = 553.741 
-        intervals: size = 143 
-        intervals [1]:
-            xmin = 0 
-            xmax = 4.328 
-            text = "" 
-        intervals [2]:
-            xmin = 4.328 
-            xmax = 7.985 
-            text = "HDJ-300" 
-        intervals [3]:
-            xmin = 7.985 
-            xmax = 8.566 
-            text = "" 
-        intervals [4]:
-            xmin = 8.566 
-            xmax = 13.98 
-            text = "HDJ-301" 
-        intervals [5]:
-            xmin = 13.98 
-            xmax = 14.933 
-            text = "" 
-        intervals [6]:
-            xmin = 14.933 
-            xmax = 19.833 
-            text = "HDJ-302" 
-        intervals [7]:
-            xmin = 19.833 
-            xmax = 20.84 
-            text = "" 
-        intervals [8]:
-            xmin = 20.84 
-            xmax = 25.833 
-            text = "HDJ-303" 
-        intervals [9]:
-            xmin = 25.833 
-            xmax = 26.286 
-            text = "" 
-        intervals [10]:
-            xmin = 26.286 
-            xmax = 31.08 
-            text = "HDJ-304" 
-        intervals [11]:
-            xmin = 31.08 
-            xmax = 31.46 
-            text = "" 
-        intervals [12]:
-            xmin = 31.46 
-            xmax = 37.2 
-            text = "HDJ-305" 
-        intervals [13]:
-            xmin = 37.2 
-            xmax = 37.513 
-            text = "" 
-        intervals [14]:
-            xmin = 37.513 
-            xmax = 42.393 
-            text = "HDJ-306" 
-        intervals [15]:
-            xmin = 42.393 
-            xmax = 43.246 
-            text = "" 
-        intervals [16]:
-            xmin = 43.246 
-            xmax = 49.96 
-            text = "HDJ-307" 
-        intervals [17]:
-            xmin = 49.96 
-            xmax = 50.2 
-            text = "" 
-        intervals [18]:
-            xmin = 50.2 
-            xmax = 54.08 
-            text = "HDJ-308" 
-        intervals [19]:
-            xmin = 54.08 
-            xmax = 54.58 
-            text = "" 
-        intervals [20]:
-            xmin = 54.58 
-            xmax = 62.22 
-            text = "HDJ-309" 
-        intervals [21]:
-            xmin = 62.22 
-            xmax = 63.2 
-            text = "" 
-        intervals [22]:
-            xmin = 63.2 
-            xmax = 70.486 
-            text = "HDJ-310" 
-        intervals [23]:
-            xmin = 70.486 
-            xmax = 72.433 
-            text = "" 
-        intervals [24]:
-            xmin = 72.433 
-            xmax = 78.353 
-            text = "HDJ-311" 
-        intervals [25]:
-            xmin = 78.353 
-            xmax = 78.546 
-            text = "" 
-        intervals [26]:
-            xmin = 78.546 
-            xmax = 82.653 
-            text = "HDJ-312" 
-        intervals [27]:
-            xmin = 82.653 
-            xmax = 83.106 
-            text = "" 
-        intervals [28]:
-            xmin = 83.106 
-            xmax = 86.633 
-            text = "HDJ-309" 
-        intervals [29]:
-            xmin = 86.633 
-            xmax = 87.186 
-            text = "" 
-        intervals [30]:
-            xmin = 87.186 
-            xmax = 95.033 
-            text = "HDJ-314" 
-        intervals [31]:
-            xmin = 95.033 
-            xmax = 95.12 
-            text = "" 
-        intervals [32]:
-            xmin = 95.12 
-            xmax = 99.44 
-            text = "HDJ-315" 
-        intervals [33]:
-            xmin = 99.44 
-            xmax = 99.806 
-            text = "" 
-        intervals [34]:
-            xmin = 99.806 
-            xmax = 103.813 
-            text = "HDJ-317" 
-        intervals [35]:
-            xmin = 103.813 
-            xmax = 104.146 
-            text = "" 
-        intervals [36]:
-            xmin = 104.146 
-            xmax = 108.186 
-            text = "HDJ-318" 
-        intervals [37]:
-            xmin = 108.186 
-            xmax = 108.466 
-            text = "" 
-        intervals [38]:
-            xmin = 108.466 
-            xmax = 115.72 
-            text = "HDJ-319" 
-        intervals [39]:
-            xmin = 115.72 
-            xmax = 116.493 
-            text = "" 
-        intervals [40]:
-            xmin = 116.493 
-            xmax = 120.493 
-            text = "HDJ-320" 
-        intervals [41]:
-            xmin = 120.493 
-            xmax = 120.886 
-            text = "" 
-        intervals [42]:
-            xmin = 120.886 
-            xmax = 125.286 
-            text = "HDJ-321" 
-        intervals [43]:
-            xmin = 125.286 
-            xmax = 125.746 
-            text = "" 
-        intervals [44]:
-            xmin = 125.746 
-            xmax = 129.45 
-            text = "HDJ-322" 
-        intervals [45]:
-            xmin = 129.45 
-            xmax = 129.633 
-            text = "" 
-        intervals [46]:
-            xmin = 129.633 
-            xmax = 134.613 
-            text = "HDJ-323" 
-        intervals [47]:
-            xmin = 134.613 
-            xmax = 135.106 
-            text = "" 
-        intervals [48]:
-            xmin = 135.106 
-            xmax = 138.646 
-            text = "HDJ-324" 
-        intervals [49]:
-            xmin = 138.646 
-            xmax = 138.953 
-            text = "" 
-        intervals [50]:
-            xmin = 138.953 
-            xmax = 142.877 
-            text = "HDJ-325" 
-        intervals [51]:
-            xmin = 142.877 
-            xmax = 143.16 
-            text = "" 
-        intervals [52]:
-            xmin = 143.16 
-            xmax = 147.339 
-            text = "HDJ-326" 
-        intervals [53]:
-            xmin = 147.339 
-            xmax = 147.633 
-            text = "" 
-        intervals [54]:
-            xmin = 147.633 
-            xmax = 152.653 
-            text = "HDJ-327" 
-        intervals [55]:
-            xmin = 152.653 
-            xmax = 153.513 
-            text = "" 
-        intervals [56]:
-            xmin = 153.513 
-            xmax = 163.34 
-            text = "HDJ-328" 
-        intervals [57]:
-            xmin = 163.34 
-            xmax = 164.34 
-            text = "" 
-        intervals [58]:
-            xmin = 164.34 
-            xmax = 168.44 
-            text = "HDJ-329" 
-        intervals [59]:
-            xmin = 168.44 
-            xmax = 168.86 
-            text = "" 
-        intervals [60]:
-            xmin = 168.86 
-            xmax = 175.36 
-            text = "HDJ-330" 
-        intervals [61]:
-            xmin = 175.36 
-            xmax = 176.506 
-            text = "" 
-        intervals [62]:
-            xmin = 176.506 
-            xmax = 183.013 
-            text = "HDJ-331" 
-        intervals [63]:
-            xmin = 183.013 
-            xmax = 183.506 
-            text = "" 
-        intervals [64]:
-            xmin = 183.506 
-            xmax = 186.96 
-            text = "HDJ-332" 
-        intervals [65]:
-            xmin = 186.96 
-            xmax = 187.573 
-            text = "" 
-        intervals [66]:
-            xmin = 187.573 
-            xmax = 196.42 
-            text = "HDJ-333" 
-        intervals [67]:
-            xmin = 196.42 
-            xmax = 196.726 
-            text = "" 
-        intervals [68]:
-            xmin = 196.726 
-            xmax = 200.76 
-            text = "HDJ-334" 
-        intervals [69]:
-            xmin = 200.76 
-            xmax = 201.233 
-            text = "" 
-        intervals [70]:
-            xmin = 201.233 
-            xmax = 210.846 
-            text = "HDJ-335" 
-        intervals [71]:
-            xmin = 210.846 
-            xmax = 210.986 
-            text = "" 
-        intervals [72]:
-            xmin = 210.986 
-            xmax = 218.52 
-            text = "HDJ-336" 
-        intervals [73]:
-            xmin = 218.52 
-            xmax = 219.006 
-            text = "" 
-        intervals [74]:
-            xmin = 219.006 
-            xmax = 222.586 
-            text = "HDJ-337" 
-        intervals [75]:
-            xmin = 222.586 
-            xmax = 223.166 
-            text = "" 
-        intervals [76]:
-            xmin = 223.166 
-            xmax = 227.773 
-            text = "HDJ-338" 
-        intervals [77]:
-            xmin = 227.773 
-            xmax = 228.04 
-            text = "" 
-        intervals [78]:
-            xmin = 228.04 
-            xmax = 248.246 
-            text = "HDJ-339" 
-        intervals [79]:
-            xmin = 248.246 
-            xmax = 248.386 
-            text = "" 
-        intervals [80]:
-            xmin = 248.386 
-            xmax = 252.293 
-            text = "HDJ-340" 
-        intervals [81]:
-            xmin = 252.293 
-            xmax = 252.813 
-            text = "" 
-        intervals [82]:
-            xmin = 252.813 
-            xmax = 256.74 
-            text = "HDJ-341" 
-        intervals [83]:
-            xmin = 256.74 
-            xmax = 257.413 
-            text = "" 
-        intervals [84]:
-            xmin = 257.413 
-            xmax = 260.946 
-            text = "HDJ-342" 
-        intervals [85]:
-            xmin = 260.946 
-            xmax = 261.24 
-            text = "" 
-        intervals [86]:
-            xmin = 261.24 
-            xmax = 273.153 
-            text = "HDJ-343" 
-        intervals [87]:
-            xmin = 273.153 
-            xmax = 273.266 
-            text = "" 
-        intervals [88]:
-            xmin = 273.266 
-            xmax = 277.033 
-            text = "HDJ-344" 
-        intervals [89]:
-            xmin = 277.033 
-            xmax = 277.493 
-            text = "" 
-        intervals [90]:
-            xmin = 277.493 
-            xmax = 281.413 
-            text = "HDJ-345" 
-        intervals [91]:
-            xmin = 281.413 
-            xmax = 282.06 
-            text = "" 
-        intervals [92]:
-            xmin = 282.06 
-            xmax = 285.6 
-            text = "HDJ-346" 
-        intervals [93]:
-            xmin = 285.6 
-            xmax = 286.693 
-            text = "" 
-        intervals [94]:
-            xmin = 286.693 
-            xmax = 292.666 
-            text = "HDJ-347" 
-        intervals [95]:
-            xmin = 292.666 
-            xmax = 294.2 
-            text = "" 
-        intervals [96]:
-            xmin = 294.2 
-            xmax = 312.52 
-            text = "HDJ-348" 
-        intervals [97]:
-            xmin = 312.52 
-            xmax = 314.646 
-            text = "" 
-        intervals [98]:
-            xmin = 314.646 
-            xmax = 318.86 
-            text = "HDJ-349" 
-        intervals [99]:
-            xmin = 318.86 
-            xmax = 320.66 
-            text = "" 
-        intervals [100]:
-            xmin = 320.66 
-            xmax = 327.06 
-            text = "HDJ-350" 
-        intervals [101]:
-            xmin = 327.06 
-            xmax = 327.526 
-            text = "" 
-        intervals [102]:
-            xmin = 327.526 
-            xmax = 336.773 
-            text = "HDJ-351" 
-        intervals [103]:
-            xmin = 336.773 
-            xmax = 337.46 
-            text = "" 
-        intervals [104]:
-            xmin = 337.46 
-            xmax = 346.393 
-            text = "HDJ-352" 
-        intervals [105]:
-            xmin = 346.393 
-            xmax = 346.693 
-            text = "" 
-        intervals [106]:
-            xmin = 346.693 
-            xmax = 351.493 
-            text = "HDJ-353" 
-        intervals [107]:
-            xmin = 351.493 
-            xmax = 352.686 
-            text = "" 
-        intervals [108]:
-            xmin = 352.686 
-            xmax = 356.26 
-            text = "HDJ-354" 
-        intervals [109]:
-            xmin = 356.26 
-            xmax = 357.04 
-            text = "" 
-        intervals [110]:
-            xmin = 357.04 
-            xmax = 360.746 
-            text = "HDJ-355" 
-        intervals [111]:
-            xmin = 360.746 
-            xmax = 361.566 
-            text = "" 
-        intervals [112]:
-            xmin = 361.566 
-            xmax = 366.481 
-            text = "HDJ-356" 
-        intervals [113]:
-            xmin = 366.481 
-            xmax = 366.72 
-            text = "" 
-        intervals [114]:
-            xmin = 366.72 
-            xmax = 371.86 
-            text = "HDJ-357" 
-        intervals [115]:
-            xmin = 371.86 
-            xmax = 372.76 
-            text = "" 
-        intervals [116]:
-            xmin = 372.76 
-            xmax = 376.693 
-            text = "HDJ-358" 
-        intervals [117]:
-            xmin = 376.693 
-            xmax = 377.1 
-            text = "" 
-        intervals [118]:
-            xmin = 377.1 
-            xmax = 385.693 
-            text = "HDJ-359" 
-        intervals [119]:
-            xmin = 385.693 
-            xmax = 386.686 
-            text = "" 
-        intervals [120]:
-            xmin = 386.686 
-            xmax = 396.013 
-            text = "HDJ-360" 
-        intervals [121]:
-            xmin = 396.013 
-            xmax = 396.393 
-            text = "" 
-        intervals [122]:
-            xmin = 396.393 
-            xmax = 405.593 
-            text = "HDJ-362" 
-        intervals [123]:
-            xmin = 405.593 
-            xmax = 405.966 
-            text = "" 
-        intervals [124]:
-            xmin = 405.966 
-            xmax = 411.56 
-            text = "HDJ-361" 
-        intervals [125]:
-            xmin = 411.56 
-            xmax = 412.366 
-            text = "" 
-        intervals [126]:
-            xmin = 412.366 
-            xmax = 441.76 
-            text = "HDJ-363" 
-        intervals [127]:
-            xmin = 441.76 
-            xmax = 443.2 
-            text = "" 
-        intervals [128]:
-            xmin = 443.2 
-            xmax = 455.113 
-            text = "HDJ-364" 
-        intervals [129]:
-            xmin = 455.113 
-            xmax = 455.506 
-            text = "" 
-        intervals [130]:
-            xmin = 455.506 
-            xmax = 459.24 
-            text = "HDJ-365" 
-        intervals [131]:
-            xmin = 459.24 
-            xmax = 460.26 
-            text = "" 
-        intervals [132]:
-            xmin = 460.26 
-            xmax = 463.94 
-            text = "HDJ-366" 
-        intervals [133]:
-            xmin = 463.94 
-            xmax = 464.206 
-            text = "" 
-        intervals [134]:
-            xmin = 464.206 
-            xmax = 467.34 
-            text = "HDJ-367" 
-        intervals [135]:
-            xmin = 467.34 
-            xmax = 468.006 
-            text = "" 
-        intervals [136]:
-            xmin = 468.006 
-            xmax = 472.16 
-            text = "HDJ-368" 
-        intervals [137]:
-            xmin = 472.16 
-            xmax = 472.673 
-            text = "" 
-        intervals [138]:
-            xmin = 472.673 
-            xmax = 476.084 
-            text = "HDJ-369" 
-        intervals [139]:
-            xmin = 476.084 
-            xmax = 476.953 
-            text = "" 
-        intervals [140]:
-            xmin = 476.953 
-            xmax = 482.01 
-            text = "HDJ-???" 
-        intervals [141]:
-            xmin = 482.01 
-            xmax = 482.76 
-            text = "" 
-        intervals [142]:
-            xmin = 482.76 
-            xmax = 501.89 
-            text = "HDJ-370" 
-        intervals [143]:
-            xmin = 501.89 
-            xmax = 553.741 
-            text = "" 
-    item [2]:
-        class = "IntervalTier" 
-        name = "Orthographic-entry" 
-        xmin = 0 
-        xmax = 553.741 
-        intervals: size = 143 
-        intervals [1]:
-            xmin = 0 
-            xmax = 4.328 
-            text = "" 
-        intervals [2]:
-            xmin = 4.328 
-            xmax = 7.985 
-            text = "zon" 
-        intervals [3]:
-            xmin = 7.985 
-            xmax = 8.566 
-            text = "" 
-        intervals [4]:
-            xmin = 8.566 
-            xmax = 13.98 
-            text = "kʼaz" 
-        intervals [5]:
-            xmin = 13.98 
-            xmax = 14.933 
-            text = "" 
-        intervals [6]:
-            xmin = 14.933 
-            xmax = 19.833 
-            text = "zimzu" 
-        intervals [7]:
-            xmin = 19.833 
-            xmax = 20.84 
-            text = "" 
-        intervals [8]:
-            xmin = 20.84 
-            xmax = 25.833 
-            text = "qenz-bos" 
-        intervals [9]:
-            xmin = 25.833 
-            xmax = 26.286 
-            text = "" 
-        intervals [10]:
-            xmin = 26.286 
-            xmax = 31.08 
-            text = "z˳arʁ-bos" 
-        intervals [11]:
-            xmin = 31.08 
-            xmax = 31.46 
-            text = "" 
-        intervals [12]:
-            xmin = 31.46 
-            xmax = 37.2 
-            text = "s̄ol" 
-        intervals [13]:
-            xmin = 37.2 
-            xmax = 37.513 
-            text = "" 
-        intervals [14]:
-            xmin = 37.513 
-            xmax = 42.393 
-            text = "məsol" 
-        intervals [15]:
-            xmin = 42.393 
-            xmax = 43.246 
-            text = "" 
-        intervals [16]:
-            xmin = 43.246 
-            xmax = 49.96 
-            text = "kus" 
-        intervals [17]:
-            xmin = 49.96 
-            xmax = 50.2 
-            text = "" 
-        intervals [18]:
-            xmin = 50.2 
-            xmax = 54.08 
-            text = "ans" 
-        intervals [19]:
-            xmin = 54.08 
-            xmax = 54.58 
-            text = "" 
-        intervals [20]:
-            xmin = 54.58 
-            xmax = 62.22 
-            text = "s˳as" 
-        intervals [21]:
-            xmin = 62.22 
-            xmax = 63.2 
-            text = "" 
-        intervals [22]:
-            xmin = 63.2 
-            xmax = 70.486 
-            text = "s̄am" 
-        intervals [23]:
-            xmin = 70.486 
-            xmax = 72.433 
-            text = "" 
-        intervals [24]:
-            xmin = 72.433 
-            xmax = 78.353 
-            text = "s̄irs̄an" 
-        intervals [25]:
-            xmin = 78.353 
-            xmax = 78.546 
-            text = "" 
-        intervals [26]:
-            xmin = 78.546 
-            xmax = 82.653 
-            text = "as̄as" 
-        intervals [27]:
-            xmin = 82.653 
-            xmax = 83.106 
-            text = "" 
-        intervals [28]:
-            xmin = 83.106 
-            xmax = 86.633 
-            text = "s˳as" 
-        intervals [29]:
-            xmin = 86.633 
-            xmax = 87.186 
-            text = "" 
-        intervals [30]:
-            xmin = 87.186 
-            xmax = 95.033 
-            text = "žinžru" 
-        intervals [31]:
-            xmin = 95.033 
-            xmax = 95.12 
-            text = "" 
-        intervals [32]:
-            xmin = 95.12 
-            xmax = 99.44 
-            text = "ʁӀaž-bos" 
-        intervals [33]:
-            xmin = 99.44 
-            xmax = 99.806 
-            text = "" 
-        intervals [34]:
-            xmin = 99.806 
-            xmax = 103.813 
-            text = "haӀžəla" 
-        intervals [35]:
-            xmin = 103.813 
-            xmax = 104.146 
-            text = "" 
-        intervals [36]:
-            xmin = 104.146 
-            xmax = 108.186 
-            text = "ž˳en" 
-        intervals [37]:
-            xmin = 108.186 
-            xmax = 108.466 
-            text = "" 
-        intervals [38]:
-            xmin = 108.466 
-            xmax = 115.72 
-            text = "ž˳al-bos" 
-        intervals [39]:
-            xmin = 115.72 
-            xmax = 116.493 
-            text = "" 
-        intervals [40]:
-            xmin = 116.493 
-            xmax = 120.493 
-            text = "šut̄a" 
-        intervals [41]:
-            xmin = 120.493 
-            xmax = 120.886 
-            text = "" 
-        intervals [42]:
-            xmin = 120.886 
-            xmax = 125.286 
-            text = "šuša" 
-        intervals [43]:
-            xmin = 125.286 
-            xmax = 125.746 
-            text = "" 
-        intervals [44]:
-            xmin = 125.746 
-            xmax = 129.45 
-            text = "biš" 
-        intervals [45]:
-            xmin = 129.45 
-            xmax = 129.633 
-            text = "" 
-        intervals [46]:
-            xmin = 129.633 
-            xmax = 134.613 
-            text = "šiӀšni" 
-        intervals [47]:
-            xmin = 134.613 
-            xmax = 135.106 
-            text = "" 
-        intervals [48]:
-            xmin = 135.106 
-            xmax = 138.646 
-            text = "aӀnš" 
-        intervals [49]:
-            xmin = 138.646 
-            xmax = 138.953 
-            text = "" 
-        intervals [50]:
-            xmin = 138.953 
-            xmax = 142.877 
-            text = "š˳aš" 
-        intervals [51]:
-            xmin = 142.877 
-            xmax = 143.16 
-            text = "" 
-        intervals [52]:
-            xmin = 143.16 
-            xmax = 147.339 
-            text = "ʃ̄ikʼ˳" 
-        intervals [53]:
-            xmin = 147.339 
-            xmax = 147.633 
-            text = "" 
-        intervals [54]:
-            xmin = 147.633 
-            xmax = 152.653 
-            text = "čʼiʃ̄i" 
-        intervals [55]:
-            xmin = 152.653 
-            xmax = 153.513 
-            text = "" 
-        intervals [56]:
-            xmin = 153.513 
-            xmax = 163.34 
-            text = "ʃ̄aӀbi" 
-        intervals [57]:
-            xmin = 163.34 
-            xmax = 164.34 
-            text = "" 
-        intervals [58]:
-            xmin = 164.34 
-            xmax = 168.44 
-            text = "ʃ̄eӀnt" 
-        intervals [59]:
-            xmin = 168.44 
-            xmax = 168.86 
-            text = "" 
-        intervals [60]:
-            xmin = 168.86 
-            xmax = 175.36 
-            text = "š̄˳altʼ" 
-        intervals [61]:
-            xmin = 175.36 
-            xmax = 176.506 
-            text = "" 
-        intervals [62]:
-            xmin = 176.506 
-            xmax = 183.013 
-            text = "š̄˳aj" 
-        intervals [63]:
-            xmin = 183.013 
-            xmax = 183.506 
-            text = "" 
-        intervals [64]:
-            xmin = 183.506 
-            xmax = 186.96 
-            text = "nəɮdor" 
-        intervals [65]:
-            xmin = 186.96 
-            xmax = 187.573 
-            text = "" 
-        intervals [66]:
-            xmin = 187.573 
-            xmax = 196.42 
-            text = "naӀɮdut" 
-        intervals [67]:
-            xmin = 196.42 
-            xmax = 196.726 
-            text = "" 
-        intervals [68]:
-            xmin = 196.726 
-            xmax = 200.76 
-            text = "ʟʼeɮdut" 
-        intervals [69]:
-            xmin = 200.76 
-            xmax = 201.233 
-            text = "" 
-        intervals [70]:
-            xmin = 201.233 
-            xmax = 210.846 
-            text = "ɬob" 
-        intervals [71]:
-            xmin = 210.846 
-            xmax = 210.986 
-            text = "" 
-        intervals [72]:
-            xmin = 210.986 
-            xmax = 218.52 
-            text = "doɬum" 
-        intervals [73]:
-            xmin = 218.52 
-            xmax = 219.006 
-            text = "" 
-        intervals [74]:
-            xmin = 219.006 
-            xmax = 222.586 
-            text = "oɬ" 
-        intervals [75]:
-            xmin = 222.586 
-            xmax = 223.166 
-            text = "" 
-        intervals [76]:
-            xmin = 223.166 
-            xmax = 227.773 
-            text = "tʼinɬ" 
-        intervals [77]:
-            xmin = 227.773 
-            xmax = 228.04 
-            text = "" 
-        intervals [78]:
-            xmin = 228.04 
-            xmax = 248.246 
-            text = "ɬon" 
-        intervals [79]:
-            xmin = 248.246 
-            xmax = 248.386 
-            text = "" 
-        intervals [80]:
-            xmin = 248.386 
-            xmax = 252.293 
-            text = "ɬ˳alli" 
-        intervals [81]:
-            xmin = 252.293 
-            xmax = 252.813 
-            text = "" 
-        intervals [82]:
-            xmin = 252.813 
-            xmax = 256.74 
-            text = "diɬ˳" 
-        intervals [83]:
-            xmin = 256.74 
-            xmax = 257.413 
-            text = "" 
-        intervals [84]:
-            xmin = 257.413 
-            xmax = 260.946 
-            text = "ɬ̄an" 
-        intervals [85]:
-            xmin = 260.946 
-            xmax = 261.24 
-            text = "" 
-        intervals [86]:
-            xmin = 261.24 
-            xmax = 273.153 
-            text = "məɬ̄a" 
-        intervals [87]:
-            xmin = 273.153 
-            xmax = 273.266 
-            text = "" 
-        intervals [88]:
-            xmin = 273.266 
-            xmax = 277.033 
-            text = "eɬ̄as" 
-        intervals [89]:
-            xmin = 277.033 
-            xmax = 277.493 
-            text = "" 
-        intervals [90]:
-            xmin = 277.493 
-            xmax = 281.413 
-            text = "ɬ̄aӀmət̄u" 
-        intervals [91]:
-            xmin = 281.413 
-            xmax = 282.06 
-            text = "" 
-        intervals [92]:
-            xmin = 282.06 
-            xmax = 285.6 
-            text = "ɬ̄˳ak" 
-        intervals [93]:
-            xmin = 285.6 
-            xmax = 286.693 
-            text = "" 
-        intervals [94]:
-            xmin = 286.693 
-            xmax = 292.666 
-            text = "ɬ̄˳iri" 
-        intervals [95]:
-            xmin = 292.666 
-            xmax = 294.2 
-            text = "" 
-        intervals [96]:
-            xmin = 294.2 
-            xmax = 312.52 
-            text = "diɬ̄˳ili" 
-        intervals [97]:
-            xmin = 312.52 
-            xmax = 314.646 
-            text = "" 
-        intervals [98]:
-            xmin = 314.646 
-            xmax = 318.86 
-            text = "ʁat̄əra" 
-        intervals [99]:
-            xmin = 318.86 
-            xmax = 320.66 
-            text = "" 
-        intervals [100]:
-            xmin = 320.66 
-            xmax = 327.06 
-            text = "səʁri" 
-        intervals [101]:
-            xmin = 327.06 
-            xmax = 327.526 
-            text = "" 
-        intervals [102]:
-            xmin = 327.526 
-            xmax = 336.773 
-            text = "ʁӀemʁӀə-bos" 
-        intervals [103]:
-            xmin = 336.773 
-            xmax = 337.46 
-            text = "" 
-        intervals [104]:
-            xmin = 337.46 
-            xmax = 346.393 
-            text = "ʁӀəra" 
-        intervals [105]:
-            xmin = 346.393 
-            xmax = 346.693 
-            text = "" 
-        intervals [106]:
-            xmin = 346.693 
-            xmax = 351.493 
-            text = "ʁ˳ӀalqӀi" 
-        intervals [107]:
-            xmin = 351.493 
-            xmax = 352.686 
-            text = "" 
-        intervals [108]:
-            xmin = 352.686 
-            xmax = 356.26 
-            text = "iʁ˳dut" 
-        intervals [109]:
-            xmin = 356.26 
-            xmax = 357.04 
-            text = "" 
-        intervals [110]:
-            xmin = 357.04 
-            xmax = 360.746 
-            text = "χal" 
-        intervals [111]:
-            xmin = 360.746 
-            xmax = 361.566 
-            text = "" 
-        intervals [112]:
-            xmin = 361.566 
-            xmax = 366.481 
-            text = "daχon" 
-        intervals [113]:
-            xmin = 366.481 
-            xmax = 366.72 
-            text = "" 
-        intervals [114]:
-            xmin = 366.72 
-            xmax = 371.86 
-            text = "noχ" 
-        intervals [115]:
-            xmin = 371.86 
-            xmax = 372.76 
-            text = "" 
-        intervals [116]:
-            xmin = 372.76 
-            xmax = 376.693 
-            text = "χӀabχӀi" 
-        intervals [117]:
-            xmin = 376.693 
-            xmax = 377.1 
-            text = "" 
-        intervals [118]:
-            xmin = 377.1 
-            xmax = 385.693 
-            text = "χӀerχӀ" 
-        intervals [119]:
-            xmin = 385.693 
-            xmax = 386.686 
-            text = "" 
-        intervals [120]:
-            xmin = 386.686 
-            xmax = 396.013 
-            text = "χ˳arši" 
-        intervals [121]:
-            xmin = 396.013 
-            xmax = 396.393 
-            text = "" 
-        intervals [122]:
-            xmin = 396.393 
-            xmax = 405.593 
-            text = "naχ˳" 
-        intervals [123]:
-            xmin = 405.593 
-            xmax = 405.966 
-            text = "" 
-        intervals [124]:
-            xmin = 405.966 
-            xmax = 411.56 
-            text = "neχ˳i" 
-        intervals [125]:
-            xmin = 411.56 
-            xmax = 412.366 
-            text = "" 
-        intervals [126]:
-            xmin = 412.366 
-            xmax = 441.76 
-            text = "χ˳alur" 
-        intervals [127]:
-            xmin = 441.76 
-            xmax = 443.2 
-            text = "" 
-        intervals [128]:
-            xmin = 443.2 
-            xmax = 455.113 
-            text = "deχӀ˳" 
-        intervals [129]:
-            xmin = 455.113 
-            xmax = 455.506 
-            text = "" 
-        intervals [130]:
-            xmin = 455.506 
-            xmax = 459.24 
-            text = "χ̄ams" 
-        intervals [131]:
-            xmin = 459.24 
-            xmax = 460.26 
-            text = "" 
-        intervals [132]:
-            xmin = 460.26 
-            xmax = 463.94 
-            text = "duχ̄ur" 
-        intervals [133]:
-            xmin = 463.94 
-            xmax = 464.206 
-            text = "" 
-        intervals [134]:
-            xmin = 464.206 
-            xmax = 467.34 
-            text = "χӀel" 
-        intervals [135]:
-            xmin = 467.34 
-            xmax = 468.006 
-            text = "" 
-        intervals [136]:
-            xmin = 468.006 
-            xmax = 472.16 
-            text = "bəχ̄Ӏo" 
-        intervals [137]:
-            xmin = 472.16 
-            xmax = 472.673 
-            text = "" 
-        intervals [138]:
-            xmin = 472.673 
-            xmax = 476.084 
-            text = "χ̄˳ak" 
-        intervals [139]:
-            xmin = 476.084 
-            xmax = 476.953 
-            text = "" 
-        intervals [140]:
-            xmin = 476.953 
-            xmax = 482.01 
-            text = "χ̄I˳et’i" 
-        intervals [141]:
-            xmin = 482.01 
-            xmax = 482.76 
-            text = "" 
-        intervals [142]:
-            xmin = 482.76 
-            xmax = 501.89 
-            text = "χ̄˳ellut" 
-        intervals [143]:
-            xmin = 501.89 
-            xmax = 553.741 
-            text = "" 
-    item [3]:
-        class = "IntervalTier" 
-        name = "Phonemic-acc" 
+        name = "Token-Phonemic" 
         xmin = 0 
         xmax = 553.741 
         intervals: size = 319 
@@ -1207,7 +51,7 @@ item []:
         intervals [10]:
             xmin = 17.073 
             xmax = 18.093 
-            text = "zím-zu" 
+            text = "zímzu" 
         intervals [11]:
             xmin = 18.093 
             xmax = 18.52 
@@ -1215,7 +59,7 @@ item []:
         intervals [12]:
             xmin = 18.52 
             xmax = 19.506 
-            text = "zím-zu" 
+            text = "zímzu" 
         intervals [13]:
             xmin = 19.506 
             xmax = 22.726 
@@ -1223,7 +67,7 @@ item []:
         intervals [14]:
             xmin = 22.726 
             xmax = 23.873 
-            text = "qénz-bòs" 
+            text = "qénzbòs" 
         intervals [15]:
             xmin = 23.873 
             xmax = 24.346 
@@ -1231,7 +75,7 @@ item []:
         intervals [16]:
             xmin = 24.346 
             xmax = 25.46 
-            text = "qénz-bòs" 
+            text = "qénzbòs" 
         intervals [17]:
             xmin = 25.46 
             xmax = 28.066 
@@ -1239,7 +83,7 @@ item []:
         intervals [18]:
             xmin = 28.066 
             xmax = 29.206 
-            text = "zírʁ-bòs" 
+            text = "zírʁbòs" 
         intervals [19]:
             xmin = 29.206 
             xmax = 29.6 
@@ -1247,7 +91,7 @@ item []:
         intervals [20]:
             xmin = 29.6 
             xmax = 30.626 
-            text = "zírʁ-bòs" 
+            text = "zírʁbòs" 
         intervals [21]:
             xmin = 30.626 
             xmax = 34.7 
@@ -1271,7 +115,7 @@ item []:
         intervals [26]:
             xmin = 39.613 
             xmax = 40.606 
-            text = "mə-sól" 
+            text = "məsól" 
         intervals [27]:
             xmin = 40.606 
             xmax = 41.046 
@@ -1279,7 +123,7 @@ item []:
         intervals [28]:
             xmin = 41.046 
             xmax = 41.926 
-            text = "mə-sól" 
+            text = "məsól" 
         intervals [29]:
             xmin = 41.926 
             xmax = 47.62 
@@ -1367,7 +211,7 @@ item []:
         intervals [50]:
             xmin = 75.733 
             xmax = 76.68 
-            text = "sːírs-sːan" 
+            text = "sːírsːan" 
         intervals [51]:
             xmin = 76.68 
             xmax = 77.266 
@@ -1375,7 +219,7 @@ item []:
         intervals [52]:
             xmin = 77.266 
             xmax = 78.106 
-            text = "sːírs-sːan" 
+            text = "sːírsːan" 
         intervals [53]:
             xmin = 78.106 
             xmax = 80.106 
@@ -1383,7 +227,7 @@ item []:
         intervals [54]:
             xmin = 80.106 
             xmax = 81.06 
-            text = "ˀás-sːas" 
+            text = "ˀásːas" 
         intervals [55]:
             xmin = 81.06 
             xmax = 81.533 
@@ -1391,7 +235,7 @@ item []:
         intervals [56]:
             xmin = 81.533 
             xmax = 82.46 
-            text = "ˀás-sːas" 
+            text = "ˀásːas" 
         intervals [57]:
             xmin = 82.46 
             xmax = 84.233 
@@ -1415,7 +259,7 @@ item []:
         intervals [62]:
             xmin = 96.58 
             xmax = 97.693 
-            text = "ʁˤáʒ-bòs" 
+            text = "ʁˤáʒbòs" 
         intervals [63]:
             xmin = 97.693 
             xmax = 98.16 
@@ -1423,7 +267,7 @@ item []:
         intervals [64]:
             xmin = 98.16 
             xmax = 99.126 
-            text = "ʁˤáʒ-bòs" 
+            text = "ʁˤáʒbòs" 
         intervals [65]:
             xmin = 99.126 
             xmax = 101.093 
@@ -1431,7 +275,7 @@ item []:
         intervals [66]:
             xmin = 101.093 
             xmax = 102.06 
-            text = "háˤ-ʒə-la" 
+            text = "háˤʒəla" 
         intervals [67]:
             xmin = 102.06 
             xmax = 102.566 
@@ -1439,7 +283,7 @@ item []:
         intervals [68]:
             xmin = 102.566 
             xmax = 103.426 
-            text = "háˤ-ʒə-la" 
+            text = "háˤʒəla" 
         intervals [69]:
             xmin = 103.426 
             xmax = 106.053 
@@ -1463,7 +307,7 @@ item []:
         intervals [74]:
             xmin = 112.893 
             xmax = 114.06 
-            text = "ʒʷál-bòs" 
+            text = "ʒʷálbòs" 
         intervals [75]:
             xmin = 114.06 
             xmax = 114.226 
@@ -1471,7 +315,7 @@ item []:
         intervals [76]:
             xmin = 114.226 
             xmax = 115.346 
-            text = "ʒʷál-bòs" 
+            text = "ʒʷálbòs" 
         intervals [77]:
             xmin = 115.346 
             xmax = 117.88 
@@ -1479,7 +323,7 @@ item []:
         intervals [78]:
             xmin = 117.88 
             xmax = 118.86 
-            text = "ʃút-tːa" 
+            text = "ʃútːa" 
         intervals [79]:
             xmin = 118.86 
             xmax = 119.326 
@@ -1487,7 +331,7 @@ item []:
         intervals [80]:
             xmin = 119.326 
             xmax = 120.14 
-            text = "ʃút-tːa" 
+            text = "ʃútːa" 
         intervals [81]:
             xmin = 120.14 
             xmax = 122.96 
@@ -1495,7 +339,7 @@ item []:
         intervals [82]:
             xmin = 122.96 
             xmax = 123.8 
-            text = "ʃu-ʃá" 
+            text = "ʃuʃá" 
         intervals [83]:
             xmin = 123.8 
             xmax = 124.12 
@@ -1503,7 +347,7 @@ item []:
         intervals [84]:
             xmin = 124.12 
             xmax = 124.946 
-            text = "ʃu-ʃá" 
+            text = "ʃuʃá" 
         intervals [85]:
             xmin = 124.946 
             xmax = 126.866 
@@ -1527,7 +371,7 @@ item []:
         intervals [90]:
             xmin = 132.046 
             xmax = 133.053 
-            text = "ʃiˤʃ-ní" 
+            text = "ʃiˤʃní" 
         intervals [91]:
             xmin = 133.053 
             xmax = 133.22 
@@ -1535,7 +379,7 @@ item []:
         intervals [92]:
             xmin = 133.22 
             xmax = 134.213 
-            text = "ʃiˤʃ-ní" 
+            text = "ʃiˤʃní" 
         intervals [93]:
             xmin = 134.213 
             xmax = 136.286 
@@ -1591,7 +435,7 @@ item []:
         intervals [106]:
             xmin = 150.393 
             xmax = 151.273 
-            text = "ʧʼíʃ-ʃːi" 
+            text = "ʧʼíʃːi" 
         intervals [107]:
             xmin = 151.273 
             xmax = 151.526 
@@ -1599,7 +443,7 @@ item []:
         intervals [108]:
             xmin = 151.526 
             xmax = 152.42 
-            text = "ʧʼíʃ-ʃːi" 
+            text = "ʧʼíʃːi" 
         intervals [109]:
             xmin = 152.42 
             xmax = 154.68 
@@ -1607,7 +451,7 @@ item []:
         intervals [110]:
             xmin = 154.68 
             xmax = 155.726 
-            text = "dít-tːa-tʼu" 
+            text = "dítːatʼu" 
         intervals [111]:
             xmin = 155.726 
             xmax = 156.079 
@@ -1615,7 +459,7 @@ item []:
         intervals [112]:
             xmin = 156.079 
             xmax = 157.063 
-            text = "dít-tːa-tʼu" 
+            text = "dítːatʼu" 
         intervals [113]:
             xmin = 157.063 
             xmax = 160.933 
@@ -1623,7 +467,7 @@ item []:
         intervals [114]:
             xmin = 160.933 
             xmax = 161.846 
-            text = "ʃːáˤ-bi" 
+            text = "ʃːáˤbi" 
         intervals [115]:
             xmin = 161.846 
             xmax = 162.226 
@@ -1631,7 +475,7 @@ item []:
         intervals [116]:
             xmin = 162.226 
             xmax = 163.093 
-            text = "ʃːáˤ-bi" 
+            text = "ʃːáˤbi" 
         intervals [117]:
             xmin = 163.093 
             xmax = 166.113 
@@ -1687,7 +531,7 @@ item []:
         intervals [130]:
             xmin = 184.706 
             xmax = 185.553 
-            text = "nóɮ-dor" 
+            text = "nóɮdor" 
         intervals [131]:
             xmin = 185.553 
             xmax = 185.973 
@@ -1695,7 +539,7 @@ item []:
         intervals [132]:
             xmin = 185.973 
             xmax = 186.733 
-            text = "nóɮ-dor" 
+            text = "nóɮdor" 
         intervals [133]:
             xmin = 186.733 
             xmax = 189.26 
@@ -1703,7 +547,7 @@ item []:
         intervals [134]:
             xmin = 189.26 
             xmax = 190.426 
-            text = "ʧʼáng-dutʰ" 
+            text = "ʧʼángdutʰ" 
         intervals [135]:
             xmin = 190.426 
             xmax = 190.69 
@@ -1711,7 +555,7 @@ item []:
         intervals [136]:
             xmin = 190.69 
             xmax = 191.654 
-            text = "ʧʼáng-dutʰ" 
+            text = "ʧʼángdutʰ" 
         intervals [137]:
             xmin = 191.654 
             xmax = 193.3 
@@ -1719,7 +563,7 @@ item []:
         intervals [138]:
             xmin = 193.3 
             xmax = 194.473 
-            text = "náˤɮ-dutʰ" 
+            text = "náˤɮdutʰ" 
         intervals [139]:
             xmin = 194.473 
             xmax = 194.613 
@@ -1727,7 +571,7 @@ item []:
         intervals [140]:
             xmin = 194.613 
             xmax = 195.613 
-            text = "náˤɮ-dutʰ" 
+            text = "náˤɮdutʰ" 
         intervals [141]:
             xmin = 195.613 
             xmax = 198.106 
@@ -1735,7 +579,7 @@ item []:
         intervals [142]:
             xmin = 198.106 
             xmax = 199.206 
-            text = "kɬʼéɮ-dutʰ" 
+            text = "kɬʼéɮdutʰ" 
         intervals [143]:
             xmin = 199.206 
             xmax = 199.52 
@@ -1743,7 +587,7 @@ item []:
         intervals [144]:
             xmin = 199.52 
             xmax = 200.513 
-            text = "kɬʼéɮ-dutʰ" 
+            text = "kɬʼéɮdutʰ" 
         intervals [145]:
             xmin = 200.513 
             xmax = 206.313 
@@ -1767,7 +611,7 @@ item []:
         intervals [150]:
             xmin = 216.093 
             xmax = 216.86 
-            text = "dó-ɬum" 
+            text = "dóɬum" 
         intervals [151]:
             xmin = 216.86 
             xmax = 217.326 
@@ -1775,7 +619,7 @@ item []:
         intervals [152]:
             xmin = 217.326 
             xmax = 218.086 
-            text = "dó-ɬum" 
+            text = "dóɬum" 
         intervals [153]:
             xmin = 218.086 
             xmax = 220.52 
@@ -1815,7 +659,7 @@ item []:
         intervals [162]:
             xmin = 249.7 
             xmax = 250.666 
-            text = "ɬʷál-li" 
+            text = "ɬʷálli" 
         intervals [163]:
             xmin = 250.666 
             xmax = 251.033 
@@ -1823,7 +667,7 @@ item []:
         intervals [164]:
             xmin = 251.033 
             xmax = 251.953 
-            text = "ɬʷál-li" 
+            text = "ɬʷálli" 
         intervals [165]:
             xmin = 251.953 
             xmax = 254.573 
@@ -1863,7 +707,7 @@ item []:
         intervals [174]:
             xmin = 264.24 
             xmax = 265.126 
-            text = "ɬam-ʦʼá" 
+            text = "ɬamʦʼá" 
         intervals [175]:
             xmin = 265.126 
             xmax = 268.92 
@@ -1871,7 +715,7 @@ item []:
         intervals [176]:
             xmin = 268.92 
             xmax = 269.76 
-            text = "məɬ-ɬːá" 
+            text = "məɬːá" 
         intervals [177]:
             xmin = 269.76 
             xmax = 269.98 
@@ -1879,7 +723,7 @@ item []:
         intervals [178]:
             xmin = 269.98 
             xmax = 270.92 
-            text = "məɬ-ɬːá" 
+            text = "məɬːá" 
         intervals [179]:
             xmin = 270.92 
             xmax = 274.48 
@@ -1887,7 +731,7 @@ item []:
         intervals [180]:
             xmin = 274.48 
             xmax = 275.426 
-            text = "ˀéɬ-ɬːas" 
+            text = "ˀéɬːas" 
         intervals [181]:
             xmin = 275.426 
             xmax = 275.873 
@@ -1895,7 +739,7 @@ item []:
         intervals [182]:
             xmin = 275.873 
             xmax = 276.633 
-            text = "ˀéɬ-ɬːas" 
+            text = "ˀéɬːas" 
         intervals [183]:
             xmin = 276.633 
             xmax = 278.74 
@@ -1903,7 +747,7 @@ item []:
         intervals [184]:
             xmin = 278.74 
             xmax = 279.893 
-            text = "ɬːáˤ-mət-tːutʰ" 
+            text = "ɬːáˤmətːutʰ" 
         intervals [185]:
             xmin = 279.893 
             xmax = 280.12 
@@ -1911,7 +755,7 @@ item []:
         intervals [186]:
             xmin = 280.12 
             xmax = 281.221 
-            text = "ɬːáˤ-mət-tːu" 
+            text = "ɬːáˤmətːu" 
         intervals [187]:
             xmin = 281.221 
             xmax = 283.366 
@@ -1935,7 +779,7 @@ item []:
         intervals [192]:
             xmin = 290.553 
             xmax = 291.433 
-            text = "ɬːʷí-ri" 
+            text = "ɬːʷíri" 
         intervals [193]:
             xmin = 291.433 
             xmax = 291.653 
@@ -1943,7 +787,7 @@ item []:
         intervals [194]:
             xmin = 291.653 
             xmax = 292.48 
-            text = "ɬːʷí-ri" 
+            text = "ɬːʷíri" 
         intervals [195]:
             xmin = 292.48 
             xmax = 299.113 
@@ -1951,7 +795,7 @@ item []:
         intervals [196]:
             xmin = 299.113 
             xmax = 299.734 
-            text = "diɬʷ-ɬːʷí-li" 
+            text = "diɬːʷíli" 
         intervals [197]:
             xmin = 299.734 
             xmax = 300.865 
@@ -1959,7 +803,7 @@ item []:
         intervals [198]:
             xmin = 300.865 
             xmax = 301.471 
-            text = "diɬʷ-ɬːʷí-li" 
+            text = "diɬːʷíli" 
         intervals [199]:
             xmin = 301.471 
             xmax = 309.72 
@@ -1967,7 +811,7 @@ item []:
         intervals [200]:
             xmin = 309.72 
             xmax = 310.726 
-            text = "diɬʷ-ɬːʷí-li" 
+            text = "diɬːʷíli" 
         intervals [201]:
             xmin = 310.726 
             xmax = 311.12 
@@ -1975,7 +819,7 @@ item []:
         intervals [202]:
             xmin = 311.12 
             xmax = 311.88 
-            text = "diɬʷ-ɬːʷí-li" 
+            text = "diɬːʷíli" 
         intervals [203]:
             xmin = 311.88 
             xmax = 316.373 
@@ -1983,7 +827,7 @@ item []:
         intervals [204]:
             xmin = 316.373 
             xmax = 317.273 
-            text = "ʁát-tːə-ra" 
+            text = "ʁátːəra" 
         intervals [205]:
             xmin = 317.273 
             xmax = 317.806 
@@ -1991,7 +835,7 @@ item []:
         intervals [206]:
             xmin = 317.806 
             xmax = 318.706 
-            text = "ʁát-tːə-ra" 
+            text = "ʁátːəra" 
         intervals [207]:
             xmin = 318.706 
             xmax = 324.346 
@@ -1999,7 +843,7 @@ item []:
         intervals [208]:
             xmin = 324.346 
             xmax = 325.253 
-            text = "səʁ-rí" 
+            text = "səʁrí" 
         intervals [209]:
             xmin = 325.253 
             xmax = 325.749 
@@ -2007,7 +851,7 @@ item []:
         intervals [210]:
             xmin = 325.749 
             xmax = 326.519 
-            text = "səʁ-rí" 
+            text = "səʁrí" 
         intervals [211]:
             xmin = 326.519 
             xmax = 333.973 
@@ -2015,7 +859,7 @@ item []:
         intervals [212]:
             xmin = 333.973 
             xmax = 335.166 
-            text = "ʁˤém-ʁˤə-bòs" 
+            text = "ʁˤémʁˤəbòs" 
         intervals [213]:
             xmin = 335.166 
             xmax = 335.2 
@@ -2023,7 +867,7 @@ item []:
         intervals [214]:
             xmin = 335.2 
             xmax = 336.333 
-            text = "ʁˤém-ʁˤə-bòs" 
+            text = "ʁˤémʁˤəbòs" 
         intervals [215]:
             xmin = 336.333 
             xmax = 339.893 
@@ -2031,7 +875,7 @@ item []:
         intervals [216]:
             xmin = 339.893 
             xmax = 340.826 
-            text = "báˤ-kʼi" 
+            text = "báˤkʼi" 
         intervals [217]:
             xmin = 340.826 
             xmax = 341.355 
@@ -2039,7 +883,7 @@ item []:
         intervals [218]:
             xmin = 341.355 
             xmax = 342.144 
-            text = "báˤ-kʼi" 
+            text = "báˤkʼi" 
         intervals [219]:
             xmin = 342.144 
             xmax = 343.96 
@@ -2047,7 +891,7 @@ item []:
         intervals [220]:
             xmin = 343.96 
             xmax = 344.78 
-            text = "ʁˤə-rá" 
+            text = "ʁˤərá" 
         intervals [221]:
             xmin = 344.78 
             xmax = 344.86 
@@ -2055,7 +899,7 @@ item []:
         intervals [222]:
             xmin = 344.86 
             xmax = 345.673 
-            text = "ʁˤə-rá" 
+            text = "ʁˤərá" 
         intervals [223]:
             xmin = 345.673 
             xmax = 349.066 
@@ -2063,7 +907,7 @@ item []:
         intervals [224]:
             xmin = 349.066 
             xmax = 350.02 
-            text = "ʁʷˤál-qˤi" 
+            text = "ʁʷˤálqˤi" 
         intervals [225]:
             xmin = 350.02 
             xmax = 350.36 
@@ -2071,7 +915,7 @@ item []:
         intervals [226]:
             xmin = 350.36 
             xmax = 351.28 
-            text = "ʁʷˤál-qˤi" 
+            text = "ʁʷˤálqˤi" 
         intervals [227]:
             xmin = 351.28 
             xmax = 353.82 
@@ -2079,7 +923,7 @@ item []:
         intervals [228]:
             xmin = 353.82 
             xmax = 354.84 
-            text = "ˀíʁʷ-dutʰ" 
+            text = "ˀíʁʷdutʰ" 
         intervals [229]:
             xmin = 354.84 
             xmax = 355.12 
@@ -2087,7 +931,7 @@ item []:
         intervals [230]:
             xmin = 355.12 
             xmax = 356.028 
-            text = "ˀíʁʷ-dutʰ" 
+            text = "ˀíʁʷdutʰ" 
         intervals [231]:
             xmin = 356.028 
             xmax = 358.44 
@@ -2111,7 +955,7 @@ item []:
         intervals [236]:
             xmin = 363.624 
             xmax = 364.533 
-            text = "dá-χo-ni" 
+            text = "dáχoni" 
         intervals [237]:
             xmin = 364.533 
             xmax = 365.013 
@@ -2119,7 +963,7 @@ item []:
         intervals [238]:
             xmin = 365.013 
             xmax = 365.96 
-            text = "dá-χo-ni" 
+            text = "dáχoni" 
         intervals [239]:
             xmin = 365.96 
             xmax = 369.506 
@@ -2143,7 +987,7 @@ item []:
         intervals [244]:
             xmin = 374.093 
             xmax = 375.113 
-            text = "χˤáb-χˤi" 
+            text = "χˤábχˤi" 
         intervals [245]:
             xmin = 375.113 
             xmax = 375.533 
@@ -2151,7 +995,7 @@ item []:
         intervals [246]:
             xmin = 375.533 
             xmax = 376.446 
-            text = "χˤáb-χˤi" 
+            text = "χˤábχˤi" 
         intervals [247]:
             xmin = 376.446 
             xmax = 379.273 
@@ -2159,7 +1003,7 @@ item []:
         intervals [248]:
             xmin = 379.273 
             xmax = 380.086 
-            text = "tʰú-tʼi" 
+            text = "tʰútʼi" 
         intervals [249]:
             xmin = 380.086 
             xmax = 380.495 
@@ -2167,7 +1011,7 @@ item []:
         intervals [250]:
             xmin = 380.495 
             xmax = 381.308 
-            text = "tʰú-tʼi" 
+            text = "tʰútʼi" 
         intervals [251]:
             xmin = 381.308 
             xmax = 383.446 
@@ -2191,7 +1035,7 @@ item []:
         intervals [256]:
             xmin = 388.393 
             xmax = 389.38 
-            text = "mi-lí-χˤu" 
+            text = "milíχˤu" 
         intervals [257]:
             xmin = 389.38 
             xmax = 389.923 
@@ -2199,7 +1043,7 @@ item []:
         intervals [258]:
             xmin = 389.923 
             xmax = 390.764 
-            text = "mi-lí-χˤu" 
+            text = "milíχˤu" 
         intervals [259]:
             xmin = 390.764 
             xmax = 393.653 
@@ -2207,7 +1051,7 @@ item []:
         intervals [260]:
             xmin = 393.653 
             xmax = 394.606 
-            text = "χʷár-ʃi" 
+            text = "χʷárʃi" 
         intervals [261]:
             xmin = 394.606 
             xmax = 394.865 
@@ -2215,7 +1059,7 @@ item []:
         intervals [262]:
             xmin = 394.865 
             xmax = 395.818 
-            text = "χʷár-ʃi" 
+            text = "χʷárʃi" 
         intervals [263]:
             xmin = 395.818 
             xmax = 398.653 
@@ -2255,7 +1099,7 @@ item []:
         intervals [272]:
             xmin = 407.88 
             xmax = 409.406 
-            text = "né-χʷi#áː-ʦʼut-tːutʰ" 
+            text = "néχʷi#áːʦʼutːutʰ" 
         intervals [273]:
             xmin = 409.406 
             xmax = 409.85 
@@ -2263,7 +1107,7 @@ item []:
         intervals [274]:
             xmin = 409.85 
             xmax = 411.376 
-            text = "né-χʷi#áː-ʦʼut-tːutʰ" 
+            text = "néχʷi#áːʦʼutːutʰ" 
         intervals [275]:
             xmin = 411.376 
             xmax = 434.533 
@@ -2271,7 +1115,7 @@ item []:
         intervals [276]:
             xmin = 434.533 
             xmax = 435.278 
-            text = "tʰáʃ-ʃːaj" 
+            text = "tʰáʃːaj" 
         intervals [277]:
             xmin = 435.278 
             xmax = 436.764 
@@ -2279,7 +1123,7 @@ item []:
         intervals [278]:
             xmin = 436.764 
             xmax = 437.509 
-            text = "tʰáʃ-ʃːaj" 
+            text = "tʰáʃːaj" 
         intervals [279]:
             xmin = 437.509 
             xmax = 437.644 
@@ -2287,7 +1131,7 @@ item []:
         intervals [280]:
             xmin = 437.644 
             xmax = 438.389 
-            text = "tʰáʃ-ʃːaj" 
+            text = "tʰáʃːaj" 
         intervals [281]:
             xmin = 438.389 
             xmax = 440.24 
@@ -2295,7 +1139,7 @@ item []:
         intervals [282]:
             xmin = 440.24 
             xmax = 440.865 
-            text = "tʰáʃ-ʃːaj" 
+            text = "tʰáʃːaj" 
         intervals [283]:
             xmin = 440.865 
             xmax = 445.393 
@@ -2303,7 +1147,7 @@ item []:
         intervals [284]:
             xmin = 445.393 
             xmax = 446.447 
-            text = "ˀim-ʦʼəχʷ-χːʷál-li" 
+            text = "ˀimʦʼəχːʷálli" 
         intervals [285]:
             xmin = 446.447 
             xmax = 447.687 
@@ -2311,7 +1155,7 @@ item []:
         intervals [286]:
             xmin = 447.687 
             xmax = 448.418 
-            text = "kʼa-laχʷ-χːʷál-li" 
+            text = "kʼalaχːʷálli" 
         intervals [287]:
             xmin = 448.418 
             xmax = 452.826 
@@ -2351,7 +1195,7 @@ item []:
         intervals [296]:
             xmin = 461.626 
             xmax = 462.373 
-            text = "duχ-χːúr" 
+            text = "duχːúr" 
         intervals [297]:
             xmin = 462.373 
             xmax = 462.86 
@@ -2359,7 +1203,7 @@ item []:
         intervals [298]:
             xmin = 462.86 
             xmax = 463.646 
-            text = "duχ-χːúr" 
+            text = "duχːúr" 
         intervals [299]:
             xmin = 463.646 
             xmax = 465.08 
@@ -2383,7 +1227,7 @@ item []:
         intervals [304]:
             xmin = 469.846 
             xmax = 470.693 
-            text = "bəχˤ-χːˤó" 
+            text = "bəχːˤó" 
         intervals [305]:
             xmin = 470.693 
             xmax = 471.146 
@@ -2391,7 +1235,7 @@ item []:
         intervals [306]:
             xmin = 471.146 
             xmax = 471.933 
-            text = "bəχˤ-χːˤó" 
+            text = "bəχːˤó" 
         intervals [307]:
             xmin = 471.933 
             xmax = 473.746 
@@ -2415,7 +1259,7 @@ item []:
         intervals [312]:
             xmin = 479.726 
             xmax = 480.606 
-            text = "χːʷˤe-tʼi" 
+            text = "χːʷˤetʼi" 
         intervals [313]:
             xmin = 480.606 
             xmax = 481.028 
@@ -2423,7 +1267,7 @@ item []:
         intervals [314]:
             xmin = 481.028 
             xmax = 481.908 
-            text = "χːʷˤe-tʼi" 
+            text = "χːʷˤetʼi" 
         intervals [315]:
             xmin = 481.908 
             xmax = 498.5 
@@ -2431,7 +1275,7 @@ item []:
         intervals [316]:
             xmin = 498.5 
             xmax = 499.27 
-            text = "χːʷél-lutʰ" 
+            text = "χːʷéllutʰ" 
         intervals [317]:
             xmin = 499.27 
             xmax = 499.67 
@@ -2439,14 +1283,14 @@ item []:
         intervals [318]:
             xmin = 499.67 
             xmax = 500.62 
-            text = "χːʷél-lutʰ" 
+            text = "χːʷéllutʰ" 
         intervals [319]:
             xmin = 500.62 
             xmax = 553.741 
             text = "" 
-    item [4]:
+    item [2]:
         class = "IntervalTier" 
-        name = "Phonetic-acc" 
+        name = "Token-Phonetic" 
         xmin = 0 
         xmax = 553.741 
         intervals: size = 319 
@@ -3726,645 +2570,9 @@ item []:
             xmin = 500.62 
             xmax = 553.741 
             text = "" 
-    item [5]:
+    item [3]:
         class = "IntervalTier" 
-        name = "Russian" 
-        xmin = 0 
-        xmax = 553.741 
-        intervals: size = 143 
-        intervals [1]:
-            xmin = 0 
-            xmax = 4.328 
-            text = "" 
-        intervals [2]:
-            xmin = 4.328 
-            xmax = 7.985 
-            text = "я" 
-        intervals [3]:
-            xmin = 7.985 
-            xmax = 8.566 
-            text = "" 
-        intervals [4]:
-            xmin = 8.566 
-            xmax = 13.98 
-            text = "женский платок" 
-        intervals [5]:
-            xmin = 13.98 
-            xmax = 14.933 
-            text = "" 
-        intervals [6]:
-            xmin = 14.933 
-            xmax = 19.833 
-            text = "муравей" 
-        intervals [7]:
-            xmin = 19.833 
-            xmax = 20.84 
-            text = "" 
-        intervals [8]:
-            xmin = 20.84 
-            xmax = 25.833 
-            text = "прясть" 
-        intervals [9]:
-            xmin = 25.833 
-            xmax = 26.286 
-            text = "" 
-        intervals [10]:
-            xmin = 26.286 
-            xmax = 31.08 
-            text = "звенеть" 
-        intervals [11]:
-            xmin = 31.08 
-            xmax = 31.46 
-            text = "" 
-        intervals [12]:
-            xmin = 31.46 
-            xmax = 37.2 
-            text = "лиса" 
-        intervals [13]:
-            xmin = 37.2 
-            xmax = 37.513 
-            text = "" 
-        intervals [14]:
-            xmin = 37.513 
-            xmax = 42.393 
-            text = "надгробный камень" 
-        intervals [15]:
-            xmin = 42.393 
-            xmax = 43.246 
-            text = "" 
-        intervals [16]:
-            xmin = 43.246 
-            xmax = 49.96 
-            text = "пуговица" 
-        intervals [17]:
-            xmin = 49.96 
-            xmax = 50.2 
-            text = "" 
-        intervals [18]:
-            xmin = 50.2 
-            xmax = 54.08 
-            text = "бык" 
-        intervals [19]:
-            xmin = 54.08 
-            xmax = 54.58 
-            text = "" 
-        intervals [20]:
-            xmin = 54.58 
-            xmax = 62.22 
-            text = "поймать (1 кл.)" 
-        intervals [21]:
-            xmin = 62.22 
-            xmax = 63.2 
-            text = "" 
-        intervals [22]:
-            xmin = 63.2 
-            xmax = 70.486 
-            text = "желчь" 
-        intervals [23]:
-            xmin = 70.486 
-            xmax = 72.433 
-            text = "" 
-        intervals [24]:
-            xmin = 72.433 
-            xmax = 78.353 
-            text = "ус" 
-        intervals [25]:
-            xmin = 78.353 
-            xmax = 78.546 
-            text = "" 
-        intervals [26]:
-            xmin = 78.546 
-            xmax = 82.653 
-            text = "дрожать" 
-        intervals [27]:
-            xmin = 82.653 
-            xmax = 83.106 
-            text = "" 
-        intervals [28]:
-            xmin = 83.106 
-            xmax = 86.633 
-            text = "поймать (1 кл.)" 
-        intervals [29]:
-            xmin = 86.633 
-            xmax = 87.186 
-            text = "" 
-        intervals [30]:
-            xmin = 87.186 
-            xmax = 95.033 
-            text = "пиявка" 
-        intervals [31]:
-            xmin = 95.033 
-            xmax = 95.12 
-            text = "" 
-        intervals [32]:
-            xmin = 95.12 
-            xmax = 99.44 
-            text = "косить" 
-        intervals [33]:
-            xmin = 99.44 
-            xmax = 99.806 
-            text = "" 
-        intervals [34]:
-            xmin = 99.806 
-            xmax = 103.813 
-            text = "кукуруза" 
-        intervals [35]:
-            xmin = 103.813 
-            xmax = 104.146 
-            text = "" 
-        intervals [36]:
-            xmin = 104.146 
-            xmax = 108.186 
-            text = "вы" 
-        intervals [37]:
-            xmin = 108.186 
-            xmax = 108.466 
-            text = "" 
-        intervals [38]:
-            xmin = 108.466 
-            xmax = 115.72 
-            text = "ерзать" 
-        intervals [39]:
-            xmin = 115.72 
-            xmax = 116.493 
-            text = "" 
-        intervals [40]:
-            xmin = 116.493 
-            xmax = 120.493 
-            text = "завтра" 
-        intervals [41]:
-            xmin = 120.493 
-            xmax = 120.886 
-            text = "" 
-        intervals [42]:
-            xmin = 120.886 
-            xmax = 125.286 
-            text = "бутылка" 
-        intervals [43]:
-            xmin = 125.286 
-            xmax = 125.746 
-            text = "" 
-        intervals [44]:
-            xmin = 125.746 
-            xmax = 129.45 
-            text = "теленок" 
-        intervals [45]:
-            xmin = 129.45 
-            xmax = 129.633 
-            text = "" 
-        intervals [46]:
-            xmin = 129.633 
-            xmax = 134.613 
-            text = "сугроб" 
-        intervals [47]:
-            xmin = 134.613 
-            xmax = 135.106 
-            text = "" 
-        intervals [48]:
-            xmin = 135.106 
-            xmax = 138.646 
-            text = "яблоко" 
-        intervals [49]:
-            xmin = 138.646 
-            xmax = 138.953 
-            text = "" 
-        intervals [50]:
-            xmin = 138.953 
-            xmax = 142.877 
-            text = "в прошлом году" 
-        intervals [51]:
-            xmin = 142.877 
-            xmax = 143.16 
-            text = "" 
-        intervals [52]:
-            xmin = 143.16 
-            xmax = 147.339 
-            text = "пятка" 
-        intervals [53]:
-            xmin = 147.339 
-            xmax = 147.633 
-            text = "" 
-        intervals [54]:
-            xmin = 147.633 
-            xmax = 152.653 
-            text = "голос" 
-        intervals [55]:
-            xmin = 152.653 
-            xmax = 153.513 
-            text = "" 
-        intervals [56]:
-            xmin = 153.513 
-            xmax = 163.34 
-            text = "рана" 
-        intervals [57]:
-            xmin = 163.34 
-            xmax = 164.34 
-            text = "" 
-        intervals [58]:
-            xmin = 164.34 
-            xmax = 168.44 
-            text = "табурет" 
-        intervals [59]:
-            xmin = 168.44 
-            xmax = 168.86 
-            text = "" 
-        intervals [60]:
-            xmin = 168.86 
-            xmax = 175.36 
-            text = "волна" 
-        intervals [61]:
-            xmin = 175.36 
-            xmax = 176.506 
-            text = "" 
-        intervals [62]:
-            xmin = 176.506 
-            xmax = 183.013 
-            text = "тополь" 
-        intervals [63]:
-            xmin = 183.013 
-            xmax = 183.506 
-            text = "" 
-        intervals [64]:
-            xmin = 183.506 
-            xmax = 186.96 
-            text = "дом´а" 
-        intervals [65]:
-            xmin = 186.96 
-            xmax = 187.573 
-            text = "" 
-        intervals [66]:
-            xmin = 187.573 
-            xmax = 196.42 
-            text = "синий" 
-        intervals [67]:
-            xmin = 196.42 
-            xmax = 196.726 
-            text = "" 
-        intervals [68]:
-            xmin = 196.726 
-            xmax = 200.76 
-            text = "кривой" 
-        intervals [69]:
-            xmin = 200.76 
-            xmax = 201.233 
-            text = "" 
-        intervals [70]:
-            xmin = 201.233 
-            xmax = 210.846 
-            text = "ножны" 
-        intervals [71]:
-            xmin = 210.846 
-            xmax = 210.986 
-            text = "" 
-        intervals [72]:
-            xmin = 210.986 
-            xmax = 218.52 
-            text = "хлев" 
-        intervals [73]:
-            xmin = 218.52 
-            xmax = 219.006 
-            text = "" 
-        intervals [74]:
-            xmin = 219.006 
-            xmax = 222.586 
-            text = "шерсть" 
-        intervals [75]:
-            xmin = 222.586 
-            xmax = 223.166 
-            text = "" 
-        intervals [76]:
-            xmin = 223.166 
-            xmax = 227.773 
-            text = "прыщ" 
-        intervals [77]:
-            xmin = 227.773 
-            xmax = 228.04 
-            text = "" 
-        intervals [78]:
-            xmin = 228.04 
-            xmax = 248.246 
-            text = "косовица" 
-        intervals [79]:
-            xmin = 248.246 
-            xmax = 248.386 
-            text = "" 
-        intervals [80]:
-            xmin = 248.386 
-            xmax = 252.293 
-            text = "ущелье" 
-        intervals [81]:
-            xmin = 252.293 
-            xmax = 252.813 
-            text = "" 
-        intervals [82]:
-            xmin = 252.813 
-            xmax = 256.74 
-            text = "туча" 
-        intervals [83]:
-            xmin = 256.74 
-            xmax = 257.413 
-            text = "" 
-        intervals [84]:
-            xmin = 257.413 
-            xmax = 260.946 
-            text = "вода" 
-        intervals [85]:
-            xmin = 260.946 
-            xmax = 261.24 
-            text = "" 
-        intervals [86]:
-            xmin = 261.24 
-            xmax = 273.153 
-            text = "прут" 
-        intervals [87]:
-            xmin = 273.153 
-            xmax = 273.266 
-            text = "" 
-        intervals [88]:
-            xmin = 273.266 
-            xmax = 277.033 
-            text = "класть" 
-        intervals [89]:
-            xmin = 277.033 
-            xmax = 277.493 
-            text = "" 
-        intervals [90]:
-            xmin = 277.493 
-            xmax = 281.413 
-            text = "богатый (1)" 
-        intervals [91]:
-            xmin = 281.413 
-            xmax = 282.06 
-            text = "" 
-        intervals [92]:
-            xmin = 282.06 
-            xmax = 285.6 
-            text = "близко" 
-        intervals [93]:
-            xmin = 285.6 
-            xmax = 286.693 
-            text = "" 
-        intervals [94]:
-            xmin = 286.693 
-            xmax = 292.666 
-            text = "шрам" 
-        intervals [95]:
-            xmin = 292.666 
-            xmax = 294.2 
-            text = "" 
-        intervals [96]:
-            xmin = 294.2 
-            xmax = 312.52 
-            text = "туча (эрг)" 
-        intervals [97]:
-            xmin = 312.52 
-            xmax = 314.646 
-            text = "" 
-        intervals [98]:
-            xmin = 314.646 
-            xmax = 318.86 
-            text = "стадо коров" 
-        intervals [99]:
-            xmin = 318.86 
-            xmax = 320.66 
-            text = "" 
-        intervals [100]:
-            xmin = 320.66 
-            xmax = 327.06 
-            text = "шкура крупно-копытного" 
-        intervals [101]:
-            xmin = 327.06 
-            xmax = 327.526 
-            text = "" 
-        intervals [102]:
-            xmin = 327.526 
-            xmax = 336.773 
-            text = "огрызаться" 
-        intervals [103]:
-            xmin = 336.773 
-            xmax = 337.46 
-            text = "" 
-        intervals [104]:
-            xmin = 337.46 
-            xmax = 346.393 
-            text = "куча камней" 
-        intervals [105]:
-            xmin = 346.393 
-            xmax = 346.693 
-            text = "" 
-        intervals [106]:
-            xmin = 346.693 
-            xmax = 351.493 
-            text = "туман" 
-        intervals [107]:
-            xmin = 351.493 
-            xmax = 352.686 
-            text = "" 
-        intervals [108]:
-            xmin = 352.686 
-            xmax = 356.26 
-            text = "тяжелый" 
-        intervals [109]:
-            xmin = 356.26 
-            xmax = 357.04 
-            text = "" 
-        intervals [110]:
-            xmin = 357.04 
-            xmax = 360.746 
-            text = "нора" 
-        intervals [111]:
-            xmin = 360.746 
-            xmax = 361.566 
-            text = "" 
-        intervals [112]:
-            xmin = 361.566 
-            xmax = 366.481 
-            text = "зеркало" 
-        intervals [113]:
-            xmin = 366.481 
-            xmax = 366.72 
-            text = "" 
-        intervals [114]:
-            xmin = 366.72 
-            xmax = 371.86 
-            text = "пещера" 
-        intervals [115]:
-            xmin = 371.86 
-            xmax = 372.76 
-            text = "" 
-        intervals [116]:
-            xmin = 372.76 
-            xmax = 376.693 
-            text = "рыба" 
-        intervals [117]:
-            xmin = 376.693 
-            xmax = 377.1 
-            text = "" 
-        intervals [118]:
-            xmin = 377.1 
-            xmax = 385.693 
-            text = "слюна" 
-        intervals [119]:
-            xmin = 385.693 
-            xmax = 386.686 
-            text = "" 
-        intervals [120]:
-            xmin = 386.686 
-            xmax = 396.013 
-            text = "червь" 
-        intervals [121]:
-            xmin = 396.013 
-            xmax = 396.393 
-            text = "" 
-        intervals [122]:
-            xmin = 396.393 
-            xmax = 405.593 
-            text = "солома" 
-        intervals [123]:
-            xmin = 405.593 
-            xmax = 405.966 
-            text = "" 
-        intervals [124]:
-            xmin = 405.966 
-            xmax = 411.56 
-            text = "солома (эрг.)" 
-        intervals [125]:
-            xmin = 411.56 
-            xmax = 412.366 
-            text = "" 
-        intervals [126]:
-            xmin = 412.366 
-            xmax = 441.76 
-            text = "косы ведьмы" 
-        intervals [127]:
-            xmin = 441.76 
-            xmax = 443.2 
-            text = "" 
-        intervals [128]:
-            xmin = 443.2 
-            xmax = 455.113 
-            text = "жернов" 
-        intervals [129]:
-            xmin = 455.113 
-            xmax = 455.506 
-            text = "" 
-        intervals [130]:
-            xmin = 455.506 
-            xmax = 459.24 
-            text = "медведь" 
-        intervals [131]:
-            xmin = 459.24 
-            xmax = 460.26 
-            text = "" 
-        intervals [132]:
-            xmin = 460.26 
-            xmax = 463.94 
-            text = "аул" 
-        intervals [133]:
-            xmin = 463.94 
-            xmax = 464.206 
-            text = "" 
-        intervals [134]:
-            xmin = 464.206 
-            xmax = 467.34 
-            text = "дождь" 
-        intervals [135]:
-            xmin = 467.34 
-            xmax = 468.006 
-            text = "" 
-        intervals [136]:
-            xmin = 468.006 
-            xmax = 472.16 
-            text = "на охоте" 
-        intervals [137]:
-            xmin = 472.16 
-            xmax = 472.673 
-            text = "" 
-        intervals [138]:
-            xmin = 472.673 
-            xmax = 476.084 
-            text = "лес" 
-        intervals [139]:
-            xmin = 476.084 
-            xmax = 476.953 
-            text = "" 
-        intervals [140]:
-            xmin = 476.953 
-            xmax = 482.01 
-            text = "пеленка" 
-        intervals [141]:
-            xmin = 482.01 
-            xmax = 482.76 
-            text = "" 
-        intervals [142]:
-            xmin = 482.76 
-            xmax = 501.89 
-            text = "серый" 
-        intervals [143]:
-            xmin = 501.89 
-            xmax = 553.741 
-            text = "" 
-    item [6]:
-        class = "IntervalTier" 
-        name = "Notes-RI" 
-        xmin = 0 
-        xmax = 553.741 
-        intervals: size = 13 
-        intervals [1]:
-            xmin = 0 
-            xmax = 31.46 
-            text = "" 
-        intervals [2]:
-            xmin = 31.46 
-            xmax = 37.2 
-            text = "тут сильный вроде бы, исправляю" 
-        intervals [3]:
-            xmin = 37.2 
-            xmax = 87.186 
-            text = "" 
-        intervals [4]:
-            xmin = 87.186 
-            xmax = 95.033 
-            text = "не знает" 
-        intervals [5]:
-            xmin = 95.033 
-            xmax = 143.16 
-            text = "" 
-        intervals [6]:
-            xmin = 143.16 
-            xmax = 147.339 
-            text = "У Хадижат тоже нет лабиализации" 
-        intervals [7]:
-            xmin = 147.339 
-            xmax = 261.24 
-            text = "" 
-        intervals [8]:
-            xmin = 261.24 
-            xmax = 273.153 
-            text = "1 слово значит ""болото""." 
-        intervals [9]:
-            xmin = 273.153 
-            xmax = 412.366 
-            text = "" 
-        intervals [10]:
-            xmin = 412.366 
-            xmax = 441.76 
-            text = "тут есть фарингализация" 
-        intervals [11]:
-            xmin = 441.76 
-            xmax = 476.953 
-            text = "" 
-        intervals [12]:
-            xmin = 476.953 
-            xmax = 482.01 
-            text = "не по порядку???" 
-        intervals [13]:
-            xmin = 482.01 
-            xmax = 553.741 
-            text = "" 
-    item [7]:
-        class = "IntervalTier" 
-        name = "Phones" 
+        name = "Phone" 
         xmin = 0 
         xmax = 553.741 
         intervals: size = 909 
@@ -8004,13 +6212,1795 @@ item []:
             xmin = 500.62 
             xmax = 553.741 
             text = "" 
-    item [8]:
+    item [4]:
         class = "IntervalTier" 
-        name = "Stops" 
+        name = "Russian" 
         xmin = 0 
         xmax = 553.741 
-        intervals: size = 1 
+        intervals: size = 143 
         intervals [1]:
             xmin = 0 
+            xmax = 4.328 
+            text = "" 
+        intervals [2]:
+            xmin = 4.328 
+            xmax = 7.985 
+            text = "я" 
+        intervals [3]:
+            xmin = 7.985 
+            xmax = 8.566 
+            text = "" 
+        intervals [4]:
+            xmin = 8.566 
+            xmax = 13.98 
+            text = "женский платок" 
+        intervals [5]:
+            xmin = 13.98 
+            xmax = 14.933 
+            text = "" 
+        intervals [6]:
+            xmin = 14.933 
+            xmax = 19.833 
+            text = "муравей" 
+        intervals [7]:
+            xmin = 19.833 
+            xmax = 20.84 
+            text = "" 
+        intervals [8]:
+            xmin = 20.84 
+            xmax = 25.833 
+            text = "прясть" 
+        intervals [9]:
+            xmin = 25.833 
+            xmax = 26.286 
+            text = "" 
+        intervals [10]:
+            xmin = 26.286 
+            xmax = 31.08 
+            text = "звенеть" 
+        intervals [11]:
+            xmin = 31.08 
+            xmax = 31.46 
+            text = "" 
+        intervals [12]:
+            xmin = 31.46 
+            xmax = 37.2 
+            text = "лиса" 
+        intervals [13]:
+            xmin = 37.2 
+            xmax = 37.513 
+            text = "" 
+        intervals [14]:
+            xmin = 37.513 
+            xmax = 42.393 
+            text = "надгробный камень" 
+        intervals [15]:
+            xmin = 42.393 
+            xmax = 43.246 
+            text = "" 
+        intervals [16]:
+            xmin = 43.246 
+            xmax = 49.96 
+            text = "пуговица" 
+        intervals [17]:
+            xmin = 49.96 
+            xmax = 50.2 
+            text = "" 
+        intervals [18]:
+            xmin = 50.2 
+            xmax = 54.08 
+            text = "бык" 
+        intervals [19]:
+            xmin = 54.08 
+            xmax = 54.58 
+            text = "" 
+        intervals [20]:
+            xmin = 54.58 
+            xmax = 62.22 
+            text = "поймать (1 кл.)" 
+        intervals [21]:
+            xmin = 62.22 
+            xmax = 63.2 
+            text = "" 
+        intervals [22]:
+            xmin = 63.2 
+            xmax = 70.486 
+            text = "желчь" 
+        intervals [23]:
+            xmin = 70.486 
+            xmax = 72.433 
+            text = "" 
+        intervals [24]:
+            xmin = 72.433 
+            xmax = 78.353 
+            text = "ус" 
+        intervals [25]:
+            xmin = 78.353 
+            xmax = 78.546 
+            text = "" 
+        intervals [26]:
+            xmin = 78.546 
+            xmax = 82.653 
+            text = "дрожать" 
+        intervals [27]:
+            xmin = 82.653 
+            xmax = 83.106 
+            text = "" 
+        intervals [28]:
+            xmin = 83.106 
+            xmax = 86.633 
+            text = "поймать (1 кл.)" 
+        intervals [29]:
+            xmin = 86.633 
+            xmax = 87.186 
+            text = "" 
+        intervals [30]:
+            xmin = 87.186 
+            xmax = 95.033 
+            text = "пиявка" 
+        intervals [31]:
+            xmin = 95.033 
+            xmax = 95.12 
+            text = "" 
+        intervals [32]:
+            xmin = 95.12 
+            xmax = 99.44 
+            text = "косить" 
+        intervals [33]:
+            xmin = 99.44 
+            xmax = 99.806 
+            text = "" 
+        intervals [34]:
+            xmin = 99.806 
+            xmax = 103.813 
+            text = "кукуруза" 
+        intervals [35]:
+            xmin = 103.813 
+            xmax = 104.146 
+            text = "" 
+        intervals [36]:
+            xmin = 104.146 
+            xmax = 108.186 
+            text = "вы" 
+        intervals [37]:
+            xmin = 108.186 
+            xmax = 108.466 
+            text = "" 
+        intervals [38]:
+            xmin = 108.466 
+            xmax = 115.72 
+            text = "ерзать" 
+        intervals [39]:
+            xmin = 115.72 
+            xmax = 116.493 
+            text = "" 
+        intervals [40]:
+            xmin = 116.493 
+            xmax = 120.493 
+            text = "завтра" 
+        intervals [41]:
+            xmin = 120.493 
+            xmax = 120.886 
+            text = "" 
+        intervals [42]:
+            xmin = 120.886 
+            xmax = 125.286 
+            text = "бутылка" 
+        intervals [43]:
+            xmin = 125.286 
+            xmax = 125.746 
+            text = "" 
+        intervals [44]:
+            xmin = 125.746 
+            xmax = 129.45 
+            text = "теленок" 
+        intervals [45]:
+            xmin = 129.45 
+            xmax = 129.633 
+            text = "" 
+        intervals [46]:
+            xmin = 129.633 
+            xmax = 134.613 
+            text = "сугроб" 
+        intervals [47]:
+            xmin = 134.613 
+            xmax = 135.106 
+            text = "" 
+        intervals [48]:
+            xmin = 135.106 
+            xmax = 138.646 
+            text = "яблоко" 
+        intervals [49]:
+            xmin = 138.646 
+            xmax = 138.953 
+            text = "" 
+        intervals [50]:
+            xmin = 138.953 
+            xmax = 142.877 
+            text = "в прошлом году" 
+        intervals [51]:
+            xmin = 142.877 
+            xmax = 143.16 
+            text = "" 
+        intervals [52]:
+            xmin = 143.16 
+            xmax = 147.339 
+            text = "пятка" 
+        intervals [53]:
+            xmin = 147.339 
+            xmax = 147.633 
+            text = "" 
+        intervals [54]:
+            xmin = 147.633 
+            xmax = 152.653 
+            text = "голос" 
+        intervals [55]:
+            xmin = 152.653 
+            xmax = 153.513 
+            text = "" 
+        intervals [56]:
+            xmin = 153.513 
+            xmax = 163.34 
+            text = "рана" 
+        intervals [57]:
+            xmin = 163.34 
+            xmax = 164.34 
+            text = "" 
+        intervals [58]:
+            xmin = 164.34 
+            xmax = 168.44 
+            text = "табурет" 
+        intervals [59]:
+            xmin = 168.44 
+            xmax = 168.86 
+            text = "" 
+        intervals [60]:
+            xmin = 168.86 
+            xmax = 175.36 
+            text = "волна" 
+        intervals [61]:
+            xmin = 175.36 
+            xmax = 176.506 
+            text = "" 
+        intervals [62]:
+            xmin = 176.506 
+            xmax = 183.013 
+            text = "тополь" 
+        intervals [63]:
+            xmin = 183.013 
+            xmax = 183.506 
+            text = "" 
+        intervals [64]:
+            xmin = 183.506 
+            xmax = 186.96 
+            text = "дом´а" 
+        intervals [65]:
+            xmin = 186.96 
+            xmax = 187.573 
+            text = "" 
+        intervals [66]:
+            xmin = 187.573 
+            xmax = 196.42 
+            text = "синий" 
+        intervals [67]:
+            xmin = 196.42 
+            xmax = 196.726 
+            text = "" 
+        intervals [68]:
+            xmin = 196.726 
+            xmax = 200.76 
+            text = "кривой" 
+        intervals [69]:
+            xmin = 200.76 
+            xmax = 201.233 
+            text = "" 
+        intervals [70]:
+            xmin = 201.233 
+            xmax = 210.846 
+            text = "ножны" 
+        intervals [71]:
+            xmin = 210.846 
+            xmax = 210.986 
+            text = "" 
+        intervals [72]:
+            xmin = 210.986 
+            xmax = 218.52 
+            text = "хлев" 
+        intervals [73]:
+            xmin = 218.52 
+            xmax = 219.006 
+            text = "" 
+        intervals [74]:
+            xmin = 219.006 
+            xmax = 222.586 
+            text = "шерсть" 
+        intervals [75]:
+            xmin = 222.586 
+            xmax = 223.166 
+            text = "" 
+        intervals [76]:
+            xmin = 223.166 
+            xmax = 227.773 
+            text = "прыщ" 
+        intervals [77]:
+            xmin = 227.773 
+            xmax = 228.04 
+            text = "" 
+        intervals [78]:
+            xmin = 228.04 
+            xmax = 248.246 
+            text = "косовица" 
+        intervals [79]:
+            xmin = 248.246 
+            xmax = 248.386 
+            text = "" 
+        intervals [80]:
+            xmin = 248.386 
+            xmax = 252.293 
+            text = "ущелье" 
+        intervals [81]:
+            xmin = 252.293 
+            xmax = 252.813 
+            text = "" 
+        intervals [82]:
+            xmin = 252.813 
+            xmax = 256.74 
+            text = "туча" 
+        intervals [83]:
+            xmin = 256.74 
+            xmax = 257.413 
+            text = "" 
+        intervals [84]:
+            xmin = 257.413 
+            xmax = 260.946 
+            text = "вода" 
+        intervals [85]:
+            xmin = 260.946 
+            xmax = 261.24 
+            text = "" 
+        intervals [86]:
+            xmin = 261.24 
+            xmax = 273.153 
+            text = "прут" 
+        intervals [87]:
+            xmin = 273.153 
+            xmax = 273.266 
+            text = "" 
+        intervals [88]:
+            xmin = 273.266 
+            xmax = 277.033 
+            text = "класть" 
+        intervals [89]:
+            xmin = 277.033 
+            xmax = 277.493 
+            text = "" 
+        intervals [90]:
+            xmin = 277.493 
+            xmax = 281.413 
+            text = "богатый (1)" 
+        intervals [91]:
+            xmin = 281.413 
+            xmax = 282.06 
+            text = "" 
+        intervals [92]:
+            xmin = 282.06 
+            xmax = 285.6 
+            text = "близко" 
+        intervals [93]:
+            xmin = 285.6 
+            xmax = 286.693 
+            text = "" 
+        intervals [94]:
+            xmin = 286.693 
+            xmax = 292.666 
+            text = "шрам" 
+        intervals [95]:
+            xmin = 292.666 
+            xmax = 294.2 
+            text = "" 
+        intervals [96]:
+            xmin = 294.2 
+            xmax = 312.52 
+            text = "туча (эрг)" 
+        intervals [97]:
+            xmin = 312.52 
+            xmax = 314.646 
+            text = "" 
+        intervals [98]:
+            xmin = 314.646 
+            xmax = 318.86 
+            text = "стадо коров" 
+        intervals [99]:
+            xmin = 318.86 
+            xmax = 320.66 
+            text = "" 
+        intervals [100]:
+            xmin = 320.66 
+            xmax = 327.06 
+            text = "шкура крупно-копытного" 
+        intervals [101]:
+            xmin = 327.06 
+            xmax = 327.526 
+            text = "" 
+        intervals [102]:
+            xmin = 327.526 
+            xmax = 336.773 
+            text = "огрызаться" 
+        intervals [103]:
+            xmin = 336.773 
+            xmax = 337.46 
+            text = "" 
+        intervals [104]:
+            xmin = 337.46 
+            xmax = 346.393 
+            text = "куча камней" 
+        intervals [105]:
+            xmin = 346.393 
+            xmax = 346.693 
+            text = "" 
+        intervals [106]:
+            xmin = 346.693 
+            xmax = 351.493 
+            text = "туман" 
+        intervals [107]:
+            xmin = 351.493 
+            xmax = 352.686 
+            text = "" 
+        intervals [108]:
+            xmin = 352.686 
+            xmax = 356.26 
+            text = "тяжелый" 
+        intervals [109]:
+            xmin = 356.26 
+            xmax = 357.04 
+            text = "" 
+        intervals [110]:
+            xmin = 357.04 
+            xmax = 360.746 
+            text = "нора" 
+        intervals [111]:
+            xmin = 360.746 
+            xmax = 361.566 
+            text = "" 
+        intervals [112]:
+            xmin = 361.566 
+            xmax = 366.481 
+            text = "зеркало" 
+        intervals [113]:
+            xmin = 366.481 
+            xmax = 366.72 
+            text = "" 
+        intervals [114]:
+            xmin = 366.72 
+            xmax = 371.86 
+            text = "пещера" 
+        intervals [115]:
+            xmin = 371.86 
+            xmax = 372.76 
+            text = "" 
+        intervals [116]:
+            xmin = 372.76 
+            xmax = 376.693 
+            text = "рыба" 
+        intervals [117]:
+            xmin = 376.693 
+            xmax = 377.1 
+            text = "" 
+        intervals [118]:
+            xmin = 377.1 
+            xmax = 385.693 
+            text = "слюна" 
+        intervals [119]:
+            xmin = 385.693 
+            xmax = 386.686 
+            text = "" 
+        intervals [120]:
+            xmin = 386.686 
+            xmax = 396.013 
+            text = "червь" 
+        intervals [121]:
+            xmin = 396.013 
+            xmax = 396.393 
+            text = "" 
+        intervals [122]:
+            xmin = 396.393 
+            xmax = 405.593 
+            text = "солома" 
+        intervals [123]:
+            xmin = 405.593 
+            xmax = 405.966 
+            text = "" 
+        intervals [124]:
+            xmin = 405.966 
+            xmax = 411.56 
+            text = "солома (эрг.)" 
+        intervals [125]:
+            xmin = 411.56 
+            xmax = 412.366 
+            text = "" 
+        intervals [126]:
+            xmin = 412.366 
+            xmax = 441.76 
+            text = "косы ведьмы" 
+        intervals [127]:
+            xmin = 441.76 
+            xmax = 443.2 
+            text = "" 
+        intervals [128]:
+            xmin = 443.2 
+            xmax = 455.113 
+            text = "жернов" 
+        intervals [129]:
+            xmin = 455.113 
+            xmax = 455.506 
+            text = "" 
+        intervals [130]:
+            xmin = 455.506 
+            xmax = 459.24 
+            text = "медведь" 
+        intervals [131]:
+            xmin = 459.24 
+            xmax = 460.26 
+            text = "" 
+        intervals [132]:
+            xmin = 460.26 
+            xmax = 463.94 
+            text = "аул" 
+        intervals [133]:
+            xmin = 463.94 
+            xmax = 464.206 
+            text = "" 
+        intervals [134]:
+            xmin = 464.206 
+            xmax = 467.34 
+            text = "дождь" 
+        intervals [135]:
+            xmin = 467.34 
+            xmax = 468.006 
+            text = "" 
+        intervals [136]:
+            xmin = 468.006 
+            xmax = 472.16 
+            text = "на охоте" 
+        intervals [137]:
+            xmin = 472.16 
+            xmax = 472.673 
+            text = "" 
+        intervals [138]:
+            xmin = 472.673 
+            xmax = 476.084 
+            text = "лес" 
+        intervals [139]:
+            xmin = 476.084 
+            xmax = 476.953 
+            text = "" 
+        intervals [140]:
+            xmin = 476.953 
+            xmax = 482.01 
+            text = "пеленка" 
+        intervals [141]:
+            xmin = 482.01 
+            xmax = 482.76 
+            text = "" 
+        intervals [142]:
+            xmin = 482.76 
+            xmax = 501.89 
+            text = "серый" 
+        intervals [143]:
+            xmin = 501.89 
+            xmax = 553.741 
+            text = "" 
+    item [5]:
+        class = "IntervalTier" 
+        name = "Target-ID" 
+        xmin = 0 
+        xmax = 553.741 
+        intervals: size = 143 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.328 
+            text = "" 
+        intervals [2]:
+            xmin = 4.328 
+            xmax = 7.985 
+            text = "HDK-300" 
+        intervals [3]:
+            xmin = 7.985 
+            xmax = 8.566 
+            text = "" 
+        intervals [4]:
+            xmin = 8.566 
+            xmax = 13.98 
+            text = "HDK-301" 
+        intervals [5]:
+            xmin = 13.98 
+            xmax = 14.933 
+            text = "" 
+        intervals [6]:
+            xmin = 14.933 
+            xmax = 19.833 
+            text = "HDK-302" 
+        intervals [7]:
+            xmin = 19.833 
+            xmax = 20.84 
+            text = "" 
+        intervals [8]:
+            xmin = 20.84 
+            xmax = 25.833 
+            text = "HDK-303" 
+        intervals [9]:
+            xmin = 25.833 
+            xmax = 26.286 
+            text = "" 
+        intervals [10]:
+            xmin = 26.286 
+            xmax = 31.08 
+            text = "HDK-304" 
+        intervals [11]:
+            xmin = 31.08 
+            xmax = 31.46 
+            text = "" 
+        intervals [12]:
+            xmin = 31.46 
+            xmax = 37.2 
+            text = "HDK-305" 
+        intervals [13]:
+            xmin = 37.2 
+            xmax = 37.513 
+            text = "" 
+        intervals [14]:
+            xmin = 37.513 
+            xmax = 42.393 
+            text = "HDK-306" 
+        intervals [15]:
+            xmin = 42.393 
+            xmax = 43.246 
+            text = "" 
+        intervals [16]:
+            xmin = 43.246 
+            xmax = 49.96 
+            text = "HDK-307" 
+        intervals [17]:
+            xmin = 49.96 
+            xmax = 50.2 
+            text = "" 
+        intervals [18]:
+            xmin = 50.2 
+            xmax = 54.08 
+            text = "HDK-308" 
+        intervals [19]:
+            xmin = 54.08 
+            xmax = 54.58 
+            text = "" 
+        intervals [20]:
+            xmin = 54.58 
+            xmax = 62.22 
+            text = "HDK-309" 
+        intervals [21]:
+            xmin = 62.22 
+            xmax = 63.2 
+            text = "" 
+        intervals [22]:
+            xmin = 63.2 
+            xmax = 70.486 
+            text = "HDK-310" 
+        intervals [23]:
+            xmin = 70.486 
+            xmax = 72.433 
+            text = "" 
+        intervals [24]:
+            xmin = 72.433 
+            xmax = 78.353 
+            text = "HDK-311" 
+        intervals [25]:
+            xmin = 78.353 
+            xmax = 78.546 
+            text = "" 
+        intervals [26]:
+            xmin = 78.546 
+            xmax = 82.653 
+            text = "HDK-312" 
+        intervals [27]:
+            xmin = 82.653 
+            xmax = 83.106 
+            text = "" 
+        intervals [28]:
+            xmin = 83.106 
+            xmax = 86.633 
+            text = "HDK-309" 
+        intervals [29]:
+            xmin = 86.633 
+            xmax = 87.186 
+            text = "" 
+        intervals [30]:
+            xmin = 87.186 
+            xmax = 95.033 
+            text = "HDK-314" 
+        intervals [31]:
+            xmin = 95.033 
+            xmax = 95.12 
+            text = "" 
+        intervals [32]:
+            xmin = 95.12 
+            xmax = 99.44 
+            text = "HDK-315" 
+        intervals [33]:
+            xmin = 99.44 
+            xmax = 99.806 
+            text = "" 
+        intervals [34]:
+            xmin = 99.806 
+            xmax = 103.813 
+            text = "HDK-317" 
+        intervals [35]:
+            xmin = 103.813 
+            xmax = 104.146 
+            text = "" 
+        intervals [36]:
+            xmin = 104.146 
+            xmax = 108.186 
+            text = "HDK-318" 
+        intervals [37]:
+            xmin = 108.186 
+            xmax = 108.466 
+            text = "" 
+        intervals [38]:
+            xmin = 108.466 
+            xmax = 115.72 
+            text = "HDK-319" 
+        intervals [39]:
+            xmin = 115.72 
+            xmax = 116.493 
+            text = "" 
+        intervals [40]:
+            xmin = 116.493 
+            xmax = 120.493 
+            text = "HDK-320" 
+        intervals [41]:
+            xmin = 120.493 
+            xmax = 120.886 
+            text = "" 
+        intervals [42]:
+            xmin = 120.886 
+            xmax = 125.286 
+            text = "HDK-321" 
+        intervals [43]:
+            xmin = 125.286 
+            xmax = 125.746 
+            text = "" 
+        intervals [44]:
+            xmin = 125.746 
+            xmax = 129.45 
+            text = "HDK-322" 
+        intervals [45]:
+            xmin = 129.45 
+            xmax = 129.633 
+            text = "" 
+        intervals [46]:
+            xmin = 129.633 
+            xmax = 134.613 
+            text = "HDK-323" 
+        intervals [47]:
+            xmin = 134.613 
+            xmax = 135.106 
+            text = "" 
+        intervals [48]:
+            xmin = 135.106 
+            xmax = 138.646 
+            text = "HDK-324" 
+        intervals [49]:
+            xmin = 138.646 
+            xmax = 138.953 
+            text = "" 
+        intervals [50]:
+            xmin = 138.953 
+            xmax = 142.877 
+            text = "HDK-325" 
+        intervals [51]:
+            xmin = 142.877 
+            xmax = 143.16 
+            text = "" 
+        intervals [52]:
+            xmin = 143.16 
+            xmax = 147.339 
+            text = "HDK-326" 
+        intervals [53]:
+            xmin = 147.339 
+            xmax = 147.633 
+            text = "" 
+        intervals [54]:
+            xmin = 147.633 
+            xmax = 152.653 
+            text = "HDK-327" 
+        intervals [55]:
+            xmin = 152.653 
+            xmax = 153.513 
+            text = "" 
+        intervals [56]:
+            xmin = 153.513 
+            xmax = 163.34 
+            text = "HDK-328" 
+        intervals [57]:
+            xmin = 163.34 
+            xmax = 164.34 
+            text = "" 
+        intervals [58]:
+            xmin = 164.34 
+            xmax = 168.44 
+            text = "HDK-329" 
+        intervals [59]:
+            xmin = 168.44 
+            xmax = 168.86 
+            text = "" 
+        intervals [60]:
+            xmin = 168.86 
+            xmax = 175.36 
+            text = "HDK-330" 
+        intervals [61]:
+            xmin = 175.36 
+            xmax = 176.506 
+            text = "" 
+        intervals [62]:
+            xmin = 176.506 
+            xmax = 183.013 
+            text = "HDK-331" 
+        intervals [63]:
+            xmin = 183.013 
+            xmax = 183.506 
+            text = "" 
+        intervals [64]:
+            xmin = 183.506 
+            xmax = 186.96 
+            text = "HDK-332" 
+        intervals [65]:
+            xmin = 186.96 
+            xmax = 187.573 
+            text = "" 
+        intervals [66]:
+            xmin = 187.573 
+            xmax = 196.42 
+            text = "HDK-333" 
+        intervals [67]:
+            xmin = 196.42 
+            xmax = 196.726 
+            text = "" 
+        intervals [68]:
+            xmin = 196.726 
+            xmax = 200.76 
+            text = "HDK-334" 
+        intervals [69]:
+            xmin = 200.76 
+            xmax = 201.233 
+            text = "" 
+        intervals [70]:
+            xmin = 201.233 
+            xmax = 210.846 
+            text = "HDK-335" 
+        intervals [71]:
+            xmin = 210.846 
+            xmax = 210.986 
+            text = "" 
+        intervals [72]:
+            xmin = 210.986 
+            xmax = 218.52 
+            text = "HDK-336" 
+        intervals [73]:
+            xmin = 218.52 
+            xmax = 219.006 
+            text = "" 
+        intervals [74]:
+            xmin = 219.006 
+            xmax = 222.586 
+            text = "HDK-337" 
+        intervals [75]:
+            xmin = 222.586 
+            xmax = 223.166 
+            text = "" 
+        intervals [76]:
+            xmin = 223.166 
+            xmax = 227.773 
+            text = "HDK-338" 
+        intervals [77]:
+            xmin = 227.773 
+            xmax = 228.04 
+            text = "" 
+        intervals [78]:
+            xmin = 228.04 
+            xmax = 248.246 
+            text = "HDK-339" 
+        intervals [79]:
+            xmin = 248.246 
+            xmax = 248.386 
+            text = "" 
+        intervals [80]:
+            xmin = 248.386 
+            xmax = 252.293 
+            text = "HDK-340" 
+        intervals [81]:
+            xmin = 252.293 
+            xmax = 252.813 
+            text = "" 
+        intervals [82]:
+            xmin = 252.813 
+            xmax = 256.74 
+            text = "HDK-341" 
+        intervals [83]:
+            xmin = 256.74 
+            xmax = 257.413 
+            text = "" 
+        intervals [84]:
+            xmin = 257.413 
+            xmax = 260.946 
+            text = "HDK-342" 
+        intervals [85]:
+            xmin = 260.946 
+            xmax = 261.24 
+            text = "" 
+        intervals [86]:
+            xmin = 261.24 
+            xmax = 273.153 
+            text = "HDK-343" 
+        intervals [87]:
+            xmin = 273.153 
+            xmax = 273.266 
+            text = "" 
+        intervals [88]:
+            xmin = 273.266 
+            xmax = 277.033 
+            text = "HDK-344" 
+        intervals [89]:
+            xmin = 277.033 
+            xmax = 277.493 
+            text = "" 
+        intervals [90]:
+            xmin = 277.493 
+            xmax = 281.413 
+            text = "HDK-345" 
+        intervals [91]:
+            xmin = 281.413 
+            xmax = 282.06 
+            text = "" 
+        intervals [92]:
+            xmin = 282.06 
+            xmax = 285.6 
+            text = "HDK-346" 
+        intervals [93]:
+            xmin = 285.6 
+            xmax = 286.693 
+            text = "" 
+        intervals [94]:
+            xmin = 286.693 
+            xmax = 292.666 
+            text = "HDK-347" 
+        intervals [95]:
+            xmin = 292.666 
+            xmax = 294.2 
+            text = "" 
+        intervals [96]:
+            xmin = 294.2 
+            xmax = 312.52 
+            text = "HDK-348" 
+        intervals [97]:
+            xmin = 312.52 
+            xmax = 314.646 
+            text = "" 
+        intervals [98]:
+            xmin = 314.646 
+            xmax = 318.86 
+            text = "HDK-349" 
+        intervals [99]:
+            xmin = 318.86 
+            xmax = 320.66 
+            text = "" 
+        intervals [100]:
+            xmin = 320.66 
+            xmax = 327.06 
+            text = "HDK-350" 
+        intervals [101]:
+            xmin = 327.06 
+            xmax = 327.526 
+            text = "" 
+        intervals [102]:
+            xmin = 327.526 
+            xmax = 336.773 
+            text = "HDK-351" 
+        intervals [103]:
+            xmin = 336.773 
+            xmax = 337.46 
+            text = "" 
+        intervals [104]:
+            xmin = 337.46 
+            xmax = 346.393 
+            text = "HDK-352" 
+        intervals [105]:
+            xmin = 346.393 
+            xmax = 346.693 
+            text = "" 
+        intervals [106]:
+            xmin = 346.693 
+            xmax = 351.493 
+            text = "HDK-353" 
+        intervals [107]:
+            xmin = 351.493 
+            xmax = 352.686 
+            text = "" 
+        intervals [108]:
+            xmin = 352.686 
+            xmax = 356.26 
+            text = "HDK-354" 
+        intervals [109]:
+            xmin = 356.26 
+            xmax = 357.04 
+            text = "" 
+        intervals [110]:
+            xmin = 357.04 
+            xmax = 360.746 
+            text = "HDK-355" 
+        intervals [111]:
+            xmin = 360.746 
+            xmax = 361.566 
+            text = "" 
+        intervals [112]:
+            xmin = 361.566 
+            xmax = 366.481 
+            text = "HDK-356" 
+        intervals [113]:
+            xmin = 366.481 
+            xmax = 366.72 
+            text = "" 
+        intervals [114]:
+            xmin = 366.72 
+            xmax = 371.86 
+            text = "HDK-357" 
+        intervals [115]:
+            xmin = 371.86 
+            xmax = 372.76 
+            text = "" 
+        intervals [116]:
+            xmin = 372.76 
+            xmax = 376.693 
+            text = "HDK-358" 
+        intervals [117]:
+            xmin = 376.693 
+            xmax = 377.1 
+            text = "" 
+        intervals [118]:
+            xmin = 377.1 
+            xmax = 385.693 
+            text = "HDK-359" 
+        intervals [119]:
+            xmin = 385.693 
+            xmax = 386.686 
+            text = "" 
+        intervals [120]:
+            xmin = 386.686 
+            xmax = 396.013 
+            text = "HDK-360" 
+        intervals [121]:
+            xmin = 396.013 
+            xmax = 396.393 
+            text = "" 
+        intervals [122]:
+            xmin = 396.393 
+            xmax = 405.593 
+            text = "HDK-362" 
+        intervals [123]:
+            xmin = 405.593 
+            xmax = 405.966 
+            text = "" 
+        intervals [124]:
+            xmin = 405.966 
+            xmax = 411.56 
+            text = "HDK-361" 
+        intervals [125]:
+            xmin = 411.56 
+            xmax = 412.366 
+            text = "" 
+        intervals [126]:
+            xmin = 412.366 
+            xmax = 441.76 
+            text = "HDK-363" 
+        intervals [127]:
+            xmin = 441.76 
+            xmax = 443.2 
+            text = "" 
+        intervals [128]:
+            xmin = 443.2 
+            xmax = 455.113 
+            text = "HDK-364" 
+        intervals [129]:
+            xmin = 455.113 
+            xmax = 455.506 
+            text = "" 
+        intervals [130]:
+            xmin = 455.506 
+            xmax = 459.24 
+            text = "HDK-365" 
+        intervals [131]:
+            xmin = 459.24 
+            xmax = 460.26 
+            text = "" 
+        intervals [132]:
+            xmin = 460.26 
+            xmax = 463.94 
+            text = "HDK-366" 
+        intervals [133]:
+            xmin = 463.94 
+            xmax = 464.206 
+            text = "" 
+        intervals [134]:
+            xmin = 464.206 
+            xmax = 467.34 
+            text = "HDK-367" 
+        intervals [135]:
+            xmin = 467.34 
+            xmax = 468.006 
+            text = "" 
+        intervals [136]:
+            xmin = 468.006 
+            xmax = 472.16 
+            text = "HDK-368" 
+        intervals [137]:
+            xmin = 472.16 
+            xmax = 472.673 
+            text = "" 
+        intervals [138]:
+            xmin = 472.673 
+            xmax = 476.084 
+            text = "HDK-369" 
+        intervals [139]:
+            xmin = 476.084 
+            xmax = 476.953 
+            text = "" 
+        intervals [140]:
+            xmin = 476.953 
+            xmax = 482.01 
+            text = "HDK-???" 
+        intervals [141]:
+            xmin = 482.01 
+            xmax = 482.76 
+            text = "" 
+        intervals [142]:
+            xmin = 482.76 
+            xmax = 501.89 
+            text = "HDK-370" 
+        intervals [143]:
+            xmin = 501.89 
+            xmax = 553.741 
+            text = "" 
+    item [6]:
+        class = "IntervalTier" 
+        name = "Target-Phonemic" 
+        xmin = 0 
+        xmax = 553.741 
+        intervals: size = 143 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.328 
+            text = "" 
+        intervals [2]:
+            xmin = 4.328 
+            xmax = 7.985 
+            text = "zon" 
+        intervals [3]:
+            xmin = 7.985 
+            xmax = 8.566 
+            text = "" 
+        intervals [4]:
+            xmin = 8.566 
+            xmax = 13.98 
+            text = "kʼaz" 
+        intervals [5]:
+            xmin = 13.98 
+            xmax = 14.933 
+            text = "" 
+        intervals [6]:
+            xmin = 14.933 
+            xmax = 19.833 
+            text = "zimzu" 
+        intervals [7]:
+            xmin = 19.833 
+            xmax = 20.84 
+            text = "" 
+        intervals [8]:
+            xmin = 20.84 
+            xmax = 25.833 
+            text = "qenz-bos" 
+        intervals [9]:
+            xmin = 25.833 
+            xmax = 26.286 
+            text = "" 
+        intervals [10]:
+            xmin = 26.286 
+            xmax = 31.08 
+            text = "z˳arʁ-bos" 
+        intervals [11]:
+            xmin = 31.08 
+            xmax = 31.46 
+            text = "" 
+        intervals [12]:
+            xmin = 31.46 
+            xmax = 37.2 
+            text = "s̄ol" 
+        intervals [13]:
+            xmin = 37.2 
+            xmax = 37.513 
+            text = "" 
+        intervals [14]:
+            xmin = 37.513 
+            xmax = 42.393 
+            text = "məsol" 
+        intervals [15]:
+            xmin = 42.393 
+            xmax = 43.246 
+            text = "" 
+        intervals [16]:
+            xmin = 43.246 
+            xmax = 49.96 
+            text = "kus" 
+        intervals [17]:
+            xmin = 49.96 
+            xmax = 50.2 
+            text = "" 
+        intervals [18]:
+            xmin = 50.2 
+            xmax = 54.08 
+            text = "ans" 
+        intervals [19]:
+            xmin = 54.08 
+            xmax = 54.58 
+            text = "" 
+        intervals [20]:
+            xmin = 54.58 
+            xmax = 62.22 
+            text = "s˳as" 
+        intervals [21]:
+            xmin = 62.22 
+            xmax = 63.2 
+            text = "" 
+        intervals [22]:
+            xmin = 63.2 
+            xmax = 70.486 
+            text = "s̄am" 
+        intervals [23]:
+            xmin = 70.486 
+            xmax = 72.433 
+            text = "" 
+        intervals [24]:
+            xmin = 72.433 
+            xmax = 78.353 
+            text = "s̄irs̄an" 
+        intervals [25]:
+            xmin = 78.353 
+            xmax = 78.546 
+            text = "" 
+        intervals [26]:
+            xmin = 78.546 
+            xmax = 82.653 
+            text = "as̄as" 
+        intervals [27]:
+            xmin = 82.653 
+            xmax = 83.106 
+            text = "" 
+        intervals [28]:
+            xmin = 83.106 
+            xmax = 86.633 
+            text = "s˳as" 
+        intervals [29]:
+            xmin = 86.633 
+            xmax = 87.186 
+            text = "" 
+        intervals [30]:
+            xmin = 87.186 
+            xmax = 95.033 
+            text = "žinžru" 
+        intervals [31]:
+            xmin = 95.033 
+            xmax = 95.12 
+            text = "" 
+        intervals [32]:
+            xmin = 95.12 
+            xmax = 99.44 
+            text = "ʁӀaž-bos" 
+        intervals [33]:
+            xmin = 99.44 
+            xmax = 99.806 
+            text = "" 
+        intervals [34]:
+            xmin = 99.806 
+            xmax = 103.813 
+            text = "haӀžəla" 
+        intervals [35]:
+            xmin = 103.813 
+            xmax = 104.146 
+            text = "" 
+        intervals [36]:
+            xmin = 104.146 
+            xmax = 108.186 
+            text = "ž˳en" 
+        intervals [37]:
+            xmin = 108.186 
+            xmax = 108.466 
+            text = "" 
+        intervals [38]:
+            xmin = 108.466 
+            xmax = 115.72 
+            text = "ž˳al-bos" 
+        intervals [39]:
+            xmin = 115.72 
+            xmax = 116.493 
+            text = "" 
+        intervals [40]:
+            xmin = 116.493 
+            xmax = 120.493 
+            text = "šut̄a" 
+        intervals [41]:
+            xmin = 120.493 
+            xmax = 120.886 
+            text = "" 
+        intervals [42]:
+            xmin = 120.886 
+            xmax = 125.286 
+            text = "šuša" 
+        intervals [43]:
+            xmin = 125.286 
+            xmax = 125.746 
+            text = "" 
+        intervals [44]:
+            xmin = 125.746 
+            xmax = 129.45 
+            text = "biš" 
+        intervals [45]:
+            xmin = 129.45 
+            xmax = 129.633 
+            text = "" 
+        intervals [46]:
+            xmin = 129.633 
+            xmax = 134.613 
+            text = "šiӀšni" 
+        intervals [47]:
+            xmin = 134.613 
+            xmax = 135.106 
+            text = "" 
+        intervals [48]:
+            xmin = 135.106 
+            xmax = 138.646 
+            text = "aӀnš" 
+        intervals [49]:
+            xmin = 138.646 
+            xmax = 138.953 
+            text = "" 
+        intervals [50]:
+            xmin = 138.953 
+            xmax = 142.877 
+            text = "š˳aš" 
+        intervals [51]:
+            xmin = 142.877 
+            xmax = 143.16 
+            text = "" 
+        intervals [52]:
+            xmin = 143.16 
+            xmax = 147.339 
+            text = "ʃ̄ikʼ˳" 
+        intervals [53]:
+            xmin = 147.339 
+            xmax = 147.633 
+            text = "" 
+        intervals [54]:
+            xmin = 147.633 
+            xmax = 152.653 
+            text = "čʼiʃ̄i" 
+        intervals [55]:
+            xmin = 152.653 
+            xmax = 153.513 
+            text = "" 
+        intervals [56]:
+            xmin = 153.513 
+            xmax = 163.34 
+            text = "ʃ̄aӀbi" 
+        intervals [57]:
+            xmin = 163.34 
+            xmax = 164.34 
+            text = "" 
+        intervals [58]:
+            xmin = 164.34 
+            xmax = 168.44 
+            text = "ʃ̄eӀnt" 
+        intervals [59]:
+            xmin = 168.44 
+            xmax = 168.86 
+            text = "" 
+        intervals [60]:
+            xmin = 168.86 
+            xmax = 175.36 
+            text = "š̄˳altʼ" 
+        intervals [61]:
+            xmin = 175.36 
+            xmax = 176.506 
+            text = "" 
+        intervals [62]:
+            xmin = 176.506 
+            xmax = 183.013 
+            text = "š̄˳aj" 
+        intervals [63]:
+            xmin = 183.013 
+            xmax = 183.506 
+            text = "" 
+        intervals [64]:
+            xmin = 183.506 
+            xmax = 186.96 
+            text = "nəɮdor" 
+        intervals [65]:
+            xmin = 186.96 
+            xmax = 187.573 
+            text = "" 
+        intervals [66]:
+            xmin = 187.573 
+            xmax = 196.42 
+            text = "naӀɮdut" 
+        intervals [67]:
+            xmin = 196.42 
+            xmax = 196.726 
+            text = "" 
+        intervals [68]:
+            xmin = 196.726 
+            xmax = 200.76 
+            text = "ʟʼeɮdut" 
+        intervals [69]:
+            xmin = 200.76 
+            xmax = 201.233 
+            text = "" 
+        intervals [70]:
+            xmin = 201.233 
+            xmax = 210.846 
+            text = "ɬob" 
+        intervals [71]:
+            xmin = 210.846 
+            xmax = 210.986 
+            text = "" 
+        intervals [72]:
+            xmin = 210.986 
+            xmax = 218.52 
+            text = "doɬum" 
+        intervals [73]:
+            xmin = 218.52 
+            xmax = 219.006 
+            text = "" 
+        intervals [74]:
+            xmin = 219.006 
+            xmax = 222.586 
+            text = "oɬ" 
+        intervals [75]:
+            xmin = 222.586 
+            xmax = 223.166 
+            text = "" 
+        intervals [76]:
+            xmin = 223.166 
+            xmax = 227.773 
+            text = "tʼinɬ" 
+        intervals [77]:
+            xmin = 227.773 
+            xmax = 228.04 
+            text = "" 
+        intervals [78]:
+            xmin = 228.04 
+            xmax = 248.246 
+            text = "ɬon" 
+        intervals [79]:
+            xmin = 248.246 
+            xmax = 248.386 
+            text = "" 
+        intervals [80]:
+            xmin = 248.386 
+            xmax = 252.293 
+            text = "ɬ˳alli" 
+        intervals [81]:
+            xmin = 252.293 
+            xmax = 252.813 
+            text = "" 
+        intervals [82]:
+            xmin = 252.813 
+            xmax = 256.74 
+            text = "diɬ˳" 
+        intervals [83]:
+            xmin = 256.74 
+            xmax = 257.413 
+            text = "" 
+        intervals [84]:
+            xmin = 257.413 
+            xmax = 260.946 
+            text = "ɬ̄an" 
+        intervals [85]:
+            xmin = 260.946 
+            xmax = 261.24 
+            text = "" 
+        intervals [86]:
+            xmin = 261.24 
+            xmax = 273.153 
+            text = "məɬ̄a" 
+        intervals [87]:
+            xmin = 273.153 
+            xmax = 273.266 
+            text = "" 
+        intervals [88]:
+            xmin = 273.266 
+            xmax = 277.033 
+            text = "eɬ̄as" 
+        intervals [89]:
+            xmin = 277.033 
+            xmax = 277.493 
+            text = "" 
+        intervals [90]:
+            xmin = 277.493 
+            xmax = 281.413 
+            text = "ɬ̄aӀmət̄u" 
+        intervals [91]:
+            xmin = 281.413 
+            xmax = 282.06 
+            text = "" 
+        intervals [92]:
+            xmin = 282.06 
+            xmax = 285.6 
+            text = "ɬ̄˳ak" 
+        intervals [93]:
+            xmin = 285.6 
+            xmax = 286.693 
+            text = "" 
+        intervals [94]:
+            xmin = 286.693 
+            xmax = 292.666 
+            text = "ɬ̄˳iri" 
+        intervals [95]:
+            xmin = 292.666 
+            xmax = 294.2 
+            text = "" 
+        intervals [96]:
+            xmin = 294.2 
+            xmax = 312.52 
+            text = "diɬ̄˳ili" 
+        intervals [97]:
+            xmin = 312.52 
+            xmax = 314.646 
+            text = "" 
+        intervals [98]:
+            xmin = 314.646 
+            xmax = 318.86 
+            text = "ʁat̄əra" 
+        intervals [99]:
+            xmin = 318.86 
+            xmax = 320.66 
+            text = "" 
+        intervals [100]:
+            xmin = 320.66 
+            xmax = 327.06 
+            text = "səʁri" 
+        intervals [101]:
+            xmin = 327.06 
+            xmax = 327.526 
+            text = "" 
+        intervals [102]:
+            xmin = 327.526 
+            xmax = 336.773 
+            text = "ʁӀemʁӀə-bos" 
+        intervals [103]:
+            xmin = 336.773 
+            xmax = 337.46 
+            text = "" 
+        intervals [104]:
+            xmin = 337.46 
+            xmax = 346.393 
+            text = "ʁӀəra" 
+        intervals [105]:
+            xmin = 346.393 
+            xmax = 346.693 
+            text = "" 
+        intervals [106]:
+            xmin = 346.693 
+            xmax = 351.493 
+            text = "ʁ˳ӀalqӀi" 
+        intervals [107]:
+            xmin = 351.493 
+            xmax = 352.686 
+            text = "" 
+        intervals [108]:
+            xmin = 352.686 
+            xmax = 356.26 
+            text = "iʁ˳dut" 
+        intervals [109]:
+            xmin = 356.26 
+            xmax = 357.04 
+            text = "" 
+        intervals [110]:
+            xmin = 357.04 
+            xmax = 360.746 
+            text = "χal" 
+        intervals [111]:
+            xmin = 360.746 
+            xmax = 361.566 
+            text = "" 
+        intervals [112]:
+            xmin = 361.566 
+            xmax = 366.481 
+            text = "daχon" 
+        intervals [113]:
+            xmin = 366.481 
+            xmax = 366.72 
+            text = "" 
+        intervals [114]:
+            xmin = 366.72 
+            xmax = 371.86 
+            text = "noχ" 
+        intervals [115]:
+            xmin = 371.86 
+            xmax = 372.76 
+            text = "" 
+        intervals [116]:
+            xmin = 372.76 
+            xmax = 376.693 
+            text = "χӀabχӀi" 
+        intervals [117]:
+            xmin = 376.693 
+            xmax = 377.1 
+            text = "" 
+        intervals [118]:
+            xmin = 377.1 
+            xmax = 385.693 
+            text = "χӀerχӀ" 
+        intervals [119]:
+            xmin = 385.693 
+            xmax = 386.686 
+            text = "" 
+        intervals [120]:
+            xmin = 386.686 
+            xmax = 396.013 
+            text = "χ˳arši" 
+        intervals [121]:
+            xmin = 396.013 
+            xmax = 396.393 
+            text = "" 
+        intervals [122]:
+            xmin = 396.393 
+            xmax = 405.593 
+            text = "naχ˳" 
+        intervals [123]:
+            xmin = 405.593 
+            xmax = 405.966 
+            text = "" 
+        intervals [124]:
+            xmin = 405.966 
+            xmax = 411.56 
+            text = "neχ˳i" 
+        intervals [125]:
+            xmin = 411.56 
+            xmax = 412.366 
+            text = "" 
+        intervals [126]:
+            xmin = 412.366 
+            xmax = 441.76 
+            text = "χ˳alur" 
+        intervals [127]:
+            xmin = 441.76 
+            xmax = 443.2 
+            text = "" 
+        intervals [128]:
+            xmin = 443.2 
+            xmax = 455.113 
+            text = "deχӀ˳" 
+        intervals [129]:
+            xmin = 455.113 
+            xmax = 455.506 
+            text = "" 
+        intervals [130]:
+            xmin = 455.506 
+            xmax = 459.24 
+            text = "χ̄ams" 
+        intervals [131]:
+            xmin = 459.24 
+            xmax = 460.26 
+            text = "" 
+        intervals [132]:
+            xmin = 460.26 
+            xmax = 463.94 
+            text = "duχ̄ur" 
+        intervals [133]:
+            xmin = 463.94 
+            xmax = 464.206 
+            text = "" 
+        intervals [134]:
+            xmin = 464.206 
+            xmax = 467.34 
+            text = "χӀel" 
+        intervals [135]:
+            xmin = 467.34 
+            xmax = 468.006 
+            text = "" 
+        intervals [136]:
+            xmin = 468.006 
+            xmax = 472.16 
+            text = "bəχ̄Ӏo" 
+        intervals [137]:
+            xmin = 472.16 
+            xmax = 472.673 
+            text = "" 
+        intervals [138]:
+            xmin = 472.673 
+            xmax = 476.084 
+            text = "χ̄˳ak" 
+        intervals [139]:
+            xmin = 476.084 
+            xmax = 476.953 
+            text = "" 
+        intervals [140]:
+            xmin = 476.953 
+            xmax = 482.01 
+            text = "χ̄I˳et’i" 
+        intervals [141]:
+            xmin = 482.01 
+            xmax = 482.76 
+            text = "" 
+        intervals [142]:
+            xmin = 482.76 
+            xmax = 501.89 
+            text = "χ̄˳ellut" 
+        intervals [143]:
+            xmin = 501.89 
+            xmax = 553.741 
+            text = "" 
+    item [7]:
+        class = "IntervalTier" 
+        name = "Notes-RI" 
+        xmin = 0 
+        xmax = 553.741 
+        intervals: size = 13 
+        intervals [1]:
+            xmin = 0 
+            xmax = 31.46 
+            text = "" 
+        intervals [2]:
+            xmin = 31.46 
+            xmax = 37.2 
+            text = "тут сильный вроде бы, исправляю" 
+        intervals [3]:
+            xmin = 37.2 
+            xmax = 87.186 
+            text = "" 
+        intervals [4]:
+            xmin = 87.186 
+            xmax = 95.033 
+            text = "не знает" 
+        intervals [5]:
+            xmin = 95.033 
+            xmax = 143.16 
+            text = "" 
+        intervals [6]:
+            xmin = 143.16 
+            xmax = 147.339 
+            text = "У Хадижат тоже нет лабиализации" 
+        intervals [7]:
+            xmin = 147.339 
+            xmax = 261.24 
+            text = "" 
+        intervals [8]:
+            xmin = 261.24 
+            xmax = 273.153 
+            text = "1 слово значит ""болото""." 
+        intervals [9]:
+            xmin = 273.153 
+            xmax = 412.366 
+            text = "" 
+        intervals [10]:
+            xmin = 412.366 
+            xmax = 441.76 
+            text = "тут есть фарингализация" 
+        intervals [11]:
+            xmin = 441.76 
+            xmax = 476.953 
+            text = "" 
+        intervals [12]:
+            xmin = 476.953 
+            xmax = 482.01 
+            text = "не по порядку???" 
+        intervals [13]:
+            xmin = 482.01 
             xmax = 553.741 
             text = "" 
