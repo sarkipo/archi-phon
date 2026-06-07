@@ -1207,7 +1207,7 @@ item []:
         intervals [299]:
             xmin = 414.199 
             xmax = 414.709 
-            text = "ʔócʼ" 
+            text = "ʔóʦʼ" 
         intervals [300]:
             xmin = 414.709 
             xmax = 415.219 
@@ -1215,7 +1215,7 @@ item []:
         intervals [301]:
             xmin = 415.219 
             xmax = 415.699 
-            text = "ʔócʼ" 
+            text = "ʔóʦʼ" 
         intervals [302]:
             xmin = 415.699 
             xmax = 433.399 
@@ -1915,7 +1915,7 @@ item []:
         intervals [476]:
             xmin = 763.41 
             xmax = 764.57 
-            text = "baˤkʼoní" 
+            text = "báˤkʼoni" 
         intervals [477]:
             xmin = 764.57 
             xmax = 766.29 

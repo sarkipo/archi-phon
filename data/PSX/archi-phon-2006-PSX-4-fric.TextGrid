@@ -1650,10 +1650,10 @@ item []:
             text = "kɬʼúʕ-dutʰ" 
         intervals [410]:
             xmin = 600.507 
-            xmax = 601.316 
+            xmax = 601.3743712148955 
             text = "kɬʼúʕ-dutʰ" 
         intervals [411]:
-            xmin = 601.316 
+            xmin = 601.3743712148955 
             xmax = 605.242 
             text = "" 
         intervals [412]:
@@ -4020,10 +4020,10 @@ item []:
             text = "kɬʼúʕ-tutʰ" 
         intervals [410]:
             xmin = 600.507 
-            xmax = 601.316 
+            xmax = 601.3743712148955 
             text = "kɬʼúʕ-dutʰ" 
         intervals [411]:
-            xmin = 601.316 
+            xmin = 601.3743712148955 
             xmax = 605.242 
             text = "" 
         intervals [412]:
@@ -9422,10 +9422,10 @@ item []:
             text = "u" 
         intervals [1168]:
             xmin = 601.1811666666667 
-            xmax = 601.316 
+            xmax = 601.3743712148955 
             text = "tʰ" 
         intervals [1169]:
-            xmin = 601.316 
+            xmin = 601.3743712148955 
             xmax = 605.242 
             text = "" 
         intervals [1170]:
