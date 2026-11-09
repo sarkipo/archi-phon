@@ -1,7 +1,7 @@
 variable,input,comment
 inputDir,C:\GIT-CORPORA\phon-input\PSX,"Where are your sound files located?"
 outputDir,C:\GIT-CORPORA\archi-phon-praatsauce,"Where should the results be stored?"
-outputFile,praatsauce-PSX.tsv,"Results should be stored under which file name?"
+outputFile,praatsauce-PSX-vowels.tsv,"Results should be stored under which file name?"
 soundExt,wav,"Sound file extension"
 channel,1,"If you only want to analyze one channel, enter it here (or 0 for stereo)"
 intervalEquidistant,5,"At how many equidistant points should measurements be taken? Input 0 to take measurements at every n milliseonds"
