@@ -1,2 +1,5 @@
 *.pfsx
+*.lnk
 .Rproj.user
+.RData
+.Rhistory
